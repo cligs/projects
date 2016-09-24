@@ -4,7 +4,7 @@ distance-measures
 
 ## Description
 
-Illustration of two three vector similarity measures, Euclidean distance (ΔE) and Manhattan distance (ΔM) as well as the angle α used for the Cosine distance.
+Illustration of three vector similarity measures, Euclidean distance (ΔE) and Manhattan distance (ΔM) as well as the angle α used for the Cosine distance.
 
 ## Metadata
 
