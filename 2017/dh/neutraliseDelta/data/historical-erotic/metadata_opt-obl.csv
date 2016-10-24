@@ -1,0 +1,80 @@
+,idno,author-name,author-gender,title,year,supergenre,genre,genre-subtitle,availability,subgenre,form,decade
+ne0007,ne0007,Sawa,male,MujerMundo,1885,narrative,novel,n.av.,free,erotic,prose,1880
+ne0008,ne0008,Zamacois,male,Enferma,1896,narrative,novel,Novela,free,erotic,prose,1890
+ne0013,ne0013,Valle,male,SonataOtono,1902,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,prose,1900
+ne0014,ne0014,Valle,male,SonataEstio,1903,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,prose,1900
+ne0016,ne0016,Valle,male,SonataPrimavera,1904,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,prose,1900
+ne0017,ne0017,Valle,male,FlordeSantidad,1904,narrative,novel,Historia milenaria,restricted,erotic,prose,1900
+ne0018,ne0018,Valle,male,SonataInvierno,1905,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,prose,1900
+ne0020,ne0020,Valle,male,CruzadosCausa,1908,narrative,novel,La guerra carlista,restricted,historical,prose,1900
+ne0021,ne0021,Valle,male,ResplandorHoguera,1909,narrative,novel,La guerra carlista,restricted,historical,prose,1900
+ne0022,ne0022,Valle,male,GerifaltesAntano,1909,narrative,novel,la guerra carlista,restricted,historical,prose,1900
+ne0026,ne0026,Zamacois,male,Incesto,1900,narrative,novel,Novela original,free,erotic,prose,1900
+ne0029,ne0029,Galdos,male,Prohibido,1884,narrative,novel,n.av.,free,erotic,prose,1880
+ne0030,ne0030,Valle,male,TiranoBanderas,1926,narrative,novel,Novela de tierra caliente,restricted,historical,prose,1920
+ne0033,ne0033,Valle,male,Corte,1927,narrative,novel,n.av.,restricted,historical,prose,1920
+ne0035,ne0035,Valle,male,Viva,1928,narrative,novel,n.av.,restricted,historical,prose,1920
+ne0036,ne0036,Valle,male,Baza,1932,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0037,ne0037,Valle,male,MediaNoche,1917,narrative,novel,visión estelar de un momento de guerra,restricted,historical,prose,1910
+ne0040,ne0040,Miro,male,MujerOjeda,1901,narrative,novel,Ensayo de novela,free,erotic,prose,1900
+ne0045,ne0045,Miro,male,PalmaRota,1909,narrative,novel,n.av.,free,erotic,prose,1900
+ne0048,ne0048,Miro,male,Cerezas,1910,narrative,novel,n.av.,free,erotic,prose,1910
+ne0053,ne0053,Miro,male,DentroCercado,1916,narrative,novel,n.av.,free,erotic,prose,1910
+ne0054,ne0054,Miro,male,Pasion1,1916,narrative,novel,n.av.,free,historical,prose,1910
+ne0055,ne0055,Miro,male,Pasion2,1917,narrative,novel,n.av.,free,historical,prose,1910
+ne0079,ne0079,Bazan,female,Insolacion,1889,narrative,novel,Historia amorosa,free,erotic,prose,1880
+ne0081,ne0081,Bazan,female,Solteron,1890,narrative,novel,Adán y Eva (Ciclo),free,erotic,prose,1890
+ne0084,ne0084,Bazan,female,Quimera,1905,narrative,novel,n.av.,free,erotic,prose,1900
+ne0085,ne0085,Bazan,female,Sirena,1908,narrative,novel,n.av.,free,erotic,prose,1900
+ne0107,ne0107,Bazan,female,Misterio,1902,narrative,novel,n.av.,free,historical,prose,1900
+ne0110,ne0110,Baroja,male,Amores,1927,narrative,novel,Agonías de nuestro tiempo,restricted,erotic,prose,1920
+ne0114,ne0114,Unamuno,male,PazGuerra,1897,narrative,novel,n.av.,restricted,historical,prose,1890
+ne0115,ne0115,Baroja,male,Aviraneta,1931,narrative,essay,n.av.,restricted,historical,prose,1930
+ne0117,ne0117,Baroja,male,Caminos,1914,narrative,collection_short_novels,n.av.,restricted,historical,prose,1910
+ne0120,ne0120,RdCastro,female,Loco,1881,narrative,novel,n.av.,free,erotic,prose,1880
+ne0124,ne0124,Sender,male,Iman,1930,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0125,ne0125,Sender,male,Crimen,1934,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0126,ne0126,Sender,male,Domingos,1932,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0130,ne0130,Ganivet,male,Maya,1897,narrative,novel,por el último conquistador español Pio Cid ,free,historical,prose,1890
+ne0141,ne0141,WFFlorez,male,Volvoreta,1917,narrative,novel,n.av.,restricted,erotic,prose,1910
+ne0144,ne0144,Pereda,male,Pedro,1883,narrative,novel,n.av.,free,historical,prose,1880
+ne0155,ne0155,Picon,male,Dulce,1891,narrative,novel,n.av.,free,erotic,prose,1890
+ne0160,ne0160,Trigo,male,Frio,1906,narrative,novel,Ellas a bordo,free,erotic,prose,1900
+ne0165,ne0165,BlascoIbanez,male,Apocalipsis,1916,narrative,novel,Novela,free,historical,prose,1910
+ne0167,ne0167,Serna,male,Hotel,1922,narrative,novel,Novela grande,restricted,erotic,prose,1920
+ne0169,ne0169,Serna,male,Viuda,1917,narrative,novel,Novela,restricted,erotic,prose,1910
+ne0170,ne0170,Clarin,male,Cuesta,1891,narrative,novel,n.av.,free,erotic,prose,1890
+ne0185,ne0185,RPAyala,male,Tinieblas,1907,narrative,novel,Historias de libertinaje. Virginibus puerisque. Novela póstuma de Plotino Cuevas,restricted,erotic,prose,1900
+ne0192,ne0192,Lanza,male,Artuna,1893,narrative,novel,n.av.,free,erotic,prose,1890
+ne0215,ne0215,Dario,male,HombreOro,1897,narrative,novel,n.av.,free,historical,prose,1890
+ne0219,ne0219,Herrera,male,Acera,1938,narrative,novel,Epopeya,restricted,historical,prose,1930
+ne0221,ne0221,Selgas,male,Nona,1883,narrative,novel,novela póstuma,free,erotic,prose,1880
+ne0223,ne0223,Bacarisse,male,TerriblesAmores,1931,narrative,novel,Novela,free,erotic,prose,1930
+ne0226,ne0226,Trigo,male,SiSePorQue,1916,narrative,novel,Novela,free,erotic,prose,1910
+ne0228,ne0228,Trigo,male,Carrera,1909,narrative,novel,n.av.,free,erotic,prose,1900
+ne0232,ne0232,Baroja,male,Alzate,1922,narrative,novel,n.av.,restricted,historical,dialogue,1920
+ne0239,ne0239,Baroja,male,Romanticos,1906,narrative,novel,n.av.,restricted,historical,prose,1900
+ne0240,ne0240,Baroja,male,Tragedias,1907,narrative,novel,n.av.,restricted,historical,prose,1900
+ne0246,ne0246,Baroja,male,Venganza,1921,narrative,novel,n.av.,restricted,historical,prose,1920
+ne0247,ne0247,Baroja,male,Cronica,1935,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0248,ne0248,Baroja,male,Visionarios,1932,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0254,ne0254,BlascoIbanez,male,Sonnica,1901,narrative,novel,n.av.,free,historical,prose,1900
+ne0264,ne0264,BlascoIbanez,male,MareNostrum,1918,narrative,novel,(Novela),free,historical,prose,1910
+ne0265,ne0265,BlascoIbanez,male,EnemigosMujer,1919,narrative,novel,n.av.,free,historical,prose,1910
+ne0267,ne0267,BlascoIbanez,male,PapaMar,1925,narrative,novel,n.av.,free,historical,prose,1920
+ne0269,ne0269,BlascoIbanez,male,BuscaKan,1928,narrative,novel,n.av.,free,historical,prose,1920
+ne0270,ne0270,BlascoIbanez,male,CaballeroVirgen,1929,narrative,novel,n.av.,free,historical,prose,1920
+ne0277,ne0277,Galdos,male,Medizabal,1898,narrative,novel,"Episodios nacionales, libro segundo de la serie tercera",free,historical,prose,1890
+ne0278,ne0278,Galdos,male,Luchana,1899,narrative,novel,"Episodios nacionales, libro cuarto de la serie tercera",free,historical,prose,1890
+ne0279,ne0279,Galdos,male,Estafeta,1899,narrative,novel,"Episodios nacionales, libro sexto de la serie tercera",free,historical,prose,1890
+ne0280,ne0280,Galdos,male,BodasReales,1900,narrative,novel,"Episodios nacionales, libro décimo de la serie tercera",free,historical,prose,1900
+ne0281,ne0281,Galdos,male,Narvaez,1902,narrative,novel,"Episodios nacionales, libro segundo de la serie cuarta",free,historical,prose,1900
+ne0282,ne0282,Galdos,male,Odonell,1904,narrative,novel,"Episodios nacionales, libro quinto de la serie cuarta",free,historical,prose,1900
+ne0283,ne0283,Galdos,male,VueltaNumancia,1906,narrative,novel,"Episodios nacionales, libro octavo de la serie cuarta",free,historical,prose,1900
+ne0292,ne0292,Sender,male,WittCanton,1935,narrative,novel,novela,restricted,historical,prose,1930
+ne0293,ne0293,Sender,male,LugarHombre,1939,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0299,ne0299,Pereda,male,Pachin,1896,narrative,novel,n.av.,free,historical,prose,1890
+ne0302,ne0302,Baroja,male,DamaErrante,1908,narrative,novel,n.av.,restricted,historical,prose,1900
+ne0307,ne0307,Valdes,male,Senorito,1881,narrative,novel,Novela sin pesamiento trascendental,restricted,erotic,prose,1880
+ne0311,ne0311,Valdes,male,MajosCadiz,1896,narrative,novel,novela de costumbres,restricted,erotic,prose,1890
+ne0318,ne0318,Trigo,male,MediaNaranja,1910,narrative,novel,n.av.,free,erotic,prose,1910

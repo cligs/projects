@@ -1,0 +1,15 @@
+,idno,author-name,author-gender,title,year,supergenre,genre,genre-subtitle,availability,subgenre,genre-label,narrative-perspective,narrator,protagonist-gender,setting,subsubgenre,form,decade
+ne0013,ne0013,Valle,male,SonataOtono,1902,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,memoria,autodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0014,ne0014,Valle,male,SonataEstio,1903,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,memoria,autodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0016,ne0016,Valle,male,SonataPrimavera,1904,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,memoria,autodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0020,ne0020,Valle,male,CruzadosCausa,1908,narrative,novel,La guerra carlista,restricted,historical,n.av.,heterodiegetic,third-person,male,rural,n.av.,prose,1900
+ne0022,ne0022,Valle,male,GerifaltesAntano,1909,narrative,novel,la guerra carlista,restricted,historical,n.av.,heterodiegetic,third-person,male,rural,n.av.,prose,1900
+ne0045,ne0045,Miro,male,PalmaRota,1909,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1900
+ne0048,ne0048,Miro,male,Cerezas,1910,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,male,rural,n.av.,prose,1910
+ne0054,ne0054,Miro,male,Pasion1,1916,narrative,novel,n.av.,free,historical,figuras,heterodiegetic,third-person,male,big-city,n.av.,prose,1910
+ne0055,ne0055,Miro,male,Pasion2,1917,narrative,novel,n.av.,free,historical,figuras,heterodiegetic,third-person,male,big-city,n.av.,prose,1910
+ne0065,ne0065,Baroja,male,AuroraRoja,1904,narrative,novel,La lucha por la vida 3,restricted,realist,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1900
+ne0115,ne0115,Baroja,male,Aviraneta,1931,narrative,essay,n.av.,restricted,historical,n.av.,heterodiegetic,third-person,male,mixed,n.av.,prose,1930
+ne0237,ne0237,Baroja,male,Estrella,1930,narrative,novel,n.av.,restricted,adventure,n.av.,homodiegetic,first-person,male,sea,n.av.,prose,1930
+ne0248,ne0248,Baroja,male,Visionarios,1932,narrative,novel,n.av.,restricted,historical,n.av.,heterodiegetic,third-person,male,rural,n.av.,prose,1930
+ne0305,ne0305,Baroja,male,Laberinto,1923,narrative,novel,n.av.,restricted,adventure,n.av.,homodiegetic,first-person,male,sea,folletín,prose,1920

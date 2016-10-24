@@ -1,0 +1,64 @@
+,idno,author-name,author-gender,title,year,supergenre,genre,genre-subtitle,availability,subgenre,form,decade
+ne0020,ne0020,Valle,male,CruzadosCausa,1908,narrative,novel,La guerra carlista,restricted,historical,prose,1900
+ne0021,ne0021,Valle,male,ResplandorHoguera,1909,narrative,novel,La guerra carlista,restricted,historical,prose,1900
+ne0022,ne0022,Valle,male,GerifaltesAntano,1909,narrative,novel,la guerra carlista,restricted,historical,prose,1900
+ne0030,ne0030,Valle,male,TiranoBanderas,1926,narrative,novel,Novela de tierra caliente,restricted,historical,prose,1920
+ne0033,ne0033,Valle,male,Corte,1927,narrative,novel,n.av.,restricted,historical,prose,1920
+ne0035,ne0035,Valle,male,Viva,1928,narrative,novel,n.av.,restricted,historical,prose,1920
+ne0036,ne0036,Valle,male,Baza,1932,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0037,ne0037,Valle,male,MediaNoche,1917,narrative,novel,visión estelar de un momento de guerra,restricted,historical,prose,1910
+ne0039,ne0039,Zamacois,male,Vagon,1921,narrative,novel,n.av.,free,adventure,prose,1920
+ne0054,ne0054,Miro,male,Pasion1,1916,narrative,novel,n.av.,free,historical,prose,1910
+ne0055,ne0055,Miro,male,Pasion2,1917,narrative,novel,n.av.,free,historical,prose,1910
+ne0066,ne0066,Baroja,male,Zalacain,1904,narrative,novel,Tierra vasca 3,restricted,adventure,prose,1900
+ne0107,ne0107,Bazan,female,Misterio,1902,narrative,novel,n.av.,free,historical,prose,1900
+ne0112,ne0112,Baroja,male,Aprendiz,1912,narrative,novel,n.av.,restricted,adventure,prose,1910
+ne0113,ne0113,Carrere,male,Jorobados,1920,narrative,novel,n.av.,free,adventure,prose,1920
+ne0114,ne0114,Unamuno,male,PazGuerra,1897,narrative,novel,n.av.,restricted,historical,prose,1890
+ne0115,ne0115,Baroja,male,Aviraneta,1931,narrative,essay,n.av.,restricted,historical,prose,1930
+ne0117,ne0117,Baroja,male,Caminos,1914,narrative,collection_short_novels,n.av.,restricted,historical,prose,1910
+ne0118,ne0118,Baroja,male,Caudillos,1918,narrative,novel,n.av.,restricted,adventure,prose,1910
+ne0124,ne0124,Sender,male,Iman,1930,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0125,ne0125,Sender,male,Crimen,1934,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0126,ne0126,Sender,male,Domingos,1932,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0130,ne0130,Ganivet,male,Maya,1897,narrative,novel,por el último conquistador español Pio Cid ,free,historical,prose,1890
+ne0143,ne0143,WFFlorez,male,Automovil,1932,narrative,novel,n.av.,restricted,adventure,prose,1930
+ne0144,ne0144,Pereda,male,Pedro,1883,narrative,novel,n.av.,free,historical,prose,1880
+ne0165,ne0165,BlascoIbanez,male,Apocalipsis,1916,narrative,novel,Novela,free,historical,prose,1910
+ne0166,ne0166,BlascoIbanez,male,Reina,1923,narrative,novel,n.av.,free,adventure,prose,1920
+ne0182,ne0182,RBaroja,male,Submarino,1917,narrative,novel,Narración de un viaje en sumergible por el: Mediterráneo y el Atlántico,restricted,adventure,prose,1910
+ne0215,ne0215,Dario,male,HombreOro,1897,narrative,novel,n.av.,free,historical,prose,1890
+ne0219,ne0219,Herrera,male,Acera,1938,narrative,novel,Epopeya,restricted,historical,prose,1930
+ne0232,ne0232,Baroja,male,Alzate,1922,narrative,novel,n.av.,restricted,historical,dialogue,1920
+ne0233,ne0233,Baroja,male,Pilotos,1929,narrative,novel,n.av.,restricted,adventure,prose,1920
+ne0237,ne0237,Baroja,male,Estrella,1930,narrative,novel,n.av.,restricted,adventure,prose,1930
+ne0239,ne0239,Baroja,male,Romanticos,1906,narrative,novel,n.av.,restricted,historical,prose,1900
+ne0240,ne0240,Baroja,male,Tragedias,1907,narrative,novel,n.av.,restricted,historical,prose,1900
+ne0243,ne0243,Baroja,male,Escuadron,1913,narrative,novel,n.av.,restricted,adventure,prose,1910
+ne0244,ne0244,Baroja,male,Ruta,1913,narrative,novel,n.av.,restricted,adventure,prose,1910
+ne0245,ne0245,Baroja,male,Nave,1916,narrative,novel,n.av.,restricted,adventure,prose,1910
+ne0246,ne0246,Baroja,male,Venganza,1921,narrative,novel,n.av.,restricted,historical,prose,1920
+ne0247,ne0247,Baroja,male,Cronica,1935,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0248,ne0248,Baroja,male,Visionarios,1932,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0254,ne0254,BlascoIbanez,male,Sonnica,1901,narrative,novel,n.av.,free,historical,prose,1900
+ne0264,ne0264,BlascoIbanez,male,MareNostrum,1918,narrative,novel,(Novela),free,historical,prose,1910
+ne0265,ne0265,BlascoIbanez,male,EnemigosMujer,1919,narrative,novel,n.av.,free,historical,prose,1910
+ne0266,ne0266,BlascoIbanez,male,ParaisoMujeres,1922,narrative,novel,n.av.,free,adventure,prose,1920
+ne0267,ne0267,BlascoIbanez,male,PapaMar,1925,narrative,novel,n.av.,free,historical,prose,1920
+ne0269,ne0269,BlascoIbanez,male,BuscaKan,1928,narrative,novel,n.av.,free,historical,prose,1920
+ne0270,ne0270,BlascoIbanez,male,CaballeroVirgen,1929,narrative,novel,n.av.,free,historical,prose,1920
+ne0277,ne0277,Galdos,male,Medizabal,1898,narrative,novel,"Episodios nacionales, libro segundo de la serie tercera",free,historical,prose,1890
+ne0278,ne0278,Galdos,male,Luchana,1899,narrative,novel,"Episodios nacionales, libro cuarto de la serie tercera",free,historical,prose,1890
+ne0279,ne0279,Galdos,male,Estafeta,1899,narrative,novel,"Episodios nacionales, libro sexto de la serie tercera",free,historical,prose,1890
+ne0280,ne0280,Galdos,male,BodasReales,1900,narrative,novel,"Episodios nacionales, libro décimo de la serie tercera",free,historical,prose,1900
+ne0281,ne0281,Galdos,male,Narvaez,1902,narrative,novel,"Episodios nacionales, libro segundo de la serie cuarta",free,historical,prose,1900
+ne0282,ne0282,Galdos,male,Odonell,1904,narrative,novel,"Episodios nacionales, libro quinto de la serie cuarta",free,historical,prose,1900
+ne0283,ne0283,Galdos,male,VueltaNumancia,1906,narrative,novel,"Episodios nacionales, libro octavo de la serie cuarta",free,historical,prose,1900
+ne0284,ne0284,Galdos,male,Amadeo,1910,narrative,novel,Episodios nacionales: Libro tercero de la serie quinta,free,adventure,prose,1910
+ne0285,ne0285,Galdos,male,Republica,1911,narrative,novel,Episodios nacionales: Libro cuarto de la serie quinta,free,adventure,prose,1910
+ne0286,ne0286,Galdos,male,Canovas,1912,narrative,novel,"Episodios nacionales, libro sexto de la serie quinta",free,adventure,prose,1910
+ne0292,ne0292,Sender,male,WittCanton,1935,narrative,novel,novela,restricted,historical,prose,1930
+ne0293,ne0293,Sender,male,LugarHombre,1939,narrative,novel,n.av.,restricted,historical,prose,1930
+ne0299,ne0299,Pereda,male,Pachin,1896,narrative,novel,n.av.,free,historical,prose,1890
+ne0302,ne0302,Baroja,male,DamaErrante,1908,narrative,novel,n.av.,restricted,historical,prose,1900
+ne0304,ne0304,Baroja,male,Shanti,1911,narrative,novel,n.av.,restricted,adventure,prose,1910

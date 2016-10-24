@@ -1,0 +1,52 @@
+,idno,author-name,author-gender,title,year,supergenre,genre,genre-subtitle,availability,subgenre,genre-label,narrative-perspective,narrator,protagonist-gender,setting,subsubgenre,form,decade
+ne0007,ne0007,Sawa,male,MujerMundo,1885,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,female,big-city,n.av.,prose,1880
+ne0008,ne0008,Zamacois,male,Enferma,1896,narrative,novel,Novela,free,erotic,novela,heterodiegetic,third-person,female,big-city,n.av.,prose,1890
+ne0013,ne0013,Valle,male,SonataOtono,1902,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,memoria,autodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0014,ne0014,Valle,male,SonataEstio,1903,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,memoria,autodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0016,ne0016,Valle,male,SonataPrimavera,1904,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,memoria,autodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0017,ne0017,Valle,male,FlordeSantidad,1904,narrative,novel,Historia milenaria,restricted,erotic,historia,heterodiegetic,third-person,female,rural,n.av.,prose,1900
+ne0018,ne0018,Valle,male,SonataInvierno,1905,narrative,novel,Memorias del Marqués de Bradomín,restricted,erotic,memoria,autodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0026,ne0026,Zamacois,male,Incesto,1900,narrative,novel,Novela original,free,erotic,novela,heterodiegetic,third-person,female,big-city,n.av.,prose,1900
+ne0029,ne0029,Galdos,male,Prohibido,1884,narrative,novel,n.av.,free,erotic,n.av.,autodiegetic,first-person,male,big-city,n.av.,prose,1880
+ne0039,ne0039,Zamacois,male,Vagon,1921,narrative,novel,n.av.,free,adventure,memoria,homodiegetic,third-person,other,mixed,n.av.,prose,1920
+ne0040,ne0040,Miro,male,MujerOjeda,1901,narrative,novel,Ensayo de novela,free,erotic,ensayo de novela,homodiegetic,third-person,male,rural,n.av.,prose,1900
+ne0045,ne0045,Miro,male,PalmaRota,1909,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1900
+ne0048,ne0048,Miro,male,Cerezas,1910,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,male,rural,n.av.,prose,1910
+ne0053,ne0053,Miro,male,DentroCercado,1916,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,male,rural,n.av.,prose,1910
+ne0066,ne0066,Baroja,male,Zalacain,1904,narrative,novel,Tierra vasca 3,restricted,adventure,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1900
+ne0079,ne0079,Bazan,female,Insolacion,1889,narrative,novel,Historia amorosa,free,erotic,historia,heterodiegetic,third-person,female,big-city,n.av.,prose,1880
+ne0081,ne0081,Bazan,female,Solteron,1890,narrative,novel,Adán y Eva (Ciclo),free,erotic,n.av.,autodiegetic,first-person,male,small-city,n.av.,prose,1890
+ne0084,ne0084,Bazan,female,Quimera,1905,narrative,novel,n.av.,free,erotic,n.av.,mixed,mixed,male,big-city,n.av.,prose,1900
+ne0085,ne0085,Bazan,female,Sirena,1908,narrative,novel,n.av.,free,erotic,n.av.,autodiegetic,first-person,male,big-city,n.av.,prose,1900
+ne0110,ne0110,Baroja,male,Amores,1927,narrative,novel,Agonías de nuestro tiempo,restricted,erotic,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1920
+ne0112,ne0112,Baroja,male,Aprendiz,1912,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,mixed,memorias,prose,1910
+ne0113,ne0113,Carrere,male,Jorobados,1920,narrative,novel,n.av.,free,adventure,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1920
+ne0118,ne0118,Baroja,male,Caudillos,1918,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,rural,memorias,prose,1910
+ne0120,ne0120,RdCastro,female,Loco,1881,narrative,novel,n.av.,free,erotic,n.av.,homodiegetic,third-person,male,rural,n.av.,prose,1880
+ne0141,ne0141,WFFlorez,male,Volvoreta,1917,narrative,novel,n.av.,restricted,erotic,n.av.,heterodiegetic,third-person,female,rural,n.av.,prose,1910
+ne0143,ne0143,WFFlorez,male,Automovil,1932,narrative,novel,n.av.,restricted,adventure,n.av.,autodiegetic,first-person,male,big-city,n.av.,prose,1930
+ne0155,ne0155,Picon,male,Dulce,1891,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1890
+ne0160,ne0160,Trigo,male,Frio,1906,narrative,novel,Ellas a bordo,free,erotic,n.av.,autodiegetic,first-person,male,sea,n.av.,prose,1900
+ne0166,ne0166,BlascoIbanez,male,Reina,1923,narrative,novel,n.av.,free,adventure,n.av.,heterodiegetic,third-person,female,big-city,n.av.,prose,1920
+ne0169,ne0169,Serna,male,Viuda,1917,narrative,novel,Novela,restricted,erotic,novela,heterodiegetic,third-person,female,big-city,n.av.,prose,1910
+ne0170,ne0170,Clarin,male,Cuesta,1891,narrative,novel,n.av.,free,erotic,n.av.,autodiegetic,first-person,male,small-city,n.av.,prose,1890
+ne0182,ne0182,RBaroja,male,Submarino,1917,narrative,novel,Narración de un viaje en sumergible por el: Mediterráneo y el Atlántico,restricted,adventure,narración,autodiegetic,first-person,male,sea,n.av.,prose,1910
+ne0185,ne0185,RPAyala,male,Tinieblas,1907,narrative,novel,Historias de libertinaje. Virginibus puerisque. Novela póstuma de Plotino Cuevas,restricted,erotic,novela,homodiegetic,third-person,male,rural,n.av.,prose,1900
+ne0192,ne0192,Lanza,male,Artuna,1893,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1890
+ne0221,ne0221,Selgas,male,Nona,1883,narrative,novel,novela póstuma,free,erotic,novela póstuma,heterodiegetic,third-person,male,big-city,n.av.,prose,1880
+ne0223,ne0223,Bacarisse,male,TerriblesAmores,1931,narrative,novel,Novela,free,erotic,novela,heterodiegetic,third-person,male,big-city,n.av.,prose,1930
+ne0226,ne0226,Trigo,male,SiSePorQue,1916,narrative,novel,Novela,free,erotic,novela,autodiegetic,first-person,male,big-city,n.av.,prose,1910
+ne0228,ne0228,Trigo,male,Carrera,1909,narrative,novel,n.av.,free,erotic,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1900
+ne0233,ne0233,Baroja,male,Pilotos,1929,narrative,novel,n.av.,restricted,adventure,novela,homodiegetic,first-person,male,sea,n.av.,prose,1920
+ne0237,ne0237,Baroja,male,Estrella,1930,narrative,novel,n.av.,restricted,adventure,n.av.,homodiegetic,first-person,male,sea,n.av.,prose,1930
+ne0243,ne0243,Baroja,male,Escuadron,1913,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,rural,memorias,prose,1910
+ne0244,ne0244,Baroja,male,Ruta,1913,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,rural,n.av.,prose,1910
+ne0245,ne0245,Baroja,male,Nave,1916,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,rural,n.av.,prose,1910
+ne0266,ne0266,BlascoIbanez,male,ParaisoMujeres,1922,narrative,novel,n.av.,free,adventure,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1920
+ne0284,ne0284,Galdos,male,Amadeo,1910,narrative,novel,Episodios nacionales: Libro tercero de la serie quinta,free,adventure,episodio nacional,autodiegetic,first-person,male,big-city,n.av.,prose,1910
+ne0285,ne0285,Galdos,male,Republica,1911,narrative,novel,Episodios nacionales: Libro cuarto de la serie quinta,free,adventure,episodio nacional,autodiegetic,first-person,male,small-city,n.av.,prose,1910
+ne0286,ne0286,Galdos,male,Canovas,1912,narrative,novel,"Episodios nacionales, libro sexto de la serie quinta",free,adventure,episodio nacional,autodiegetic,first-person,male,big-city,n.av.,prose,1910
+ne0304,ne0304,Baroja,male,Shanti,1911,narrative,novel,n.av.,restricted,adventure,n.av.,autodiegetic,first-person,male,sea,n.av.,prose,1910
+ne0307,ne0307,Valdes,male,Senorito,1881,narrative,novel,Novela sin pesamiento trascendental,restricted,erotic,novela,heterodiegetic,third-person,male,rural,n.av.,prose,1880
+ne0311,ne0311,Valdes,male,MajosCadiz,1896,narrative,novel,novela de costumbres,restricted,erotic,novela de costumbres,heterodiegetic,third-person,male,small-city,n.av.,prose,1890
+ne0318,ne0318,Trigo,male,MediaNaranja,1910,narrative,novel,n.av.,free,erotic,n.av.,autodiegetic,first-person,male,big-city,n.av.,prose,1910

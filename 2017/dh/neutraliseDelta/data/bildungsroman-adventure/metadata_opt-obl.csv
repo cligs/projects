@@ -1,0 +1,56 @@
+,idno,author-name,author-gender,title,year,supergenre,genre,genre-subtitle,availability,subgenre,genre-label,narrative-perspective,narrator,protagonist-gender,setting,subsubgenre,form,decade
+ne0005,ne0005,Galdos,male,Tristana,1892,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,female,big-city,n.av.,prose,1890
+ne0006,ne0006,Galdos,male,Angel,1891,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1890
+ne0009,ne0009,Galdos,male,Desheredada,1881,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,female,big-city,n.av.,prose,1880
+ne0024,ne0024,Galdos,male,Centeno,1883,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1880
+ne0039,ne0039,Zamacois,male,Vagon,1921,narrative,novel,n.av.,free,adventure,memoria,homodiegetic,third-person,other,mixed,n.av.,prose,1920
+ne0043,ne0043,Miro,male,Nomada,1908,narrative,novel,De la falta de amor,free,bildungsroman,n.av.,heterodiegetic,third-person,male,rural,n.av.,prose,1900
+ne0044,ne0044,Miro,male,Amigo,1908,narrative,novel,n.av.,free,bildungsroman,novela,homodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0061,ne0061,Miro,male,ObispoLeproso,1926,narrative,novel,novela,free,bildungsroman,novela,heterodiegetic,third-person,male,rural,n.av.,prose,1920
+ne0063,ne0063,Baroja,male,Busca,1904,narrative,novel,La lucha por la vida 1,restricted,bildungsroman,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1900
+ne0066,ne0066,Baroja,male,Zalacain,1904,narrative,novel,Tierra vasca 3,restricted,adventure,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1900
+ne0067,ne0067,Baroja,male,AventurasParadox,1901,narrative,novel,n.av.,restricted,bildungsroman,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1900
+ne0068,ne0068,Baroja,male,ArbolCiencia,1911,narrative,novel,La Raza (3),restricted,bildungsroman,n.av.,heterodiegetic,third-person,male,mixed,n.av.,prose,1910
+ne0072,ne0072,Unamuno,male,TiaTula,1921,narrative,novel,Como se hace una novela,restricted,bildungsroman,n.av.,heterodiegetic,third-person,female,small-city,n.av.,prose,1920
+ne0075,ne0075,Bazan,female,Tribuna,1883,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,female,small-city,n.av.,prose,1880
+ne0106,ne0106,Bazan,female,Fada,1916,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,male,rural,novela corta,prose,1910
+ne0111,ne0111,Baroja,male,Ansi,1912,narrative,novel,n.av.,restricted,bildungsroman,n.av.,mixed,first-person,female,big-city,n.av.,prose,1910
+ne0112,ne0112,Baroja,male,Aprendiz,1912,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,mixed,memorias,prose,1910
+ne0113,ne0113,Carrere,male,Jorobados,1920,narrative,novel,n.av.,free,adventure,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1920
+ne0116,ne0116,Baroja,male,camino,1902,narrative,novel,pasión mística,restricted,bildungsroman,n.av.,autodiegetic,first-person,male,mixed,n.av.,prose,1900
+ne0118,ne0118,Baroja,male,Caudillos,1918,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,rural,memorias,prose,1910
+ne0143,ne0143,WFFlorez,male,Automovil,1932,narrative,novel,n.av.,restricted,adventure,n.av.,autodiegetic,first-person,male,big-city,n.av.,prose,1930
+ne0146,ne0146,Pereda,male,Sotileza,1885,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,first-person,female,small-city,n.av.,prose,1880
+ne0149,ne0149,AEspina,male,Bandido,1929,narrative,novel,n.av.,restricted,bildungsroman,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1920
+ne0151,ne0151,Valera,male,Genio,1897,narrative,novel,n.av.,free,bildungsroman,n.av.,mixed,first-person,female,big-city,n.av.,prose,1890
+ne0162,ne0162,Picon,male,JuanV,1885,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1880
+ne0166,ne0166,BlascoIbanez,male,Reina,1923,narrative,novel,n.av.,free,adventure,n.av.,heterodiegetic,third-person,female,big-city,n.av.,prose,1920
+ne0171,ne0171,Serna,male,Incongruente,1922,narrative,novel,Novela grande,restricted,bildungsroman,novela grande,heterodiegetic,third-person,male,big-city,n.av.,prose,1920
+ne0175,ne0175,Alarcon,male,Bola,1880,narrative,novel,Novela,free,bildungsroman,novela,heterodiegetic,third-person,male,rural,n.av.,prose,1880
+ne0180,ne0180,Azana,male,Jardín,1927,narrative,novel,n.av.,restricted,bildungsroman,n.av.,autodiegetic,first-person,male,small-city,n.av.,prose,1920
+ne0182,ne0182,RBaroja,male,Submarino,1917,narrative,novel,Narración de un viaje en sumergible por el: Mediterráneo y el Atlántico,restricted,adventure,narración,autodiegetic,first-person,male,sea,n.av.,prose,1910
+ne0183,ne0183,Pereda,male,Montalvez,1888,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,female,big-city,novela de tesis,prose,1880
+ne0186,ne0186,RPAyala,male,AMDG,1910,narrative,novel,n.av.,restricted,bildungsroman,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1910
+ne0193,ne0193,Lanza,male,Santiago,1907,narrative,novel,n.av.,free,bildungsroman,n.av.,homodiegetic,first-person,male,rural,n.av.,prose,1900
+ne0200,ne0200,Lorca,male,FrayAntonio,1917,narrative,novel,poema raro,restricted,bildungsroman,poema,heterodiegetic,third-person,male,rural,n.av.,prose,1910
+ne0231,ne0231,Valdes,male,Riverita,1886,narrative,novel,Novela de costumbres,restricted,bildungsroman,novela de cosutmbres,heterodiegetic,third-person,male,big-city,n.av.,prose,1880
+ne0233,ne0233,Baroja,male,Pilotos,1929,narrative,novel,n.av.,restricted,adventure,novela,homodiegetic,first-person,male,sea,n.av.,prose,1920
+ne0237,ne0237,Baroja,male,Estrella,1930,narrative,novel,n.av.,restricted,adventure,n.av.,homodiegetic,first-person,male,sea,n.av.,prose,1930
+ne0243,ne0243,Baroja,male,Escuadron,1913,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,rural,memorias,prose,1910
+ne0244,ne0244,Baroja,male,Ruta,1913,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,rural,n.av.,prose,1910
+ne0245,ne0245,Baroja,male,Nave,1916,narrative,novel,n.av.,restricted,adventure,memorias,homodiegetic,first-person,male,rural,n.av.,prose,1910
+ne0253,ne0253,BlascoIbanez,male,Naranjos,1900,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1900
+ne0256,ne0256,BlascoIbanez,male,Catedral,1903,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1900
+ne0260,ne0260,BlascoIbanez,male,Sangre,1908,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1900
+ne0266,ne0266,BlascoIbanez,male,ParaisoMujeres,1922,narrative,novel,n.av.,free,adventure,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1920
+ne0284,ne0284,Galdos,male,Amadeo,1910,narrative,novel,Episodios nacionales: Libro tercero de la serie quinta,free,adventure,episodio nacional,autodiegetic,first-person,male,big-city,n.av.,prose,1910
+ne0285,ne0285,Galdos,male,Republica,1911,narrative,novel,Episodios nacionales: Libro cuarto de la serie quinta,free,adventure,episodio nacional,autodiegetic,first-person,male,small-city,n.av.,prose,1910
+ne0286,ne0286,Galdos,male,Canovas,1912,narrative,novel,"Episodios nacionales, libro sexto de la serie quinta",free,adventure,episodio nacional,autodiegetic,first-person,male,big-city,n.av.,prose,1910
+ne0289,ne0289,Lanza,male,Quilla,1891,narrative,novel,n.av.,free,bildungsroman,n.av.,autodiegetic,first-person,male,sea,n.av.,prose,1890
+ne0291,ne0291,Azorin,male,Tomas,1915,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,male,small-city,n.av.,prose,1910
+ne0301,ne0301,Serna,male,Torero,1926,narrative,novel,n.av.,restricted,bildungsroman,n.av.,heterodiegetic,third-person,male,big-city,n.av.,prose,1920
+ne0304,ne0304,Baroja,male,Shanti,1911,narrative,novel,n.av.,restricted,adventure,n.av.,autodiegetic,first-person,male,sea,n.av.,prose,1910
+ne0320,ne0320,Hernandez,male,Calisto,1933,narrative,novel,n.av.,restricted,bildungsroman,n.av.,heterodiegetic,third-person,male,rural,n.av.,prose,1930
+ne0327,ne0327,BlascoIbanez,male,AranaNegra1,1892,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,female,big-city,n.av.,prose,1890
+ne0328,ne0328,BlascoIbanez,male,AranaNegra2,1892,narrative,novel,n.av.,free,bildungsroman,n.av.,heterodiegetic,third-person,female,big-city,n.av.,prose,1890
+ne0329,ne0329,Valdes,male,NovelaNovelista,1921,narrative,essay,Escenas de la infancia y adolescencia,restricted,bildungsroman,novela,autodiegetic,first-person,male,small-city,n.av.,prose,1920
