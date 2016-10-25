@@ -1,1520 +1,1588 @@
 
-La princesse Fatime, Osmar, est chez le Roi ? 
-Tu dis qu'en la quittant il veut parler à moi.
-Et qu'ici pour me voir il doit bientôt se rendre.
-Oui, Seigneur
-Il suffit, Osmar, je vais l'attendre.
-Tu t'étonnes, Ami, des honneurs qu'on me rend. 
-Ma nouvelle grandeur, je le vois, te surprend.
-Quand tu quittas Grenade, où sortis de l'Afrique
-Les Maures ont fondé ce Palais magnifique :
-Sans amis, dépouillé du rang de mes aïeux,
-Seul, mais faible héritier d'un nom toujours fameux, 
-Je rampais inconnu dans la foule importune
-Qu'assemble autour des Rois l'éclat de leur fortune.
-Cette haine célèbre entre deux noms puissants,
-Qui depuis plus d'un siècle arme leurs partisans,
-M'exposait chaque jour à de nouveaux outrages, 
-Et les Zegris cédaient aux fiers Abincerages.
-Déjà mon désespoir m'entraînait à la mort,
-Lorsque le Roi touché de mon funeste sort
-Jeta sur mes malheurs un regard favorable,
-Sa bonté rappela dans son coeur équitable 
-Des Princes mes aïeux la valeur et la foi,
-Et bientôt les voulut récompenser en moi.
-Il daigna m'appeler aux soins du ministère,
-Où le fier Alamir mon plus grand adversaire
-Voit déjà mon pouvoir indépendant du sien. 
-L'armée est son partage et l'État est le mien.
-Mais, dis-moi, que fait-il ? Instruit de ton voyage ;
-En sait-il les raisons, t'a-t-il vu sans ombrage ?
-L'as-tu bien observé, d'un si fameux vainqueur
-Penses-tu que Fatime occupe encor le coeur ?
-Paraît-il inquiet, parle-t-il souvent d'elle ?
-As-tu su le tromper ; la croit-il infidèle ?
-Envoyé dans son camp par mes ordres exprès,
-Quels soins as-tu donné à mes desseins secrets ?
-N'en doutez point, Seigneur, il est toujours le même 
-Il craint son inconstance, et cependant il l'aime,
-Des bruits que j'ai semés trop vivement frappé,
-De mille soins jaloux de craintes occupé
-Il veut par son retour confondre une infidèle.
-Il revient.
-Quoi sans ordre, et sans qu'on le rappelle. 
-Abendax il revient, il se perd, c'en est fait.
-Oui, Seigneur, vos desseins auraient eu leur effet
-Si le rare bonheur qui par tout l'accompagne,
-Ne vous le ramenait triomphant de l'Espagne.
-En vain les Rois ligués et les peuples unis 
-Armaient contre nous seuls un monde d'ennemis.
-Leurs troupes, leurs remparts , et leurs vastes rivières
-N'ont pu nous opposer que de faibles barrières.
-Vaincus en cent combats, dispersez et défaits,
-Ils offrent un tribut, et demandent la paix. 
-Quoi qu'ait fait Alamir, cette grande victoire
-Met trop en assurance et ses jours et sa gloire.
-Non, ne crois pas que rien excuse son retour,
-Je le vois bien, ami, tu connais mal la Cour :
-Des services passez on a peu de mémoire, 
-Plus les sujets fameux se sont acquis de gloire,
-Plus ils sont enviez, et moins leurs grands exploits
-Les mettent à couvert de la rigueur des lois.
-Il est perdu, te dis-je. 
-Hé bien par sa disgrâce,
-Le destin à vos voeux offre une auguste place ; 
-Que la mort soit le prix de sa témérité,
-Vous l'avez souhaité.
-Moi, je l'ai souhaité ?
-Et n'est-ce pas, Seigneur, pour servir votre haine,
-Pour rendre d'Alamir la perte plus certaine,
-Que je fus envoyé dans son armée ?
+Ne considère plus le repos de ma vie 
+Comme un bien sans exemple, et capable d'envie, 
+Mais pleure ce trésor dont tu me vois privé, 
+Et redoute pour toi ce qui m'est arrivé. 
+Ne dis plus que du sort les soins incomparables 
+Ont rendu pour moi seul ses caresses durables, 
+Mais accuse avec moi ce démon inconstant 
+Qui présente le calme et l'ôte au même instant. 
+De quoi vous plaignez-vous ? Quel ennui vous possède ?
+Ce mal est-il de ceux qui n'ont point de remède ? 
+Il en est, Polémon, ma plainte te l'apprend, 
+Et puisque je soupire, il faut bien qu'il soit grand. 
+Hélas depuis deux ans, qu'avec tant d'avantage 
+Aux pays étrangers s'exerce to courage, 
+L'état où tu me vois tristement arrêté, 
+Est l'état malheureux où j'ai toujours été. 
+Ni repos ni plaisir n'a soulagé ma peine, 
+Le Ciel ne m'a montré que des marques de haine, 
+Et ne peut désormais me montrer son amour 
+Que par le coup fatal qui m'ôtera le jour. 
+Pardonne donc ami, pardonne à ma tristesse 
+Cette peu favorable et si froide caresse, 
+Je sais que ton retour mérite un autre accueil. 
+Mais je le donne tel que le permet mon deuil. 
+Vous m'obligez assez de ne vous point contraindre ; 
+C'est bien me recevoir que de ne me rien feindre. 
+Mais enfin qu'avez-vous ? Quel sujet rigoureux 
+Dérobe à mon retour un accueil plus heureux ? 
+Comblé d'autant d'honneurs qu'en peut donner le monde 
+En quels maux trouvez-vous la fortune féconde ? 
+Riche en amis parfaits, riche en enfants bien nés. 
+Ha ! Tu touches les maux, dont nous sommes gênés 
+Je fus riche en enfants, mais de cette richesse 
+Je vois naître aujourd'hui ma peine et ma tristesse, 
+Et bien loin du succès où tendaient mes désirs, 
+Je mets le nom de Père entre mes déplaisirs. 
+Avez-vous donc perdu ce fils et cette fille 
+Dont le Ciel enrichit votre illustre famille. 
+Oui je les ai perdus, et voilà mes douleurs.
+Ha certes, cette mort est digne de vos pleurs. 
+On n'a point vu pour eux de sépulture ouverte ; 
+Je ne plains pas leur mort, mais je pleure leur perte ! 
+Si la mort épargna ces enfants malheureux, 
+Quel étrange destin se déclare contre eux ? 
+Tel qu'au funeste état où je les considère 
+L'aspect de leur tombeau consolerait leur Père. 
+La nature propice à mes justes souhaits 
+Autant qu'elle le put me les donna parfaits, 
+Et je serais heureux en ma triste aventure 
+S'ils m'étaient enlevés par la même nature. 
+Que j'en sache la cause. 
+Hé bien tu la sauras, 
+Et me plaindras au moins si tu ne m'aides pas. 
+Chargé d'ans et d'honneur, noble et seule richesse 
+Qui soulage aujourd'hui le faix de ma vieillesse, 
+Après mille combats, enfin pour vivre en paix 
+J'abandonnai la Cour qui n'en donna jamais. 
+À peine commençais-je une plus douce vie 
+Que par un inconnu ma fille fut ravie, 
+Cette fille que j'aime et qui reçut des Cieux 
+Tout ce qui pouvait rendre un Père glorieux, 
+Oui, mon cher Polémon, cette fille adorable 
+Fut d'un bras inconnu le butin déplorable. 
+Ô Dieux ! 
+Le coup est grand, d'où vient cette douleur, 
+Mais ce n'est qu'un degré pour un nouveau malheur. 
+Je fis contre ce rapt tous les devoirs d'un Père, 
+Et tout ce que je fis me combla de misère ; 
+Amis, frères, parents me prêtèrent la main, 
+Et j'eus le déplaisir de les armer en vain. 
+Mon fils autant que moi touché de cet outrage 
+Croyant me soulager me montra son courage, 
+Prit un vaisseau léger, et pour sauver sa soeur 
+Malgré père et parents suivit son ravisseur. 
+Ainsi je le perdis, ainsi tout m'est contraire, 
+Et le rapt de la soeur me dérobe le frère. 
+Ainsi j'eus deux enfants, et je fus privé d'eux, 
+Et pour en sauver un je les perdis tous deux. 
+N'avez-vous rien appris ni de l'un ni de l'autre, 
+Depuis que leur malheur a commencé le vôtre ? 
+En ce triste accident, dont nous fûmes surpris, 
+Le nom du Ravisseur est tout ce que j'ai appris.
+Comment se nomme-t-il ? 
+Son nom est Clarigène : 
+Mais pour l'avoir appris, en suis-je moins en peine ? 
+De qui l'apprîtes-vous ? 
+D'un des miens. 
+Mais comment ? 
+Il voulut s'opposer à cet enlèvement, 
+Et reconnut l'auteur d'un acte si barbare, 
+Pour l'avoir autrefois connu dedans Mégare. 
+Je le cherchai moi-même, et mon crédit est tel 
+Qu'on l'aurait rencontré si c'était un mortel ; 
+Ce nom de Clarigène inconnu par lui-même, 
+Est aujourd'hui connu par mon malheur extrême, 
+Et quelque obscurité qui nous couvre ce nom, 
+Le seul bruit que j'en fais lui donne du Renom. 
+Cependant c'est en vain que ma colère éclate, 
+En vain pour mes enfants l'espérance me flatte, 
+Ce fils infortuné trop prompt à me venger, 
+Languit sans doute aux fers d'un barbare étranger, 
+Et cet autre malheur se joint à sa misère, 
+Qu'il voit servir sa soeur aux plaisirs d'un Corsaire. 
+Ha c'est là des ennuis que je souffre pour eux 
+Et le moins consolable, et le plus rigoureux. 
+Je perdis une fille aussi chaste qu'aimée, 
+Et ne puis la trouver que fille diffamée. 
+Ô sort, qui de ses jours as l'éclat obscurci 
+Sera-ce la trouver que la trouver ainsi ? 
+Hélas ! Je la demande, et la plains à toute heure, 
+En Père je la cherche, en père je la pleure, 
+Et lorsque son malheur me laisse un peu rêver, 
+Tout père que je suis, je crains de la trouver. 
+Que le Ciel rendra-t-il à ma triste famille 
+S'il lui rend sans l'honneur ma misérable fille ! 
+Ô fille, ô faible bien sans pareil en ce point, 
+Que même en le trouvant je ne m'allège point ! 
+Que l'on perde un ami, son retour a des charmes, 
+Qui peuvent mettre à sec un Océan de larmes ; 
+Que l'on perde un trésor, il peut être rendu, 
+Et revenir entier ainsi qu'il fut perdu ; 
+Mais un Père qui pleure une fille enlevée 
+N'en est pas consolée pour l'avoir retrouvée : 
+L'honneur est dans un Rapt le dernier respecté, 
+Et n'en revient jamais comme il fut emporté. 
+Votre sort est étrange, et le Ciel en colère 
+N'a rien après ces maux que puisse craindre un père ; 
+Mais pour vous laisser vaincre à de si rudes coups, 
+Seront-ils moins cruels ? Les adoucirez-vous ? 
+Peut-être que ce Rapt poursuivi comme un crime, 
+N'est qu'un effet trop prompt d'un amour légitime, 
+Peut-être est-il heureux, ce que d'un Ravisseur 
+Le mariage a fait un juste possesseur. 
+Le Ciel vous doit ce bien, et vous devez l'attendre 
+Cet honneur qu'ôte un Rapt un Hymen le peut rendre. 
+Hélas ! Tel mariage est un nouveau malheur, 
+Où loin de se venger, on caresse un voleur. 
+Mais quelqu'un vient ici que votre nièce amène. 
+C'est à ce qu'on m'a dit une jeune Romaine, 
+Qu'hier comme une morte on trouva sur ces bords, 
+Et dont en mon logis on apporta le corps. 
+Perdez auprès de moi vos soucis et vos peines, 
+Et croyez que pour vous Rome est dedans Athènes. 
+Mes soins confirmeront les desseins que je fais, 
+Et j'aurai moins pour vous de discours que d'effets. 
+Je les ressens déjà ces effets admirables, 
+Qui me pourraient ôter du rang des misérables ; 
+Vous voyez à vos pieds le rebut de la mort, 
+Un jouet éternel des caprices du sort. 
+Vous voyez une fille à qui les destinées 
+Font nombrer ses malheurs par ses tristes journées, 
+Et que jamais le Ciel ne vit d'un oeil plus doux, 
+Qu'au bienheureux instant qu'il la jeta chez vous. 
+Si le sort vous poursuit, et vous est si contraire, 
+Qu'il vous refuse ici la présence d'un père, 
+Au moins le même sort vous y fait rencontrer 
+Autant d'affection qu'un père en peut montrer. 
+Dieux qui voyez l'accueil que j'offre aux misérables, 
+Dieux qui voyez du ciel mes enfants déplorables, 
+Faites qu'en quelque part qu'ils soient vus aujourd'hui, 
+On puisse avoir pour eux ce que j'ai pour autrui. 
+Si l'averse fortune a pour vous des tempêtes, 
+Que le Ciel adouci vous soit ce que vous m'êtes ; 
+Quels que soient vos ennuis que ne puis-je contre eux 
+Agir plus puissamment que par de faibles voeux ! 
+Je ferais bien paraître aux maux qui vous affligent, 
+Que ce n'est pas à tort que vos bontés m'obligent, 
+Mais j'espère qu'un Dieu plus fort que vos ennuis 
+Fera ce que je veux et ce que je ne puis. 
+Quoi que fasse le sort, le Ciel en est le maître 
+Et se rend pitoyable à celui qui veut l'être. 
+Oui ma fille il est vrai, que le Ciel satisfait, 
+Paye par ses faveurs les biens que l'homme fait ; 
+Mais hélas il me traite avec tant d'amertume, 
+Que pour moi seulement il change de coutume. 
+Ses rigueurs toutefois ne me rebutent pas, 
+Mes bienfaits s'étendront au-delà du trépas. 
+Je ne vous offre point le soin qui vous soulage, 
+Pour obtenir du Ciel un pareil avantage, 
+Mais je l'offre à vos maux parce que c'est un droit, 
+Ou plutôt un tribut que l'homme à l'homme doit. 
+Hélas ! Au triste état où le Ciel m'abandonne, 
+Je le reçois de vous comme un bien qu'on me donne. 
+Mais sans vous ramener à vos premiers travaux, 
+Puis-je vous demander l'histoire de vos maux ? 
+Si méprisant pour vous les plus rudes supplices 
+Je voudrais par mon sang payer vos bons offices, 
+Jugez si dans l'instant que vous séchez mes pleurs, 
+Je vous refuserais de dire mes malheurs. 
+Rome est donc mon pays, et mes premiers Ancêtres 
+Furent jadis comptés au nombre de ses Maîtres ; 
+Là parmi les honneurs s'écoulèrent mes jours, 
+Tant qu'un heureux destin favorisa leurs cours, 
+Mais selon sa coutume abondant en disgrâce, 
+Le sort qui me flattait changea bientôt de face, 
+Et n'eût pu toutefois me faire succomber, 
+S'il n'eût attaqué Rome, et ne l'eût fait tomber. 
+Le Bruit de ce malheur a couru dans Athènes 
+Mais j'en saurai de vous les nouvelles certaines. 
+Rome était en repos, et déjà ses enfants 
+Étaient de ses voisins ou crains ou triomphants. 
+Arbitres de la paix, Arbitres de la guerre, 
+Ils pouvaient retenir ou lancer le tonnerre. 
+Et déjà leur Grandeur avait tant de Renom, 
+Que les forces d'autrui faisaient moins que leur nom. 
+Cependant des Gaulois les armes indomptables, 
+Aux pays d'alentour se rendaient redoutables ; 
+Et n'allaient nulle part signaler leurs exploits, 
+Que le sang ou le fer n'en marquât les endroits. 
+Riches de leur butin, et plus enflés de gloire, 
+Ils veulent jusqu'à Rome étendre leur victoire, 
+Brennus leur Capitaine approuve leurs desseins, 
+Qui ne furent pour eux ni malheureux ni vains ; 
+Ils marchent donc vers Rome, et Rome les méprise, 
+Mais hélas ce mépris facilita sa prise, 
+On arma toutefois, mais si légèrement, 
+Que cela ne semblait qu'un divertissement, 
+On parlait du Gaulois comme d'un adversaire, 
+Indigne qu'un Romain songeât à le défaire, 
+Et cet orgueil funeste aux plus grands des humains, 
+Fut le seul ennemi qui défit les Romains. 
+Mais enfin que fit-on ? 
+On sortit de la ville, 
+Chacun juge pour soi la conquête facile, 
+On livre le combat, et de chaque côté, 
+Le gain de la bataille est longtemps disputé. 
+À la fin les Romains, ha jugez par mes larmes 
+Des malheureux succès qui suivirent leurs armes ; 
+Je ne vous dirai point quels furent les exploits, 
+Par qui cette victoire honora les Gaulois. 
+Mais pour vous dire tout, en ce jour lamentable, 
+Rome, Rome perdit le titre d'indomptable. 
+Ce bruit est dans la ville aussitôt répandu, 
+Le Sénat est en deuil, le peuple est éperdu. 
+La peur glisse partout, et semblable à la peste 
+Par son propre venin croit et devient funeste ; 
+On fuit, on quitte Rome, où l'on dût triompher, 
+On l'abandonne au feu qu'on pouvait étouffer, 
+Ou plutôt on eût dit en ce danger extrême 
+Que Rome à son malheur fuyait de Rome même. 
+Là puisqu'un père même engagea mon serment, 
+Je dirai sans rougir que j'avais un amant, 
+Et qu'un parfait bonheur eût été mon partage, 
+Si la gloire de Rome eût duré davantage. 
+Comme ce noble coeur m'aimait parfaitement, 
+Il ne craignait aussi que pour moi seulement. 
+Dans ce commun désastre il propose à mon frère 
+De chercher un rempart contre tant de misère, 
+Et de nous retirer chez les Lipariens, 
+Où le sort laissait des amis et des biens : 
+Ainsi mon frère et lui seuls de cette partie, 
+Entre mille dangers me mènent dans Ostie, 
+Là sans nous amuser nous prenons un vaisseau, 
+Et nous nous exposons à la merci de l'eau, 
+Où tant que le permis cet élément barbare, 
+Nous tînmes sans péril la route de Lipare. 
+Mais nous voguons en vain vers un climat plus doux, 
+À l'exemple du Ciel la mer est contre nous, 
+Incertains du salut, incertains du naufrage 
+Le vent nous fit errer de rivage en rivage, 
+Et cette mer n'a point de rochers ni d'écueils 
+Dont le sort n'ait taché de faire nos cercueils. 
+Ainsi durant neuf mois, sur le dos de Neptune, 
+Nous a persécutés le Ciel ou la Fortune. 
+Quoi sans apprendre rien ou d'une ou d'autre part, 
+De ce que Rome a vu depuis votre départ. 
+Rien du tout. 
+Achevez. 
+Après de longues peines, 
+À la fin le hasard me jette dans Athènes. 
+Ce frère et cet amant. Qui vous trouble si fort ? 
+Il les faut demander à notre mauvais sort. 
+Comment ! Sont-ils perdus ? 
+L'abord de cette Ville 
+Est un gouffre pour eux, comme il m'est un asile. 
+Hélas hier au soir proche de ce château, 
+Le choc d'un grand rocher brisa notre vaisseau. 
+Ceux que vous demandez avecques lui périrent. 
+Ô Dieux ! Mais quelles mains à votre aide s'offrirent ? 
+Un flot me mit à terre, où par votre secours, 
+Je sentis renouer la trame de mes jours. 
+Mais de quelques faveurs dont le Ciel me soulage, 
+Même étant hors des flots, j'y dois faire naufrage, 
+Hélas puisque j'y laisse un frère, et son ami, 
+J'y péris avec eux, ou n'en sort qu'à demi. 
+Ne désespérez point de la bonté céleste, 
+Comme le Ciel vous sauve, il peut sauver le reste, 
+Son pouvoir est plus fort qu les flots courroucés, 
+Et votre exemple seul vous le confirme assez.
+Il parle à quelqu'un des siens.
+Qu'on aille s'enquérir si l'onde favorable 
+N'a rien de ce vaisseau rejeté sur le sable : 
+Moi-même à ce dessein je prêterai les mains ; 
+Mais dites-moi le nom de ces jeunes Romains. 
+Cette extrême faveur que vous m'avez offerte 
+Ne pourra me servir qu'à confirmer ma perte. 
+Que je sache leur nom. 
+Si je le dis, hélas 
+J'obéis seulement et je n'espère pas. 
+Ce frère, dont la mort est ma dernière peine, 
+Se nomme Télariste. 
+Et l'autre ? 
+Clarigène.
+Clarigène ! Bons Dieux, Polémon allons voir. 
+Ha ! Que vous m'obligez. 
+Ce n'est que mon devoir. 
+Quel étrange accident, Polémon, quelle histoire ! 
+Elle est et lamentable, et difficile à croire. 
+Ne perdons point de temps, cherchons ces malheureux, 
+Ma fille comme vous je soupire après eux. 
+Ma Nièce conduisez cette Dame affligée, 
+Où d'un peu de repos elle soit allégée, 
+Ne lui parlez de rien, mais flattez ses tourments, 
+Et ne refusez rien à ses contentements. 
+Allez. 
+Quelle rencontre ! 
+Heureuse et salutaire 
+Si l'eau ne cache pas un si lâche adversaire ; 
+Heureuses milles fois si les destins plus doux 
+En laissent la vengeance à mon juste courroux. 
+Ne dissimulez point, et tirez-moi de peine, 
+Chez les Athéniens connaît-on Clarigène ? 
+Pourquoi ? Que craignez-vous ? On le cherche en tous lieux. 
+Dites qu'on le poursuit, et vous parlerez mieux. 
+Dites ne feignez point, où me vois-je réduite ?
+S'il faut pâtir encor j'y suis assez instruite. 
+La crainte seulement vous fait ainsi parler. 
+De tristes vérités vous font dissimuler. 
+Hélas ! En cet état où le destin m'a mise, 
+Vous ne pouvez m'aider que par votre franchise. 
+N'appréhendez donc pas d'accroître mon ennui, 
+Si Clarigène est mort que craindrai-je pour lui ? 
+Et si ses actions le rendent si coupable, 
+Que vos plus douces lois le rendent punissable, 
+Son trépas, que je pleure, au moins le cachera, 
+Et puisqu'il est sans honte il me consolera. 
+Mais l'aimez-vous si fort ? 
+Oui Cléone je l'aime, 
+Et je ne rougis pas de le dire moi-même ; 
+Quand l'honneur fait l'amour, dont un coeur est brûlé 
+Nous ne devons rougir que de l'avoir celé. 
+Ainsi je ne feins pas, et je fuis toute ruse, 
+De peur que votre feinte en la mienne s'excuse, 
+Je vous montre en mes feux ce que j'ai de plus cher, 
+Afin de vous apprendre à ne rien me rien cacher. 
+De votre opinion vous faites votre gêne. 
+Cléone répondez, poursuit-on Clarigène ? 
+Par quelle injuste main peut-il être assailli. 
+Pour être malheureux croit-on qu'il ait failli ? 
+Et tient-on parmi vous cette étrange maxime 
+Que les rigueurs du sort sont des marques de crime ? 
+J'apprends d'un bruit confus, qui le condamne à tort 
+Que de moins criminels ont mérité la mort. 
+Enfin tout contribue à ma mélancolie, 
+De quoi l'accuse-t-on ? 
+L'accuse-t-on Célie ? 
+Dissimulez, Cléone, autant qu'il est permis, 
+Quand on craint d'augmenter les maux de ses amis, 
+Mais sachez qu'une feinte est pour moi plus cruelle 
+Que le récit mortel d'une triste nouvelle. 
+Le Ciel vous affligea, vous en faites autant, 
+Mais pour vous en divertir, allons où l'on m'attend. 
+Allez, allez, Cléone, où le jeu vous invite, 
+Pour moi je dois aux Dieux ma première visite, 
+Aussi bien dans les maux, qui traversent mes jours, 
+Ce n'est que de leurs mains que j'attends du secours. 
+Je vais vous envoyer un Page qui vous mène. 
+Que je trouve en tous lieux la fortune inhumaine ! 
+J'ai fui de mon pays, où comme en des enfers, 
+Tout était dans la flamme, ou bien dedans les fers, 
+J'ai monté sur les eaux, où l'averse fortune, 
+M'a cent fois en fureur représenté Neptune, 
+Enfin j'ai craint partout les hommes ou le sort, 
+Et tout ce que j'ai craint je le rencontre au port. 
+Les plus affreux dangers ont épargné nos têtes, 
+Et seulement le havre a pour nous des tempêtes : 
+Ainsi par un malheur qui ne se peut changer, 
+Le danger m'est un port, et le port un danger. 
+Ô vous, dont la faveur est toujours salutaire, 
+Dieux, quels voeux vous ferai-je, ou pourquoi dois-je en faire ? 
+Ici loin d'espérance, ici loin de support, 
+Je plains un malheureux, je redoute sa mort, 
+Et voyant sans respect sa gloire poursuivie 
+Je n'ose justes Dieux vous demander sa vie. 
+Je le pleure perdu, par les flots enlevé, 
+Et crains de le pleurer quand il sera trouvé. 
+Regarde, cher amant, ce que ton sort me livre, 
+Tu ne peux pour mon bien ni mourir ni revivre, 
+Et je me vois réduite à ce point de malheurs, 
+Que ta mort et ta vie ont pour moi des douleurs. 
+Triste jeu du destin dont je suis poursuivie ! 
+Je voudrais que ma mort pût défendre ta vie, 
+Et comme si j'aidais au Démon qui te nuit, 
+C'est moi qui te découvre au bras qui te poursuit, 
+C'est moi qui te trahis, et si l'onde te cache, 
+C'est moi pour ton malheur, c'est moi qui t'en arrache, 
+Et qui m'instruit enfin par cet événement ; 
+Qu'on peut aimer ensemble, et trahir un amant. 
+Vous mènerai-je au temple ? 
+Allons, je désespère, 
+Et si le Ciel me tue, il me sera prospère. 
+Ainsi vous me voyez, et c'est par ce secours 
+Que les Dieux adoucis ont conservé mes jours. 
+Un Pêcheur dites-vous, témoin de ce naufrage, 
+Vous reçut dans sa barque, et vous mit au rivage. 
+Ainsi je fus sauvé ; mais par quel autre sort 
+Parmi tant de périls trouvâtes-vous le Port ? 
+Parmi tant de périls, qui me firent la guerre 
+Des planches du vaisseau me portèrent à terre ; 
+Je ne dis pas au port, parce que sans ta soeur, 
+Je ne saurais goûter ce qu'il a de douceur. 
+La fortune me tue, alors qu'elle m'en prive, 
+Et ce bord m'est sans elle une infernale rive. 
+Que nous eût été doux un redoutable écueil, 
+Si pour trois malheureux, il n'eût fait qu'un cercueil ! 
+Le Ciel nous a sauvés contre notre espérance, 
+Mais ce bien n'est pour nous qu'un bien en apparence, 
+Quel bien, et quel salut recevons-nous de lui 
+Si malgré ses faveurs nous mourons en autrui ? 
+Télariste, elle est morte, et ma fortune est telle 
+Que je ne suis qu'horreur, et que rage sans elle, 
+Je ne suis devant toi sans ce bel oeil éteint 
+Que d'un homme perdu le portrait qui se plaint. 
+N'égale point ton mal à mon ressentiment, 
+Hélas tu n'es que frère et moi je suis Amant. 
+L'amitié la plus forte, et la moins passagère 
+Ne fait que des ruisseaux des larmes d'un vrai frère, 
+Mais plus que l'amitié l'amour impérieux 
+Fait des pleurs d'un amant des torrents furieux. 
+Hélas si l'un se plaint, l'autre se désespère, 
+Enfin je suis amant, et toi, tu n'es que frère. 
+Tes ennuis sont les miens, j'endure même peine, 
+Et du moins en douleur j'égale Clarigène.
+N'égale point ton mal à mon ressentiment, 
+Hélas ! Tu n'es que frère et moi je suis Amant. 
+L'amitié la plus forte, et la moins passagère 
+Ne fais que des ruisseaux des larmes d'un vrai frère, 
+Mais plus que l'amitié l'amour impérieux 
+Fait des pleurs d'un amant des torrents furieux. 
+Hélas ! Si l'un se plaint, l'autre se désespère, 
+Enfin je suis amant, et toi, tu n'es que frère. 
+Ne dessert point tant à ton ressentiment, 
+Lorsqu'on aime en vrai frère, on endure en amant, 
+Ce que fait dans ton coeur un amour tout de flamme 
+Une sainte amitié le fait dedans mon âme ; 
+Et ces deux passions sont d'illustres Tyrans, 
+Qui ne sont entre nous que des noms différents. 
 Hélas ! 
-Vous soupirez: Qu'entends-je ? Hé quoi n'avez vous pas
-Toujours pour Alamir cette haine mortelle...
-J'ai cent fois éprouvé ta prudence et ton zèle,
-Et je vais confier des secrets à ta foi,
-Ami, qui ne sont sus que des Dieux et de moi. 
-Je les tairais encor si mon âme étonnée
-Pouvait vaincre ou changer la triste destinée ;
-Mais par un cruel sort blessé de tous côtés,
-Pour détourner ses traits j'implore tes clartés.
-Apprends donc de mes jours le secret déplorable, 
-Au milieu des honneurs, dont tu vois qu'on m'accable,
-Parmi tant de grandeurs, sous ces titres pompeux,
-Qui semblent relever le nom de mes aïeux,
-Et soutenir l'espoir d'une illustre famille ;
-Enfin sous cet habit tu ne vois qu'une fille. 
-Quoi vous, Seigneur ?
-Écoute, et me laisse parler. 
-Je pénètre, je vois ce qui peut te troubler :
-Ce fut toi qui pris soin d'élever mon enfance,
-Mais mon père aisément trompa ta vigilance,
-Déjà vieux, sans enfants, seul du nom de Zegris ; 
-Dans un fécond hymen il crut trouver un fils,
-Et d'Armire à la sienne unit la destinée ;
-Je fus l'unique fruit de ce triste hyménée.
-Ma mère dont encor, je pleure le malheur,
-En me donnant la vie, expira de douleur. 
-Mon père qui voyait d'un fier Abincerrage
-Ses biens par ce revers devenir le partage,
-Cacha son désespoir, et mon sexe avec soin.
-De ma triste naissance un esclave témoin,
-Fut le seul confident de ce vain artifice, 
-Dont aujourd'hui les Dieux confondent l'injustice :
-Enfin de cent héros on me crût l'héritier,
-Tu m'appris à dompter un superbe coursier.
-Tous les jours au travers d'une épaisse poussière,
-On me voyait fournir une noble carrière . 
-La chasse était l'objet de mes plus chers désirs.
-L'arc et les javelots faisaient tous mes plaisirs.
-Je vivais dans les bois, et souvent croyais être
-Ce que même à tes yeux j'affectais de paraître.
-Je trompai tes regards, ceux du Roi, de la Cour, 
-Heureuse si j'avais aussi trompé l'amour.
-Mais je vis Alamir dans ce jour plein de gloire...
-Jour qui sera longtemps présent à ma mémoire.
-Il revenait suivi d'ennemis enchaînés,
-De généraux captifs, de Princes détrônez. 
-Ses Soldats à l'envi sur leurs armes brillantes,
-Étalaient des vaincus les dépouilles sanglantes.
-Il marchait entouré de faisceaux, d'étendards ;
-Fier sans être orgueilleux, tel qu'on peint le Dieu Mars.
-Auguste dans son port, sans arrêt sans contrainte,
-Imprimant aux mortels le respect et la crainte.
-Il n'était point chargé d'un vain ajustement ;
-Son nom fameux était son unique ornement.
-Abendax, je le vis, je sentis dans mon âme...
-Que dis-je, en le voyant j'appris que j'étais femme. 
-Surpris, confus, troublé de ce déguisement,
-À peine je reviens de mon étonnement.
-Qu'entends-je ! Zulemar est une fille ! Elle aime !
-Hé qui ? Quel est l'objet de son amour extrême !
-Grands Dieux ! C'est Alamir l'ennemi des Zegris ! 
-Avez vous oublié ses injustes mépris ?
-Ne vous souvient-il plus de la haine d'un père,
-Songez qu'elle doit être en vous héréditaire.
-Que dis-tu ? cet amour qui cause ton ennui,
-Encor plus que ma haine est funeste pour lui. 
-Tu le vois, insensée, envieuse, cruelle,
-J'ai voulu qu'Alamir crût Fatime infidèle.
-Mes voeux sont exaucés, tous tes traits ont porté,
-Il revient de fureur et d'amour agité.
-Gloire, devoir, respect, danger rien ne l'arrête, 
-Par ce retour sans ordre il expose sa tête.
-Un Roi fier et jaloux de son autorité,
-Opposera les Lois à sa témérité.
-Oui déjà sous ses pas s'ouvre le précipice.
-Mal-heureuse, et c'est moi qui l'entraîne au supplice ; 
-Ce sont mes faux avis, c'est pour les avoir crus,
-Si je le haïssais, pourrais-je faire plus !
-Le Roi vient ; cachez lui votre flamme alarmée.
-Savez-vous qu'Alamir a quitté mon armée,
-Qu'il revient en ces lieux sans mon ordre ?
-Oui, Seigneur. 
-Il faut pour satisfaire à ma juste fureur,
-De ce présomptueux humilier l'audace :
-Zulemar, que l'effet devance la menace,
-Prenez ma Garde, allez l'arrêter aujourd'hui,
-Qu'une obscure prison me réponde de lui. 
-Lui, Seigneur, qu'en tous lieux la victoire accompagne ;
-Son bras vient d'affermir votre Empire en Espagne,
-L'État à sa valeur doit ses prospérités,
-Adoré des Soldats et du Peuple....
-Arrêtez.
-Ce n'est pas un avis qu'ici je vous demande, 
-Zulemar, apprenez qu'un Roi lorsqu'il commande,
-Veut de l'obéissance, et non pas des raisons ;
-Votre esprit va trop loin chercher de vains soupçons.
-Prenez ma garde, allez que rien ne vous étonne,
-Partez, obéissez, c'est moi qui vous l'ordonne.
-Dût mon refus, Seigneur, m'exposer à la mort,
-Lorsque votre bonté daigna porter mon sort,
-Du néant où j'étais, au comble de la gloire ;
-La Loi la plus présente encor à ma mémoire,
-Que vous sûtes prescrire à ma sincérité, 
-Ce fut de ne jamais farder la vérité,
-Voici le temps, Seigneur, d'en faire un digne usage ;
-Voyez à quels dangers cet ordre vous engage ?
-Alamir est coupable, il est vrai, ses exploits
-Ne peuvent le sauver de la rigueur des lois, 
-Son sang doit effacer son retour téméraire,
-Vous pouvez le punir ; mais le devez vous faire ?
-Songez que la clémence est la vertu des rois,
-Qu'il est des attentats contre certaines lois,
-Que souvent moins jaloux des droits de la couronne, 
-Il faut qu'un Roi prudent dissimule ou pardonne.
-Alamir ne vient point les armes à la main
-Refuser ce qu'il doit au pouvoir souverain.
-Si l'on en veut, Seigneur, croire la renommée,
-Pour un soin amoureux il quitte votre Armée : 
-L'amour sur son devoir lui fait fermer les yeux,
-Et Fatime est l'objet qui l'appelle en ces lieux.
-C'est elle....
-Ah ! Zulemar, que me venez vous dire.
-Je le vois, ces raisons ne peuvent vous suffire,
-Vous n'en croirez, Seigneur, qu'un trop ardent courroux. 
-Gardes, qu'on se retire ; Abendax, laissez-nous.
-Quoi qu'ait fait d'Alamir la valeur sans seconde,
-Eût-il sauvé l'État, fût-il vainqueur du monde,
-Rien ne l'arracherait aux rigueurs de la Loi,
-Si le Ciel ne m'avait fait naître que son Roi ; 
-Mais je suis son Rival. Fatime a su me plaire,
-Voila ce qui suspend la mort d'un téméraire,
-Que l'on imputerait dans la postérité
-Plutôt à mon amour qu'à la témérité :
-Mais lorsque ma colère est à demi calmée, 
-S'il ne va sans me voir retrouver mon armée,
-Si ce présomptueux ne rentre en son devoir,
-Si sa présence encor vient braver mon pouvoir,
-Il n'est auprès de moi rien qui le justifie,
-Et le moindre refus lui coûtera la vie ; 
-Confident de mon coeur, sûr de mes volontés,
-Pour instruire Alamir de mes ordres, partez.
-Songez bien quel devoir vous presse l'un et l'autre,
-Retourner est le sien, l'y résoudre est le vôtre,
-Il importe à tous deux d'être exacts : pensez y, 
-C'est ce qu'ordonne un Roi qui veut être obéi.
-Qu'entends-je ! À quel emploi me vois-je destinée ?
-J'aime Alamir : Pour moi sa haine est obstinée,
-C'est peu de cet amour qui pourra l'irriter ;
-On me choisit encor pour le persécuter, 
-À son coeur malheureux on porte un coup terrible,
-On prend pour le frapper l'endroit le plus sensible ;
-Par un funeste arrêt il le verra percer,
-Et c'est ma bouche, hélas ! Qui doit le prononcer !
-Ah Dieux ! Combien par vous ma vie est traversée ! 
-Vos rigueurs... Mais que dis-je ! Et quelle est ma pensée !
-Fatime tient toujours Alamir sous sa loi,
-Tant qu'il vivra pour elle, il ne peut être à moi :
-Tantôt dans mes projets, pleine d'impatience,
-Je voulais de leurs coeurs rompre l'intelligence. 
-Malheureuse ! Hé de quoi te plains-tu, quand ces Dieux,
-Mieux que tu n'aurais cru répondent à tes voeux,
-À l'amour d'un Monarque, à son pouvoir suprême,
-Il faudra qu'Alamir cède tout ce qu'il aime ;
-Ce divorce à mon coeur offre un heureux succès, 
-Ma flamme auprès de lui trouvera plus d'accès ;
-Cette haine qu'il a pour toute ma famille
-Pourra se dissiper à l'aspect d'une fille.
-Hélas ! Où m'emportai-je ! À cet espoir flatteur !
-Ô Ciel ! M'est-il permis d'abandonner mon coeur ? 
-Oui, pour le confirmer allons trouver Fatime ;
-Allons vanter du Roi la précieuse estime, 
-L'éclat du diadème aura... Mais je la vois.
-Dois-je croire, Seigneur, ce que m'apprend le Roi :
-Alamir s'est trouvé digne de votre estime, 
-Vous opposez vos soins au destin qui l'opprime ;
-Je veux bien l'avouer, je tremblais pour ses jours ;
-Mais le Roi s'est laissé fléchir à vos discours,
-Achevez, détournez le coup qui le menace.
-Et quel autre que vous peut obtenir sa grâce ? 
-S'il faut calmer du Roi l'implacable courroux,
-Madame, désormais qui le peut mieux que vous.
-Moi, Seigneur ?
-Vous, le Roi ne veut plus que j'ignore
-Les secrètes bontés dont son choix vous honore,
-Sa main répand sur vous, rang, titres, dignités, 
-Bienfaits, moins glorieux que vous ne meritez,
-Et je viens avec joie à ces grands avantages,
-Rendre mes premiers soins, et mes premiers hommages.
-Les bontés, les bienfaits, l'empressement du Roi,
-Le temps que chaque jour il passe auprès de moi : 
-Ses regards, ses soupirs, et son silence même, 
-Tout me dit, tout m'apprend, tout confirme qu'il m'aime :
-Cependant oserai-je à votre esprit discret,
-De mon bizarre sort confier le secret ?
-Le Ciel ne m'a point fait une âme ambitieuse, 
-Et l'espoir de régner ne me rend point heureuse.
-Le Roi m'accable en vain, de biens à tous moments,
-Je ne sens point pour lui ces tendres mouvements,
-Dont les amants se font de douces habitudes,
-Soins de plaire, transports, craintes, inquiétudes, 
-Je souffre sans regret qu'il s'éloigne de moi ;
-Mon âme est sans plaisir lorsque je le revois,
-Distraite auprès de lui, tranquille en son absence,
-Ce qu'il dit, ce qu'il fait ne me plaît ni m'offense ;
-Non que rien ait caché son mérite à mon coeur, 
-L'air grand, jeune héros, tendre amant, Roi vainqueur ;
-Je connais tout le prix de sa personne auguste,
-Et mon aveugle erreur ne me rend point injuste ;
-Mais qui peut de l'amour éviter le poison ?
-L'âme est-elle toujours soumise à la raison ? 
-Le Roi par ses bienfaits n'aspire qu'à me plaire ;
-Je le vois, je le sais ; tout ce que je puis faire,
-C'est malgré mon penchant de voir avec ennui
-Les faiblesses d'un coeur qui n'est pas fait pour lui.
-Quoi, Madame, un héros que les mortels admirent, 
-Pour qui mille beautés secrètement soupirent ;
-Puissant, heureux, vainqueur de cent peuples divers,
-Est-il donc un captif indigne de vos fers ?
-Mais de votre froideur je pénètre la cause,
-À l'amour de ce Prince, un autre amour s'oppose 
-Alamir...
-Oui, Seigneur, il a su me toucher,
-Il m'a plu, je ne veux, je ne puis m'en cacher,
-Sa grande âme a la gloire uniquement sensible,
-Au milieu des flatteurs, constante, incorruptible,
-Cette droite vertu, cette intrépidité, 
-Ce mépris des honneurs, cette sincérité :
-Enfin mille raisons me le rendaient aimable,
-Je croyais mon amour, fidèle, inviolable ;
-J'en attestais des Dieux le pouvoir absolu,
-Mes yeux, alors, mes yeux ne vous avaient pas vu.
-Moi, Madame ?
-L'aveu qu'ici je vous confie,
-Offense le devoir, blesse la modestie :
-Avant que d'en venir à cette extrémité,
-Quels efforts, quels combats ne m'a-t-il point coûté.
-Croyez, lors que l'amour prend sur nous trop d'empire, 
-Qu'il n'est rien qu'on ne souffre avant que de le dire ;
-Un destin rigoureux m'entraîne malgré moi.
-Mais n'en redoublez point le trouble où je vous vois :
-Si j'ai trop de mes feux montré la violence,
-Je saurai m'en punir par une longue absence, 
-Et mon coeur trop sensible à ces folles amours,
-Vous les dit une fois pour les taire toujours.
-Elle me quitte. Où suis-je, et que viens-je d'apprendre !
-Juste Ciel... Ah ! Sais-tu ce qu'on m'a fait entendre !
-Fatime... Mais suis-moi, sortons de ce Palais : 
-Abendax, viens m'entendre en des lieux moins suspects.
-Heureuse si les Dieux finissent la contrainte...
-Avant que votre coeur s'abandonne à la plainte,
-Apprenez d'Alamir le retour en ces lieux ;
-Ce héros qu'on plaçait au rang des demi-dieux, 
-Qui voyait autrefois retournant de l'armée,
-Au devant de son char voler la renommée ;
-Et le zèle empressé d'un Peuple adorateur
-Parfumer son chemin, exalter sa valeur,
-Accablé maintenant d'une douleur profonde, 
-Sans pompe, sans honneur, et fuis de tout le monde,
-Inquiet, étonné, revient, entre sans bruit,
-À peine accompagné d'un ami qui le suit.
-Ah Ciel ! Ma jalousie a formé cet orage !
-C'est elle qui le perd, et voilà mon ouvrage : 
-Grands Dieux ! De qui dépend le destin des humains,
-Si vous désapprouvez mes innocents desseins,
-Détournez d'Alamir ce courroux formidable, 
-Épuisez tout sur moi, je suis seule coupable,
-Mais, Abendax, sortons ; viens apprendre de moi 
-Ce que m'a dit Fatime, et ce que veut le Roi.
-Non, ne nous flattons point d'une vaine espérance,
-Plus mes exploits sont grands, plus mon retour l'offense ;
-J'ai vaincu, mais je viens sans son ordre en ces lieux,
-Et je ne montre enfin qu'un coupable à ses yeux, 
-Je ne m'aveugle point sur ma triste conduite,
-Je sais quel est mon crime, et j'en prévois la suite ;
-Mais qu'il me fasse grâce, ou m'envoie à la mort,
-Je verrai du même oeil et l'un et l'autre sort.
-Pourquoi de ce retour après votre victoire, 
-Vous faites vous, Seigneur, une image si noire ;
-Si les Dieux et les Rois ne pardonnaient jamais,
-Les malheureux mortels pourraient-ils vivre en paix ? 
-Non, le trouble où tu vois que mon coeur s'abandonne,
-N'est point d'un malheureux que le supplice étonne ; 
-Mais de tant d'ennemis, triomphant et vainqueur,
-Puis-je me regarder moi-même sans douleur ?
-Lorsqu'il faut qu'un pardon honteux à ma mémoire,
-Soit pour sauver mes jours le prix de ma victoire,
-Vous qui prenez plaisir à former de vos mains 
-Quelques mortels plus grands que les autres humains.
-À quelles passions, Dieux ! À combien d'outrages.
-Sans cesse exposez-vous vos plus nobles ouvrages.
-Gazul on nous élève au rang des immortels,
-Partout à nos vertus on dresse des autels, 
-Mais hélas ! Tôt ou tard nous détrompons les hommes,
-Et toujours quelque faible apprend ce que nous sommes :
-De cette triste loi, moi-même à nos neveux,
-Cher ami, je vais être un exemple fameux,
-J'abandonne l'armée, et je trahis ma gloire, 
-Pour des raisons qu'un jour on aura peine à croire.
-Je l'avouerai, Seigneur, puisque votre bonté
-Me donne auprès de vous entière liberté,
-Plus sur votre retour en secret je médite,
-Plus cherchant vos raisons, mon âme est interdite. 
-Je sais que Zulemar, jeune, présomptueux
-Des passions du roi, flatteur, respectueux,
-Nouveau dans les secrets du grand art militaire.
-Et pour toute vertu, savant en l'art de plaire ;
-Depuis six mois à peine à la Cour arrivé,
-Est déjà par la brigue aux emplois élevé,
-Son crédit vous irrite, et par votre présence
-Vous venez balancer sa nouvelle puissance.
-Tu fais à ma faiblesse encore trop d'honneur,
-L'ambition n'est pas ce qui trouble mon coeur : 
-Je suis, je l'avouerai jaloux de cette gloire,
-Qui fait vivre à jamais les grands noms dans l'Histoire.
-Dés ma plus tendre enfance ennemi du repos,
-Je me suis proposé l'exemple des héros,
-Pour la faveur des rois qu'au gré de leurs caprices, 
-Ils accordent souvent à de légers services ;
-J'en cède l'avantage aux moindres courtisans,
-Qui savent mieux que moi prodiguer leurs encens :
-Je n'ai point cru flatté d'un espoir téméraire,
-Être seul à l'État, et toujours nécessaire 
-Pour commander l'Armée, et dispenser ses lois.
-Le Roi peut honorer Zulemar de son choix,
-On ne me verra point par de secrètes brigues,
-De l'heureux favori détruire les intrigues ;
-Son crédit n'aura rien de chagrinant pour moi, 
-Et ma seule vertu me tiendra lieu d'emploi,
-Tels sont mes sentiments, telle est ma politique,
-Et je pense en effet ce que ma bouche explique.
-Cependant ce coeur plein de ces grands sentiments,
-A toutes les erreurs des plus faibles amants ; 
-Oui, dans ces lieux, Gazul, c'est l'amour qui m'entraîne,
-Captif, trop glorieux pour une telle chaîne.
-Seigneur, que dites-vous ?
-Non, je ne rougis pas
-D'avoir d'une Princesse adoré les appas :
-Il n'est point de vertu que l'amour ne surmonte,
-Fatime m'écoutait, j'ai pu l'aimer sans honte,
-Mais que l'amour sur moi prenne tant de pouvoir,
-Qu'une crainte, un soupçon m'arrache à mon devoir,
-C'est-là le seul moyen que je prête à l'envie,
-Pour ternir quelque jour tout l'éclat de ma vie. 
-Seigneur, je vois Fatime, elle vient en ces lieux.
-Que vois-je, est-ce Alamir, en croirai-je mes yeux ?
-Sans suite, sans éclat, quel retour, quel silence !
-Qu'est devenue enfin cette magnificence,
-Ces lauriers, cette Cour, ce peuple, ces soldats, 
-Dont la foule autrefois accompagnait vos pas :
-Ah ! Seigneur, si c'est vous, après votre victoire !
-Où sont tous ces témoins pour me le faire croire ?
-Quelque affreux changement qu'apporte mon retour,
-Vous me voyez, Madame, avec le même amour ; 
-L'honneur de vous revoir est le seul où j'aspire
-Heureux, et plus heureux que je ne vous puis dire ;
-Si de ce prompt retour vous approuvez l'ardeur,
-Et si je vous retrouve avec le même coeur. 
-Moi, Seigneur ?
-Jusqu'ici j'ai tout fait pour la gloire, 
-Madame, après avoir assuré ma mémoire :
-Cherchant à respirer, ne pourrai-je un moment
-Paraître moins vainqueur, pour être plus amant.
-Mais du courroux du Roi, qui pourra vous défendre ?
-Sur son autorité vous semblez entreprendre, 
-Sans son ordre il vous voit revenir en ces lieux,
-Lorsque vous paraîtrez tantôt devant ses yeux,
-Qu'à vous interroger il descendra lui-même :
-Que lui répondrez-vous, Seigneur ?
-Que je vous aime.
-L'Amour a fait mon crime, il me justifiera. 
-Ne vous y fiez pas, cet amour vous perdra.
-Vous le dirai-je enfin, quittez un lieu funeste ;
-De votre vie, ailleurs allez porter le reste,
-Sous un Ciel plus serein, loin de vos envieux,
-Courez mettre à l'abri des jours si précieux. 
-On ne voit plus régner ici que l'injustice,
-Fuyez, abandonnez une Cour où le vice
-N'expose à vos regards que des coeurs corrompus.
-Le vôtre ne l'est point, que voudrais-je de plus ?
-Dussai-je en cette Cour trouver la mort certaine, 
-D'eût m'accabler le Roi d'une implacable haine,
-Quand je verrais pour moi tous les coeurs sans pitié,
-Rien ne m'affligerait que votre inimitié ;
-Certain de vos bontés sur qui je me repose,
-Quoi que fasse le Ciel contre moi, quoi qu'il ose,
-J'ai tant de confiance en vous, en votre foi :
-Que dites-vous ? Quelle est l'erreur où je vous vois ?
-C'est trop vous affermir dans cette confiance,
-Ici trop de malheurs ont suivi votre absence,
-Et je ne me sens point assez de fermeté, 
-Pour cacher à vos yeux la triste vérité,
-Vous avez en ces lieux, Seigneur, qui l'eût pu croire,
-Des rivaux pour l'amour, ainsi que pour la gloire.
-Par le trouble où je suis, jugez de ma douleur,
-Et pour ne point moi-même affliger votre coeur, 
-Souffrez que je vous cache un ennui qui m'accable.
-Ah! Gazul, mon soupçon n'est que trop véritable,
-Lorsqu'un bruit incertain m'apprit qu'en cette Cour,
-Un Rival dangereux traversait mon amour :
-De ses premiers transports mon âme revenue, 
-Zulemar fut le seul qui s'offrit à ma vue ;
-Son crédit près du Roi, ses nouvelles grandeurs,
-Cette haine, Gazul, qui divise nos coeurs,
-Tout me le dit, percé d'une douleur trop vive,
-J'abandonne mon camp, ma gloire, tout, j'arrive, 
-Ce soupçon par Fatime est enfin confirmé,
-N'en doutons point, il l'aime.
-En serait-t-il aimé ? 
-Lui, Seigneur.
-De l'amour la faiblesse est commune ;
-Les yeux les mieux fermés s'ouvrent à la fortune,
-D'un favori naissant, l'éclat est séducteur, 
-Mais je connais Fatime, et réponds de son coeur,
-Son trouble, ses regards, ses discours, son silence,
-Tout m'apprend les combats rendus en mon absence,
-Pour me garder un coeur qu'elle sait qui m'est dû,
-Mais allons cher Gazul, où je suis attendu : 
-Quoi que de Zulemar le pouvoir soit extrême,
-Mes exploits prés du Roi parleront pour moi-même,
-Il me rendra l'estime acquise à mon devoir.
-Entrons.
-Seigneur, le Roi vous défend de le voir.
-À moi ?
-Votre retour sans ordre est une offense, 
-Qui soustrait à vos yeux son auguste présence.
-Zulemar est chargé de ses ordres secrets,
-Pour vous en avertir, je les devance exprès.
-Ce Prince de sa part vous les doit faire entendre,
-Il va se rendre ici, c'est à vous de l'attendre. 
-A cette indignité, Dieux, me réserviez-vous ?
-Quand viendra-t-il ? 
-Seigneur, le voici.
-Laissez-nous,
-Seigneur, avant qu'ici ma bouche vous explique
-Tout ce que m'a du Roi prescrit la politique,
-Permettez qu'à vos yeux je montre avec respect 
-Cette admiration qu'imprime votre aspect ;
-Et souffrez que mon coeur plein de votre memoire,
-Vous rende les tributs qu'on doit à votre gloire :
-L'aversion qui règne entre nos deux maisons,
-Jetant dans les esprits mille nouveaux soupçons, 
-S'est fait de nous aigrir une loi souveraine :
-Mais, Seigneur, pour un temps suspendons notre haine,
-Ou plutôt, et mon âme en fait tous ses souhaits ;
-Réunissons nos coeurs en une heureuse paix,
-De cette indigne haine humilions l'audace, 
-Je veux bien le premier implorer cette grâce,
-Et ne voit point de honte à briguer devant tous
-L'estime et l'amitié d'un héros tel que vous.
-Pourrai-je me flatter d'un union si chère ?
-Le Roi de ses secrets m'a fait dépositaire : 
-Votre retour sans ordre excite son courroux,
-J'ai son pouvoir en main : Ah ! qu'il me serait doux 
-D'arracher votre tête au coup qui la menace,
-De vous rendre en ces lieux votre première place,
-Et de vous inspirer de prêter votre coeur 
-Aux sincères avis d'un ami plein d'ardeur ;
-Auprès du Roi pour vous je puis tout entreprendre,
-Prés de vous pour moi-même, à quoi puis-je m'attendre.
-Zulemar, car enfin éloigné de ces lieux,
-Je n'ai point encor su tes titres glorieux. 
-Le Roi pour mon retour prévenu de colère,
-De son pouvoir sur moi t'a fait dépositaire :
-Tu le dis, mais enfin pour m'offrir ton secours.
-Pour te voir en effet l'arbitre de mes jours,
-Apprends moi quels exploits t'ont rendu remarquable ? 
-Et qu'a fait jusqu'ici ton bras de mémorable ?
-De cent jeunes beautés qui brillent à la Cour ;
-Frivole adorateur tu sais faire l'amour ;
-Et c'est enfin sur quoi tout ton orgueil se fonde.
-Mais puisqu'à tes bontés il faut que je réponde : 
-Écoute et suis l'avis que je vais te donner,
-À m'offrir ton appui cesse de t'obstiner,
-Ton indigne pitié me ferait trop d'outrage,
-Montre-toi vrai Zegri, contre un Abincerrage ;
-L'honneur le plus certain et le plus grand pour toi, 
-C'est d'être l'ennemi d'un homme tel que moi.
-Si pour moi cette haine avait quelque avantage,
-Rien ne m'empêcherait de le mettre en usage,
-Et mon âme si loin en porterait l'excès,
-Que tel qui me dédaigne en craindrait les effets, 
-Mais, Seigneur, je pénètre, et vois votre pensée :
-Vous croyez que paré d'une vertu forcée,
-Cherchant à profiter du trouble des esprits,
-Je pretends élever mon sort sur vos débris,
-Et que pour vous cacher cette lâche espérance,
-D'une fausse pitié j'emprunte l'apparence :
-Plût au Ciel que mon coeur vous pût être connu,
-De votre injuste erreur désormais revenu ;
-Loin de blâmer en lui cet excès de tendresse,
-Un secret mouvement vous apprendrait sans cesse, 
-Que vous êtes l'auteur du trouble où je me vois,
-Et que sans vous l'amour n'eut pas fait mon emploi ;
-Mais le Roi veut savoir quel sujet vous amène,
-C'est son ordre, je dois, ou m'attirer sa haine
-En rendre un compte exact de tout notre entretien 
-Hé bien, Seigneur, parlez que lui dirai-je ?
-Rien.
-Si savoir mes desseins est son ordre suprême :
-Me voila prêt, il peut m'interroger lui-même ;
-Pourquoi m'évite-t-il ? Si le sort envieux
-M'avait fait en vaincu retourner dans ces lieux ; 
-Dis moi que ferait-t-on de plus pour me confondre ?
-Enfin ce n'est qu'au Roi que je prétends répondre,
-Et je verrai couler sans regret tout mon sang,
-Plutôt que de rien faire indigne de mon rang. 
-Adieu.
-Vous le voyez ; une haine invincible 
-À toutes vos bontés rend son coeur insensible :
-Hé bien pour vous marquer, qu'il dédaigne vos soins ;
-En peut-il faire plus ?
-En doit-il faire moins ?
-Quoi que de la douceur j'emprunte le langage,
-D'un ennemi toujours il croit voir le visage, 
-S'il savait qui je suis ; à cet aveu crois-tu
-Qu'il conservait encor la cruelle vertu ?
-Non, Abendax, il faut dévoiler ce mystere :
-Allons, il faut lui dire...
-Ô Dieux ! Qu'allez-vous faire ?
-Lui croyez-vous un coeur capable de pitié ? 
-Pensez-vous triompher de son inimitié ;
-Enfin ignorez-vous qu'il adore Fatime,
-Il lui sacrifiera l'aveu de votre estime.
-Quelle honte ! Et le Roi pour comble de malheur,
-Apprenant votre sort verra-t-il sans douleur, 
-Qu'il a mis ses secrets dans le sein d'une fille,
-Vous êtes tout l'espoir d'une illustre famille ;
-Songez, si vous parlez dans quel triste embarras...
-Mais Alamir se perd si je ne parle pas ;
-Sur son retour ici le Roi veut qu'il prononce. 
-Si je vais rapporter sa superbe réponse,
-Cet orgueilleux refus terminera ses jours.
-Que faire ? En ce moment le Ciel m'offre un secours ;
-Si Fatime avec moi voulait d'intelligence,
-D'un héros qu'elle outrage embrasser la défense... 
-Elle seule, Abendax, peut calmer mon souci :
-Viens, allons la trouver... Mais elle arrive ici.
-Du destin d'Alamir, Seigneur, daignez m'instruire ;
-Vous venez de le voir, que vous a-t-il pu dire,
-Aux volontés du Roi ? S'est-t-il enfin rendu ? 
-Qu'en doit-t-on espérer ?
-Madame, il est perdu.
-Et si dans ce moment vous n'obtenez sa grâce,
-Rien ne peut arrêter le coup qui le menace,
-Vous seule auprès du Roi vous pouvez tout pour lui :
-Parlez en sa faveur, prestez-lui votre appui ; 
-Obtenez qu'il le voie, obtenez qu'il l'écoute,
-Privé de ce secours, il se perdra sans doute.
-Moi ? Que pour Alamir j'aille parler au Roi ?
-Si le penchant secret que ce Prince a pour moi
-Lui fait tout accorder, si j'en obtiens ce gage, 
-Songez-vous bien, Seigneur, où sa bonté m'engage ?
-Rien n'est à ménager pour sauver un vainqueur,
-Dont son aveugle amour a fait tout le malheur.
-Le Ciel vous offre enfin un moyen infaillible,
-Peut-être que l'effort vous en sera pénible ;
-Mais si vous sentiez assez de fermeté,
-Pour lui parler, Madame, avec sincérité,
-Si vous lui confirmiez de votre propre bouche
-Que l'amour qu'il ressent n'a plus rien qui vous touche ;
-Honteux de son erreur, privé de tout espoir, 
-Alamir rentrerait bientôt dans son devoir.
-Ah ! Que me dites vous ? Quoi ma bouche cruelle
-L'accablerait encor d'une douleur mortelle :
-J'irais lui révéler mon infidélité ;
-Que me demandez-vous, à quelle extrémité ? 
-Portez-vous de mon coeur l'innocence tendresse ?
-Ah ! De grâce, Seigneur, épargnez ma faiblesse !
-Moi lui dire son sort, ignorante du mien ?
-Hélas ! Suis-je en état de l'instruire du sien ?
-Non il vaut mieux suivant ma triste destinée, 
-Aller traîner ailleurs ma vie infortunée :
-De souffrir mon départ, je vais presser le Roi,
-Venez, Seigneur, venez vous joindre avecque moi.
-Ici par mon exil tout changera de face ;
-Alamir obtiendra facilement sa grâce : 
-L'équitable raison éclairera le Roi,
-Chacun sera content, tout sera calme : Et moi
-Je fuirai des regards que ma présence gêne,
-Et qui sur moi, Seigneur, ne tombent qu'avec peine.
-Madame....
-Au nom des Dieux ne me résistez pas, 
-Je sais que ce dessein avance mon trépas ;
-Mais cette vie, hélas ! que chacun tient si chère ,
-Ne me plaisait qu'autant qu'elle pouvait vous plaire ;
-Et puis que rien en vous ne flatte mon espoir, 
-Je vais priver mes yeux du plaisir de vous voir. 
-Hélas ! quelle est la fin que le sort me destine !
-Le Ciel détruit toujours tout ce que j'imagine !
-Mais ne la quittons pas, profitons de l'erreur
-Qui me rend malgré moi maîtresse de son coeur ;
-Qu'en faveur d'Alamir elle agisse, elle presse, 
-À ce prix, s'il le faut, écoutons sa tendresse,
-Trompons-là, tout est juste, et tout est glorieux,
-Pour sauver du trépas ce qu'on aime le mieux.
-Oui tu verras changer le destin qui m'accable;
-Fatime à mes desseins veut être favorable, 
-À flatter son amour j'ai longtemps balancé,
-Mais enfin, Abendax, mon scrupule a cessé ;
-Quand j'ai vu que l'erreur où son coeur s'abandonne,
-Sur la tête bientôt attachait la Couronne.
-Grâce au penchant secret qui lui parle pour moi, 
-Elle même a couru fléchir l'esprit du Roi :
-Que te dirai-je enfin, il n'a pu s'en défendre,
-Il doit voir Alamir en ces lieux et l'entendre,
-C'est ce qu'on vient déjà de lui faire savoir ;
-Tu vois qu'avec raison je reprends quelque espoir, 
-En daignant l'assurer du pardon de son crime,
-Le Roi ne taira point qu'il brûle pour Fatime.
-Le Princesse elle-même après leur entretien,
-De son manque de foi ne lui cachera rien.
-Juge de sa douleur à ce revers funeste. 
-Pense-tu qu'il m'évite, encor qu'il me déteste ;
-Lors qu'expliquant mon sort, implorant son appui 
-Ma bouche lui dira ce que je sens pour lui,
-Non, son grand coeur touché de ma persévérance,
-Ne mettra plus de borne à sa reconnaissance. 
-Quelle gloire, Abendax, quel plaisir, quel bonheur
-D'occuper, de remplir, de posséder un coeur
-Fier, inflexible, exempt de honte, de bassesse,
-Et dont l'amour enfin est l'unique faiblesse :
-Mais j'entends Alamir : c'est lui, retire toi. 
-Seigneur dans un moment vous allez voir le Roi,
-J'ai fléchi son esprit, j'ai vaincu sa colère,
-Et s'il vous parle enfin ce n'est qu'à ma prière.
-Voyez, et daignez en juger par les effets,
-Si d'un coeur ennemi ce sont-là les projets : 
-Au reste quand pour vous tout s'unit, tout conspire,
-Vous-même en ce moment n'allez pas vous détruire,
-Ménagez avec soin un monarque irrité ;
-Voyez-le sans chagrin, parlez lui sans fierté,
-Il a toujours pour vous une sincère estime, 
-Il ne peut soupçonner votre vertu d'un crime,
-Et s'il veut qu'attachés toujours à leur devoir,
-Les plus grands soient les plus soumis à son pouvoir :
-Si pour vous étonner il montre en apparence
-Trop de ressentiment d'une légère offense, 
-Cette sévérité ne tient rien des tyrans,
-Ses desseins sont toujours aussi justes que grands,
-Et soit que son pouvoir récompense ou punisse,
-La raison le conduit, et non pas le caprice : 
-Mais les Princes, Seigneur, que l'équité soutient, 
-Veulent être absolus, vous le savez. Il vient
-Je vous laisse.
-Seigneur...
-Observez le silence,
-Alamir ; votre orgueil demande ma présence,
-Je l'accorde, je fais ce que vous souhaitez,
-Mais avant qu'expliquer vos raisons, écoutez. 
-Vous êtes grand, fameux, mille exploits pleins de gloire
-Affleurent de vos jours l'éclatante mémoire.
-Vous avez cru peut-être en violant les lois ;
-Qu'elles devaient se taire au bruit de vos exploits :
-Mais non, plus les sujets sont prés des diadèmes, 
-Plus un devoir exact doit régner sur eux-mêmes.
-De l'Univers entier observez ; c'est sur eux
-Que les Rois pour donner des exemples fameux
-Avec plus de splendeur signalent leurs puissances,
-Par des punitions ou par des récompenses. 
-Si j'avais voulu croire un trop juste courroux,
-Votre retour m'offrait ce grand exemple en vous ;
-Mais vos rares vertus, et ma reconnaissance
-Avoient de mes transports calmé la violence,
-Sans examiner rien je vous faisais partir, 
-Il ne vous en aurait coûté qu'un repentir :
-Vous n'avez pas daigné profiter de ma grâce, 
-Au contraire à cet offre augmentant votre audace,
-Vous avez demandé fièrement à me voir.
-Me voici ; votre sort n'est plus en mon pouvoir, 
-Aux lois de mon État il faut que j'obéisse,
-Que je vous récompense, ou que je vous punisse.
-Voila ce qu'ont produit vos désirs imprudents,
-Il suffit ; à présent parlez, je vous entends.
-Seigneur, je ne veux point chercher pour ma défense 
-Tout ce qui peut ici demander ma présence ;
-J'aurais mille raisons pour me justifier,
-Si sur de tels secours je voulais m'appuyer ;
-Je l'avoue, et ma gloire en ce moment blessée
-Ne me punit que trop d'une ardeur insensée... 
-J'aime : si de l'amour les trop puissantes Lois,
-Dans toutes leur rigueur pressaient le coeur des rois ;
-Si de son ascendant vous connaissiez l'empire,
-Pour paraître innocent je n'aurais rien à dire.
-Oui, Seigneur, entraîné par ce fatal pouvoir, 
-J'ai violé les lois, j'ai trahi mon devoir ;
-J'ai mérité la mort, et perds toute espérance,
-Si la justice en vous ne cède à la clémence,
-Peut-être aurais-je pu, fier d'un peu de bonheur
-Raconter mes exploits pour toucher votre coeur ; 
-Vous dire que mon bras, grâces aux Dieux propices,
-A su rendre à l'État d'assez heureux services,
-Et que mon sang pour vous répandu mille fois
-Doit affranchir mon sort de la rigueur des Lois.
-Mais qu'ai-je fait, Seigneur, dont l'honneur de le faire 
-Dans le même moment, n'ait été le salaire.
-Vos ordres, il est vrai, me pressaient de partir,
-Mais à ne vous point voir je n'ai pu consentir.
-Non, Seigneur, qu'obstiné dans ma coupable audace,
-J'aie approuvé mon crime, et refusé ma grâce ;
-Votre seul intérêt a pu dans votre Cour
-Pour quelque temps encor prolonger mon séjour.
-Objet infortuné d'une haine trop juste,
-Malheureux et privé de votre aspect auguste.
-Aurais-je osé, Seigneur, commander vos soldats ? 
-Auraient-ils désormais voulu suivre mes pas ?
-Lors qu'un camp empressé nous sert et nous révère,
-C'est vous seul, c'est son Roi qu'en nous il considère,
-Et qui d'un favori veut bien suivre les lois,
-D'un malheureux banni me connaîtrait la voix. 
-De ces vaines couleurs je crois peu l'apparence ;
-Mais de tous vos desseins je connais l'innocence :
-Alamir mon esprit étouffe les soupçons,
-Et cède à la bonté plutôt qu'à vos raisons ;
-Je répandrai sur vous tant de biens, tant de gloire 
-Que de votre disgrâce on perdra la mémoire :
-Mais suivi désormais du peuple et des soldats,
-Que vous verrez marcher en foule sur vos pas,
-Dés ce jour même, allez rejoindre mon armée
-Et faites pour mon choix parler la renommée. 
-Par une grâce encor daignez combler mes voeux :
-La Princesse Fatime est l'objet de mes feux,
-Permettez qu'à jamais une foi mutuelle...
-Elle est digne de vous, vous êtes digne d'elle
-Vous mérités sans doute un objet si charmant ; 
-Alamir, mais le Ciel en dispose autrement,
-Et pour vous dire tout, une loi souveraine,
-Pour jamais vous sépare, et la fait votre Reine.
-Quoy, Seigneur...
-Je l'épouse étouffant votre espoir,
-Ce n'est plus qu'en sujet que vous la devez voir. 
-Surpris, saisi, frappé de ce que j'entends dire,
-Dans mon étonnement à peine je respire :
-Vous mon rival, c'est vous qui m'enlevez la foi...
-D'un coeur dont tous les voeux auraient été pour moi ;
-Avant que ma douleur ait franchi les limites, 
-Des inhumaines lois à mon respect prescrites :
-Permettez-moi d'aller dans de sauvages lieux
-Me plaindre en liberté de mon sort et des Dieux.
-J'ai prévu vos douleurs, j'en ai senti l'atteinte,
-Pour fermer contre moi votre bouche à la plainte, 
-Longtemps à mes désirs je me suis opposé :
-Mais j'aime, je suis Roi. Dieux ! Qu'il est mal aisé,
-Lors que l'amour sur nous règne avec violence,
-De ne se pas servir de toute sa puissance ;
-Mais enfin pour m'ôter le nom de Prince ingrat, 
-Alamir disposez, de moi, de mon État,
-Souhaitez, demandez, épuisez ma puissance,
-Il n'est rien au dessus de votre récompense.
-Qu'ai-je affaire, Seigneur, de rang, de dignités ?
-Et quel bien peut payer le coeur que vous m'ôtez ? 
-Fatime est l'objet seul pour qui j'aimais la vie,
-C'était tout mon espoir, vous me l'avez ravie :
-Je n'écoute plus rien, promesse ni danger,
-Je n'ai plus rien à craindre, et rien à ménager.
-Ah ! Quand de mes exploits vous perdez la mémoire, 
-Si je perdais aussi tout le soin de ma gloire,
-Chef de tant de soldats, et tant de fois vainqueur,
-Qu'aisément je pourrais mériter mon malheur.
-Je vous entends, je vois ce que vous pouvez faire.
-Je saurai profiter de cet aveu sincère. 
-Pensez-y.
-Qu'ai-je à craindre en l'état où je suis :
-Est-il quelques malheurs plus grands que mes ennuis ?
-Mon maître est mon Rival, il m'enlève Fatime :
-Roi barbare, crois-tu jouir de son estime ?
-Crois-tu toucher son coeur, non ne t'en flatte pas. 
-Ton trône, ta grandeur, tes soins n'ont point d'appas.
-Qui puissent de son âme effacer la mémoire,
-De tout ce qu'elle doit à ma flamme, à sa gloire,
-Je la connais ; certain que ses voeux sont pour moi.
-Je me tiens beaucoup moins infortuné que toi. 
-Ah ! que viens-je de voir ? Seigneur, le Roi vous quitte.
-Le front triste, la vue égarée, interdite,
-Ses regards menaçants où règne la fureur.
-Aux coeurs les plus hardis impriment la terreur, 
-Que je crains pour vos jours, l'orage qui s'apprête 
-De ces terribles coups détournez votre tête,
-Encor un coup quittez ces détestables lieux.
-Non, Madame, il m'est doux de mourir à vos yeux,
-Pour rendre à mes regards, ce séjour formidable,
-Pour me faire quitter cette Cour détestable, 
-Il faudrait qu'un rival occupant votre coeur,
-Eût contre moi changé votre amour en horreur :
-J'irais cacher ailleurs ma honte et ma faiblesse,
-Mais tant que je serai sûr de votre tendresse,
-On ne me verra point inquiété, surpris, 
-Fuir, craindre des malheurs, dont Fatime est le prix.
-Seigneur, de tous les soins que l'amour vous suggère,
-Le plus pressant pour vous, et le plus salutaire,
-C'est de partir.
-Hé bien, Madame, je vous crois ;
-Vous l'ordonnez, je parts, mais partez avec moi. 
-Venez suivant l'amour que l'honneur autorise,
-M'assurer de la foi que vous m'avez promise.
-Allons en d'autres lieux cacher notre malheur :
-Vous ne répondez rien, et changez de couleur,
-Que présage à mes yeux ce silence timide ? 
-Croyez-vous qu'Alamir soit un lâche, un perfide,
-Qui...Non vous n'avez point ce doute injurieux,
-Vous suivrez un époux approuvé par les Dieux :
-Pourquoi craindre, pourquoi soupçonner ma conduite.
-Ma Princesse, parlez.
-Où me vois-je réduite ? 
-Grands Dieux ! que mon destin est affreux, est cruel ;
-Quand la honte m'impose un silence éternel, 
-Le tyrannique honneur me défend de me taire,
-L'un et l'autre à mon coeur parle d'un ton sévère ;
-Mais de mille malheurs dut le Ciel m'accabler, 
-Le péril est trop grand, trop proche, il faut parler :
-Sortez, Seigneur, sortez de l'erreur où vous êtes ;
-Apprenez qui je suis, voyez ce que vous faites :
-Cessez de fuir pour moi tant de prospérités,
-Rebelle à vos désirs, ingrate à vos bontés ; 
-Indigne pour jamais du feu qui vous anime ;
-Je ne mérite plus vos voeux ni votre estime.
-Les Dieux, les cruels Dieux jaloux de mon bonheur,
-Se sont fait un plaisir de verser dans mon coeur
-Un poison, dont soudain la funeste puissance 
-A noirci de mes jours, a détruit l'innocence.
-L'état où je vous vois m'arrache cet aveu
-Oubliez tout de moi, jusqu'à mon nom : Adieu.
-Où suis-je, juste Ciel ! L'ai-je bien entendue ?
-Fatime se déclare infidèle à ma vue. 
-Des malheurs que tâchaient de prévenir mes soins :
-Hélas ! voila celui que je craignais le moins !
-Lorsque je la croyais de moi seul occupée.
-La cruelle...
-Seigneur, donnez moi votre épée :
-C'est par l'ordre du Roi.
-Mon épée ?
-Oui, Seigneur. 
-À quel trouble honteux s'abandonne mon coeur !
-Tenez.
-C'est malgré moi qu'un ordre qui m'accable,
-Fait passer dans mes mains ce fer si redoutable.
-Il suffit, je rends grâce, Osmar, à vos bontés.
-Marchez, conduisez-moi, je vous suis.
-Arrêtez. 
-Osmar. Je viens, Seigneur, vous offrir votre grâce.
-Tu me braves encor : Poursuis dans cette audace.
-L'ordre de m'arrêter est conduit prudemment.
-Si tu l'avais osé devancer d'un moment,
-Mon bras t'eût épargné les peines que te donne, 
-Le soin qu'auprès du Roi tu prends de ma personne.
-Si j'étais libre enfin, ton insolente voix
-Ne m'insulterait pas une seconde fois.
-Que vous êtes injuste ! Hé ! Que faut-t-il donc faire ?
-Pour vous prouver un zèle, une amitié sincère : 
-Mais contre moi, Seigneur, avant que d'éclater,
-Voyez ce que je fais, et daignez m'écouter.
-L'amour, vous le savez est votre unique crime,
-Pour vous rendre innocent, renoncez à Fatime :
-Faites plus, pour calmer tous les soupçons du Roi, 
-À quelque autre Princesse engagez votre foi.
-Il en est de mon sang une qui vous adore,
-Une que l'Univers ne connaît point encore ;
-Qui sous un autre nom élevée en ces lieux,
-Cachée à tous, n'a pu se cacher à vos yeux. 
-Vous avez dans son coeur fait naître une tendresse, 
-Qui dans tous vos malheurs malgré vous l'intéresse.
-Elle vous voit souvent, et prête à vous parler,
-De crainte en vous voyant, elle se sent troubler.
-Son nom haï de vous, la glace, l'épouvante, 
-Et retient son aveu sur sa lèvre tremblante :
-Mais ses yeux attachez à vous considérer,
-Son âme en ses discours facile à s'égarer,
-Son trouble, mille soins que l'on ne peut comprendre,
-Tout vous dit son amour si vous voulez l'entendre. 
-Seigneur si vous saviez ce qu'elle sent pour vous...
-Qui moi ? d'une Zegri je deviendrais l'époux ?
-Eut-elle à me donner tout l'Empire du monde,
-En esprit, en beauté, fut-elle sans seconde ;
-Son coeur d'un tendre amour fut-il épris pour moi, 
-C'est assez qu'elle soit du même sang que toi.
-Pour mettre dans mon coeur, pour allumer contre elle
-Une haine invincible, une horreur éternelle :
-Que dis-je, en écoutant l'offre que tu m'en fais,
-Je la déteste encor plus que je ne te hais. 
-Ah ! Seigneur apprenez....
-Je ne veux rien apprendre.
-Assez, et trop longtemps j'ai souffert à t'entendre.
-Gardes délivrez-moi d'un objet odieux.
-Tu seras satisfait : qu'on l'ôte de ces lieux,
-Je ne vous retiens plus. Gardes qu'on le saisisse ; 
-Vous avez l'ordre, Osmar, faites qu'on obéisse.
-Va, cours, marche au devant d'un trépas assuré
-Prince indigne du sort qui t'était préparé :
-Malheureuse, j'allais pleine de ma tendresse,
-Lui découvrir mon sexe, avouer ma faiblesse. 
-Que dis-je, tout mon sort est déjà révélé,
-Il a vu mon désordre, et mes yeux ont parlé.
-Mais enfin, Abendax, à moi-même rendue,
-Et d'un juste dépit désormais soutenue :
-J'aspire à me venger de ces cruels mépris, 
-D'un malheureux amour seul et funeste prix :
-Je vais presser du Roi l'implacable colère,
-L'irriter, l'animer contre ce téméraire,
-Sacrifier l'ingrat à ma juste fureur :
-Dussai-je après sa mort expirer de douleur. 
-Oui, Madame, avec soin les portes sont gardées
-D'armes et de Soldats, les places sont bordées,
-Les courtisans confus, les ministres troublés,
-Les princes interdits, les juges assemblés.
-Le Roi même inquiet fuyant l'aspect du monde, 
-Jette dans les esprits une terreur profonde.
-Il marche environné de chefs et de soldats.
-Un gros de sénateurs accompagne ses pas,
-Tristes, épouvantés, leurs visages sévères
-N'ont point de leur vertu les marques ordinaires. 
-Ces mortels redoutés qui tiennent dans leurs mains,
-La puissance des Rois, et le sort des humains,
-Semblent craindre aujourd'hui l'ordre qui les assemble :
-Tout garde le silence, autour du Roi tout tremble.
-Au milieu de la place un échafaud dressé, 
-Attire les regards d'un grand peuple amassé,
-Qui pâlit, et qui craint de voir tomber la tête,
-Que menace aujourd'hui cette horrible tempête. 
-De ses propres emplois abandonnant le soin,
-Chacun de ce grand jour veut être le témoin. 
-Tout frémit : Cependant parmi cette tristesse
-On voit encor briller des marques d'allégresse.
-Les temples sont ouverts, les autels sont ornez :
-Les prêtres revêtus, et de fleurs couronnés,
-Étalent l'appareil des plus célèbres fêtes ; 
-L'encens fume partout, les victimes sont prêtes.
-D'un juste étonnement les esprits occupés,
-Sur tant d'objets divers dont les yeux sont frappés,
-En discours superflus se lassent et s'épuisent,
-Inventent des raisons qu'aussitôt ils détruisent, 
-Et plus à s'éclaircir ils veulent s'efforcer,
-Plus ils trouvent d'horreurs qu'ils ne sauraient percer.
-Pour quel dessein fait-on des apprêts si contraires,
-Et qui m'expliquera ces funestes mystères :
-Qui livrent mon esprit à de cruels soupçons ? 
-Seul de tous ses projets le Roi sait les raisons,
-Le secret fut toujours sa grande politique ;
-Mais il vient : Avec vous, faites qu'il s'en explique.
-Tandis que mes sujets sont dans l'étonnement,
-Et d'un jour si pompeux craignent l'événement : 
-Souffrez que sans témoins je vous parle, Madame,
-Et vous découvre ici les secrets de mon âme.
-Je vous aime : Mes soins, mes regards, mes soupirs,
-Ont malgré moi sans doute expliqué mes désirs ;
-Mais jusqu'ici ma bouche auprès de vous muette, 
-D'aujourd'hui seulement en devient l'interprète.
-Non qu'une crainte indigne, et de vous et de moi,
-Ait pu vous disputer l'amour de votre Roi :
-Mais comme l'État doit régler nos hyménées,
-Les passions des rois sont toujours soupçonnées : 
-Lorsqu'aucun intérêt n'appuyant leurs projets,
-On les voit adorer le sang de leurs sujets.
-J'ai craint qu'on n'imputât mes plus tendres hommages,
-Au fol empressement de ces ardeurs volages,
-Qui ne font naître en nous que d'injustes désirs, 
-Et qui n'ont pour objet que de faibles plaisirs.
-Madame à votre Roi votre gloire était chère,
-Je me suis fait pour elle une loi de me taire.
-Je parle maintenant, et veux que ce grand jour
-Par un heureux hymen, vous prouve mon amour. 
-Seigneur de vos projets, étonnée, interdite,
-Je ne puis vous cacher le trouble qui m'agite,
-Tant de soins, tant d'honneurs que je n'attendais pas...
-Je pénètre aisément d'où naît votre embarras :
-Pour le sort d'Alamir dont le coeur vous adore, 
-Une juste pitié vous sollicite encore.
-Vos regards attendris n'envisagent mon rang,
-Que comme un triste honneur cimenté de mon sang.
-Vous avez pu savoir que sa coupable audace,
-Désormais devant moi ne trouve plus de grâce. 
-Que la mort va l'ôter du nombre des humains :
-Mais n'appréhendez rien, sa grâce est en vos mains :
-Oui, lorsqu'à mon destin vous allez être unie,
-Je veux qu'en vous perdant il vous doive la vie,
-Et qu'ainsi le pardon d'un fameux criminel, 
-Attache à votre règne un honneur éternel.
-Je vous ai réservé cette grâce éclatante :
-Connaissez le bonheur que le sort vous présente.
-Combien est-il de rois comblés d'ans et d'honneurs,
-Qui par mille bontés ont charmé tous les coeurs, 
-Et n'ont pu sur le trône élevés dès l'enfance,
-Sur d'aussi grands sujets signaler leur clémence.
-Venez donc à l'autel en me donnant la foi,
-Vous assurer....
-Seigneur, qu'exigez-vous de moi ?
-Quand vous allez régner, lorsqu'un roi qui vous aime, 
-Remet entre vos mains avec son diadème,
-Le sort d'un orgueilleux qu'il a droit de punir,
-Quand tout doit vous presser, qui vous peut retenir ?
-Si vous perdez pour moi le soin de votre gloire ;
-Seigneur, dois-je pour vous en perdre la mémoire. 
-Quel est votre dessein, lors que de toutes parts,
-Votre hymen souhaité suspend tous les regards ;
-Quand l'Afrique vous offre avecque ses princesses.
-Le secours de ses rois, ses ports et ses richesses.
-De ce pompeux hymen vous voulez m'honorer, 
-Moi qui de tout l'éclat dont je puis me parer,
-Ne compte que l'honneur d'être votre sujette,
-Pour vos seuls intérêts, pour vous-même inquiète,
-Souffrez que je m'oppose à cet aveugle amour :
-Que croiraient vos sujets, que dirait votre cour ? 
-Ne vous informez point de ce qu'on pourra croire,
-C'est à moi d'avoir soin de mon rang, de ma gloire ;
-Et c'est à mes sujets sans s'en inquiéter,
-De voir mes passions, et de les respecter.
-A ce suprême honneur que je prétends vous faire, 
-Madame, j'avais cru vous trouver moins contraire ;
-Si c'est trop m'abaisser, que d'être votre époux,
-Je ne m'attendais pas d'en être instruit par vous.
-Ce conseil généreux part d'un coeur magnanime,
-Mais ce coeur, est-ce enfin la gloire qui l'anime. 
-Des intérêts plus chers n'y sont-ils point mêlez ?
-N'enveloppe-t-il point d'autres secrets... Parlez,
-Madame, et sans détour que votre coeur s'explique.
-Vous me le commandez, j'obéis sans réplique,
-On ne peut rien cacher aux rois, non plus qu'aux Dieux. 
-Si le Ciel sur le trône avait mis mes aïeux,
-J'aurais fait mes plaisirs, j'aurais fait mon envie,
-D'assurer le bonheur de votre illustre vie :
-J'aurais tout employé pour mériter le choix,
-Seigneur, du plus parfait, et du plus grand des rois. 
-Mais dans un rang plus bas, réduite dés l'enfance, 
-Mon coeur s'est fait un choix conforme à ma naissance,
-Pour un de vos sujets. L'amour l'a su toucher,
-C'est en vain qu'à vos yeux je voudrais le cacher :
-Si malgré cet aveu votre amour persévère, 
-Si le don de ma main peut encore vous plaire,
-Vous n'avez qu'à parler, elle est à vous, Seigneur :
-Mais quand je ne vous puis répondre de mon coeur,
-Pourriez-vous...
-Oui je puis perdre le téméraire,
-Qui m'ose disputer le bonheur de vous plaire. 
-Le succès de mes feux décide de son sort ;
-Cet aveu, vos refus précipitent sa mort.
-Songez-y ; sur ce point c'est à vous de résoudre,
-Vous n'avez qu'un moment pour retenir la foudre.
-Gardes à moi.
-Seigneur.
-Encor un coup parlez. 
-Les juges au Sénat par mon ordre assemblez,
-Sur le sort d'Alamir attendent ma réponse,
-Quel arrêt voulez-vous que ma bouche prononce
-C'est de vous que dépend ou sa vie ou se mort.
-Le Ciel qui vous a fait le maître de son sort, 
-Daigne de ce héros vous prouver l'innocence,
-Mais n'attendez de moi qu'un malheureux silence :
-Le don de notre coeur ne dépend point de nous.
-C'est trop par vos refus exciter mon courroux.
-Allez porter mon ordre au Sénat tout à l'heure. 
-Zulemar. Alamir est coupable, qu'il meure.
-Qu'il meure ?
-En sa faveur elle ose rejeter
-Le Sceptre que ma main vient de lui présenter.
-Un sujet insolent accablé de ma haine,
-Dont l'univers sans moi se souviendrait à peine : 
-À mon sceptre, à mon rang se verra préféré ;
-Ils pourront me braver, et je le souffrirai ?
-D'une ingrate, d'un traître il faut que je me venge ;
-Qu'il expire à ses yeux, je l'ordonne.
-Qu'entends-je ?
-Les Dieux m'en sont témoins, plus animé que vous 
-Je venais en ces lieux presser votre courroux,
-Accuser Alamir, demander son supplice,
-J'en ai trop de raisons ; mais s'il faut qu'il périsse,
-Qu'il soit mieux convaincu de ses propres forfaits,
-Ne le punissez point de ceux qu'il n'a pas faits : 
-Si Fatime s'oppose à votre ordre suprême,
-Il en est innocent, ce n'est point lui qu'elle aime ;
-Ce n'est point lui, Seigneur, qui l'enlève à son Roi.
-Connaissez le coupable, et l'accablez : C'est moi.
-Oui, Seigneur, c'est pour moi qu'à vos désirs rebelle... 
-N'en croyez pas, Seigneur, un sujet trop fidèle,
-Qui voulant à l'État conserver un appui, 
-Se rend auprès de vous coupable au lieu de lui.
-Vous vous chargez trop tôt du soin de le défendre,
-Pour me faire douter de ce qu'il veut m'apprendre. 
-Vos yeux épouvantés, votre front interdit,
-Ne confirment que trop ce que sa bouche a dit.
-Vous l'aimez, je le vois, Princesse trop ingrate,
-Et plus vous le niez, plus votre amour éclate.
-Pour toi que mes bienfaits prodigués chaque jour, 
-Ingrat avaient rendu le premier de ma Cour ;
-Pour toi qui de mon coeur trahis la confidence,
-N'espère pas que rien t'arrache à ma vengeance.
-Tu périras.
-Seigneur, je n'en suis point troublé,
-Des malheurs inconnus je suis trop accablé : 
-Pour voir avec frayeur une mort nécessaire,
-Qui peut seule finir ma honte et ma misère,
-Je ne vous dirai point que sans rendre de soins,
-On est aimé souvent lorsqu'on le veut le moins,
-Qu'on aime quelquefois ce qu'il faut qu'on haïsse, 
-Et que rien de l'amour ne règle le caprice :
-Je ne m'excuse point, j'ai traversé vos feux,
-J'ai fait votre malheur sans pouvoir être heureux.
-Seigneur, punissez-moi, perdez un misérable,
-Dans le fonds de mon coeur je suis assez coupable : 
-Si vous saviez quel est mon destin, mon amour
-Vous avoueriez...Seigneur, vous le saurez un jour.
-Je mourrai de l'amour déplorable victime,
-Trop content si ma mort peut effacer mon crime,
-Calmer tous vos soupçons, enfin rendre à son Roi, 
-Un héros à l'État plus utile que moi.
-Grands Dieux ! Tout me dédaigne ainsi, tout m'abandonne !
-Le plus affreux trépas n'a rien qui les étonne : 
-Quel est donc mon malheur ? Quel destin envieux
-Me rend quoy que je fasse à ce point odieux, 
-Un ingrat que mon coeur de ses bontés honore,
-Une cruelle, enfin que j'aime, que j'adore,
-Conspirent l'un et l'autre à me percer le coeur :
-Mais qui vient en ces lieux ? Que me veux-t-on ?
-Seigneur,
-Les Juges d'Alamir ont suivant nos maximes, 
-Écouté sa défense, examiné ses crimes ;
-On n'attend plus de vous qu'un mot pour le punir
-Et je viens...
-Il suffit, qu'on le fasse venir.
-Pensez-vous que cédant à vos lâches envies,
-Je vous laisse jouir de tant de perfidies ? 
-Vous n'insulterez point au malheur de mes feux.
-Qu'en leurs appartements on les garde tous deux.
-Rendez grâces au Ciel, dont la bonté m'éclaire,
-Alamir, et dissipe une injuste colère.
-Vous n'êtes point coupable, on nous trahit tous deux : 
-Zulemar est le seul qui s'oppose à mes voeux ;
-Mais enfin oublions tous les sujets de plainte,
-Rentrez dans ma faveur sans retour et sans feinte :
-Amant abandonné malheureux comme moi.
-Excusez mes transports, et plaignez votre Roi. 
-Soyez plus que jamais l'appui de ma Couronne.
-Vivez pour mon état, pour moi, je vous l'ordonne.
-Je reçois le pardon que vous me présentés,
-Et je veux bien devoir ma grâce à vos bontés ;
-Seigneur ; non qu'en l'état où ma vie est réduite, 
-La mort soit désormais un malheur que j'évite :
-Heureux si prévenant mon funeste retour,
-Elle m'eut épargné la honte de ce jour.
-Je ne le cèle point, contraint à vous déplaire,
-Sans en être étonné j'ai vu votre colère. 
-Ce n'est point aux mortels nourris dans les combats
-À demander au Ciel d'éloigner leur trépas.
-Quand les bras affaiblis gémissent sous les armes,
-Pour un héros, Seigneur, la vie a peu de charmes,
-L'exemple en est commun, des plus fameux guerriers, 
-Un long âge a souvent flétri tous les lauriers,
-Sous un chef chargé d'ans la fortune se lasse,
-Et quitte un Général que la vieillesse glace.
-Avecque trop d'éclat jusqu'ici j'ai vécu,
-En mille lieux divers sous vos lois j'ai vaincu, 
-Dans le même bonheur incertain de poursuivre,
-Je puis mourir trop tard, et je crains de trop vivre.
-Prêt à souffrir des Lois les dernières rigueurs,
-À quitter une vie assez pleine d'honneurs,
-Par ces raisons, Seigneur, je rassurais mon âme. 
-Je mourais il est vrai par une main infâme ;
-Mais dans tous les esprits le crime d'un amant
-N'est pas crime, ou du moins se pardonne aisément,
-Et d'un indigne sort quelque soit le caprice,
-La honte est dans le crime, et non dans le supplice. 
-Vous vivrez Alamir, et toujours triomphant,
-Vous rendrez par vos soins mon règne florissant :
-Cependant je veux bien dans un aveu sincère,
-Exposer à vos yeux mon âme toute entière.
-Zulemar plus que vous occupait ma faveur, 
-Il savait mes secrets, il regnait dans mon coeur,
-Il ne vous y laissait qu'une stérile estime ; 
-Qui l'eut cru ? Cependant il adorait Fatime,
-Il s'en faisait aimer, et mes feux offensés
-Allaient seul vous punir des maux qu'il a causés. 
-Vengez-vous, vengez-moi d'une erreur si funeste,
-Il est sorti d'un sang que le vôtre déteste,
-Vous auriez triomphé déjà sans ma pitié ;
-Le parti des Zegris était humilié,
-Et j'ai craint que le sort en éteignant leur race 
-À celle des vainqueurs n'inspirât trop d'audace ;
-Mais enfin, c'en est fait, je n'écoute plus rien,
-Je prends votre parti, j'abandonne le sien.
-Ordonnez qu'à vos yeux nos haines s'assouvissent,
-Et qu'en un seul combat nos démêlés finissent, 
-Je saurais me venger : et si pour moi , Seigneur,
-Un reste de bonté touche encor votre coeur,
-Permettez qu'aussitôt, las de tant d'infortune,
-J'achève loin de vous une vie importune,
-Et que de tous côtés, trahi, désespéré, 
-Je cache les ennuis dont je suis déchiré.
-Non ne me quittez pas : du destin d'un perfide.
-Je veux à votre tour que votre avis décide,
-Venez donc en résoudre, et contre cet ingrat,
-Faisons de notre haine un intérêt d'État. 
-Venez. Auprès de vous le Roi même m'envoie,
-Sans témoins en ces lieux il veut que je vous vois,
-Et je puis vous parler sur l'affreux changement,
-Que dans votre fortune a fait un seul moment.
-Tu le vois, Abendax, tout se détruit, tout passe, 
-Il n'est point de grandeur qu'un seul revers n'efface,
-Qui t'eût dit que sitôt du comble des honneurs,
-Zulemar dût tomber dans ce gouffre d'horreurs,
-Tu ne l'aurais pas cru.
-J'ai peine encor à croire,
-Qu'un seul instant ait pu détruire tant de gloire, 
-Le même jour vous voit dans un rang glorieux,
-Sur vous seule attirer tous les coeurs, tous les yeux,
-Et bientôt du destin éprouvant l'injustice,
-Pour vos jours innocents craindre un cruel supplice.
-Hélas ! de tant d'amis qui tenaient tout de moi, 
-Ma disgrâce aujourd'hui ne me laisse que toi.
-Tout rit au favori, tout brille dans sa vie,
-Tant que sa faveur dure il fait taire l'envie ;
-Mais d'abord que la main qui lui servait d'appui,
-Retire les honneurs qu'elle versait sur lui, 
-Sa chute ouvre aussitôt un chemin à l'audace,
-Pour attaquer sa vie, et disputer sa place.
-Mes honneurs, mes emplois sont des biens superflus,
-Je meurs, et dans deux jours on n'y songera plus.
-Ah Dieux ! Quelle raison, quelle bonté funeste, 
-Pour sauver un ingrat qui toujours vous déteste,
-Vous fait d'un Roi sévère affronter le courroux,
-Et découvrir l'amour que Fatime a pour vous ;
-Je croyais Alamir au bord du précipice,
-Vous alliez disiez-vous avancer son supplice ; 
-Vous vouliez vous venger, et le perdre aujourd'hui :
-Quelle vengeance, hélas ! Vous vous perdez pour lui.
-Ne me demande point raison de ma conduite ;
-Que sais-je dans l'état où les Dieux m'ont réduite ?
-J'aime, je vois périr ce que j'aime, il suffit, 
-Je ne me repens point de tout ce que j'ai dit.
-Il n'est plus d'intérêt, ni de raisons secrètes,
-Il est temps de parler, d'avouer qui vous êtes.
-Et je vais....
-Garde-toi de découvrir mon sort
-Abendax ne mets point d'obstacles à ma mort 
-Veux-tu que de ma main moi-même misérable...
-Non laisse-moi mourir sans que j'en sois coupable.
-Hé quoi, pourrais-tu voir mon nom déshonoré, 
-Par un indigne amour qui serait avéré :
-S'il te souvient encor des bontés de mon père, 
-Songe que son honneur t'ordonne de te taire ;
-Si tu m'aimes, enfin, il faut me le prouver
-En ne t'obstinant point à vouloir me sauver,
-Souffre que le tombeau cache une mal-heureuse,
-Qui ne peut étouffer une flamme honteuse. 
-Puissai-je ne laisser aucun nom après moi,
-Et puisse mon secret mourir avecque toi.
-Mais, qu'est-ce qu'on nous veut ?
-Si vous voulez sa grâce,
-Le Roi vous la promet, il est rien qu'il ne fasse,
-Pourvu que votre coeur propice à ses souhaits, 
-Soit par un doux hymen le prix de ses bienfaits ;
-Zulemar par son ordre ici vient de se rendre.
-Le voici, vous pouvez lui parler et l'entendre :
-Madame en jouissant d'un entretien si doux,
-Songez bien que son sort ne dépend que de vous. 
-Qu'on se retire.
-Hé, bien pour m'avoir trop su plaire,
-Seigneur, pour avoir fait un aveu trop sincère
-Des sentiments d'un coeur qui n'eût pu le trahir,
-On vous fait donc coupable, et vous allez mourir.
-La mort, l'affreuse mort par qui tout se fait craindre, 
-Est si douce pour moi que je ne puis m'en plaindre.
-Madame elle finit des jours infortunés,
-Qu'à d'éternels ennuis, les Dieux ont condamnés
-Aux volontés du Roi cessez d'être rebelle,
-Il vous offre sa main, son trône vous appelle, 
-Sans plaindre un malheureux qu'on ne peut secourir :
-Allez prendre le sceptre, et laissez-moi mourir.
-Moi qu'à l'ambition j'abandonne mon âme ?
-Que je vous laisse en proie aux fureurs...
-Oui, Madame,
-Ce trépas justement prononcé par le Roi, 
-Je vous l'ai déjà dit n'a rien d'affreux pour moi :
-Si de quelque douleur mon âme est attendrie,
-Si je verse des pleurs, ce n'est point pour ma vie :
-Hélas ! C'est de me voir dans un obscur tombeau ;
-Sous une cendre froide éteindre un feu si beau. 
-De mourir sans avoir exprimé la tendresse... 
-Pardonnez-moi, Madame, encor cette faiblesse ;
-Au moment où je dois me taire pour jamais,
-Ma confiance n'est point au dessus des souhaits.
-Mais c'est en ma faveur obscurcir trop de charmes ; 
-Je ne mérite point vos précieuses larmes :
-Perdez d'un malheureux le triste souvenir ;
-Allez prendre le sceptre, et laissez moi mourir.
-Non, vous ne mourrez point, quittez cette pensée,
-Ma vie à vous sauver est trop intéressée, 
-Votre grâce, dit-on, dépend encor de moi,
-Je n'ai pour l'obtenir qu'à feindre auprès du Roi,
-Qu'à demander du temps pour l'hymen qu'il souhaite ;
-Nous choisirons après quelque sûre retraite.
-Pour nous venger de lui tout nous sera permis, 
-J'ai du pouvoir ici, vous avez des amis,
-Assistez d'eux sans bruit, quittant ce lieu funeste...
-C'est assez m'expliquer, vous entendez le reste.
-J'envisage en tremblant une telle action,
-Et vos yeux sont témoins de ma confusion ; 
-Mais enfin pour sauver une teste si chère
-Je ne ménage rien. J'y cours.
-Qu'allez-vous faire ?
-Elle me quitte et va reculant mon trépas,
-M'exposer par la feinte à de nouveaux combats.
-Grands Dieux ! Sur mes malheurs plus je jette la vue, 
-Plus je n'y vois pour moi qu'une funeste issue ;
-Et tel est de mes jours l'astre pernicieux...
-Mais que vois-je ? Alamir se présente à mes yeux,
-Quel sujet le conduit, quel mouvement le presse :
-Ô Dieux, dans ce moment soutenez ma faiblesse. 
-Alamir, quel dessein porte vers moi tes pas,
-Viens-tu comme ennemi jouir de mon trépas,
-Étaler à mes yeux ton triomphe, et ta joie ?
-Non, j'obéis au Roi qui veut que je te vois,
-Quoiqu'il doive punir ton amour indiscret, 
-Il condamne au trépas ta jeunesse à regret,
-À ta grâce sans peine, on le verra souscrire,
-Mille autres de sa part auraient pu te le dire,
-Mais voulant par mes soins m'acquitter envers toi,
-Moi-même auprès de lui j'ai brigué cet emploi. 
-Pour garantir tes jours d'un indigne supplice :
-Crois moi, de ton amour fais lui le sacrifice,
-Dans une folle ardeur cesse de t'obstiner,
-C'est le sincère avis que je viens te donner.
-Je ne connais que trop où mon amour m'engage, 
-Je cherche à m'en guérir, je mets tout en usage ;
-Mais pour vaincre un amour aussi fort que le mien,
-Les Dieux ne m'ont pas fait un coeur comme le tien.
-Hé me crois-tu le coeur si rempli de rudesse,
-Quelque fier qu'il paroisse, il n'est pas sans faiblesse. 
-Ce beau feu dont Fatime avait su l'animer,
-N'est pas un de ces feux prompts à se consommer,
-Qu'un revers diminue, et qu'éteint une absence ;
-J'en rougis, mais enfin malgré son inconstance, 
-Je ne puis de Fatime oublier les attraits, 
-Et je sens que je l'aime encor plus que jamais.
-Hélas !
-Je le veux bien avouer à ma honte.
-Non, que si le retour d'une tendresse prompte,
-Forçait en ma faveur son âme au repentir,
-À l'épouser jamais je pusse consentir. 
-Il suffit qu'une fois elle soit infidèle,
-Malgré tout cet amour dont je brûle pour elle,
-Le nom de son époux est indigne de moi,
-Et mon coeur l'abandonne à son manque de foi.
-Les Dieux m'en vengeront, son illustre conquête, 
-Ces brillants ornements qui pareront sa teste,
-Ne mettront point son âme à l'abri des remords ;
-J'espère que rendue à ses premiers transports,
-Nous la verrons en proie à ses propres faiblesses,
-A des retours vengeurs, des perfides tendresses, 
-Elle te quittera toi-même pour régner,
-Ne t'en afflige point, vis pour la dédaigner,
-Je t'offre mes conseils, et mon exemple à suivre.
-Sais-tu ce que tu fais en me pressant de vivre ?
-Je vivrais pour servir d'obstacle à tes plaisirs, 
-Pour contraindre ton coeur, pour forcer tes désirs,
-Pour suivre les transports qu'en mon coeur tu fais naître,
-Pour te persécuter, pour te haïr peut-être.
-Tu feras bien : Le sang dont nous sommes formés
-Ne doit jamais verser dans nos coeurs animés, 
-Que des transports d'horreur, que des desseins d'outrages.
-C'est le sort des Zegris, et des Abencerrages.
-Puisque nous sommes nés chefs de ces deux partis, 
-Crois moi n'en rendons point les destins démentis,
-Nous ne devons avoir qu'une pareille audace ; 
-Toi d'éteindre mon nom, moi d'étouffer ta race,
-Ce doit être entre nous un devoir mutuel.
-Vis donc pour me haïr.
-Hé ! le puis-je cruel ;
-Pour m'opposer sans cesse une fierté barbare,
-En laisse-tu moins voir la vertu qui te pare : 
-En es-tu moins aimable, et mon coeur malheureux
-S'abandonne-t-il moins à l'ardeur de ses feux :
-Car enfin ce rival, ce chef d'une famille
-Que tu poursuis ; apprends que ce n'est qu'une fille.
-Seul reste infortuné des malheureux Zegris, 
-Qui s'offre à tes regards sous ces tristes habits.
-Qu'entends-je juste Ciel !
-En vain dés ma naissance,
-Instruite des raisons d'une juste vengeance,
-L'esprit plein contre toi de projets ennemis.
-Je partis pour ces lieux, j'arrivai, je te vis, 
-Tu revenais vainqueur et tout couvert de gloire :
-Ma haine en ce moment sortit de ma mémoire ;
-Mon coeur sourd aux raisons qui devaient l'animer,
-Ne sut plus en trouver, hélas ! que pour t'aimer !
-Plus que tu ne me hais, ce coeur t'aime, t'adore ; 
-Je ne m'en repens point, je te le dis encore :
-Une fois pour toujours laisse moi m'enivrer,
-Du funeste plaisir de te le déclarer.
-Car enfin ne crois pas que par toi méprisée,
-Je veuille d'une Cour devenir la risée, 
-Après que si longtemps cet habit malheureux,
-M'en a vu recevoir et l'encens et les voeux,
-Je ne souffrirai point la douleur qui me tue, 
-Tu seras pour jamais délivré de ma vue.
-Oui, ma mort est certaine, et j'y cours sans effroi : 
-Heureuse, puis qu'au moins tu sais que c'est pour toi.
-Muet d'étonnement, parmi tant de traverses,
-J'ai peine à concevoir nos fortunes diverses,
-Je vois que du destin que l'on ne peut tromper...
-Ah ! Barbare est-ce là ce qui doit t'occuper, 
-Au moment qu'à tes yeux étonnée et tremblante,
-Je ne puis retenir une ardeur violente :
-Quand pour te garantir je m'expose au trépas,
-Quand je t'offre mon coeur, tu ne m'écoutes pas :
-Me fais-tu voir au moins que mon malheur te touche ; 
-En laisses-tu sortir un soupir de ta bouche ?
-Tes superbes regards qui me glacent d'effroi,
-Daignent-ils par pitié s'abaisser jusqu'à moi ?
-Daigne-tu voir mes pleurs, hélas ! infortunée...
-Mais que vois-je ? Déjà m'aurait-on condamnée. 
-Qu'est-ce, Osmar.
-Votre sort vient d'être révélé :
-Le Roi sait votre sexe, Abendax a parlé.
-Il paraît tout en pleurs, il demande audience ;
-À ses cris douloureux chacun prête licence ; 
-Il dit en peu de mot votre déguisement, 
-Il ajoute aux raisons de ce grand changement,
-Combien pour Alamir votre flamme est constante.
-Le Roi par ces discours vous voyant innocente,
-Admire avec plaisir quelle était son erreur,
-Et fait à son courroux succéder la douceur. 
-Fatime en ce moment de tous les siens suivie,
-Vient offrir son hymen pour vous sauver la vie ;
-À ses bontés pour vous le Roi même applaudit,
-Et lui raconte enfin ce qu'Abendax a dit.
-Surprise à ce récit d'une douleur profonde, 
-Elle veut dérober sa honte aux yeux du monde,
-Mais avec tant de soins, mais avec tant d'ardeur :
-Le Roi sait rassurer sa craintive pudeur,
-Qu'à sa gloire, à l'éclat de la grandeur suprême,
-Ouvrant enfin les yeux... mais le Roi vient lui-même. 
-Seigneur, après l'abus commis aux yeux de tous ;
-De quel front puis-je ici paraître ?
-Levez-vous.
-De l'amour à mon coeur la faiblesse est trop chère,
-Pour ne pas pardonner les fautes qu'il fait faire,
-Alamir à ses voeux cesse de résister ; 
-Vois par où sa tendresse a su te mériter : 
-Qu'entre vos deux partis la haine soit bannie,
-Accepte son hymen, c'est ton Roi qui t'en prie.
-Interdit, étonné de tout ce que je vois ;
-Seigneur, pour vous répondre à peine suis-je à moi. 
-Madame, cependant à vos désirs rebelle,
-Mon coeur n'oppose plus une fierté cruelle :
-Et si l'amour déjà ne s'y fait pas sentir,
-L'injuste haine au moins commence d'en sortir.
-Ne perdons point de temps, viens, suis-moi dans le temple, 
-Les Dieux t'inspireront sans doute, et mon exemple.
-Vous, Madame, quittez ce vain déguisement,
-Donnez à votre sexe un plus digne ornement :
-Étouffez désormais une honte timide,
-Et vivez dans ma Cour sous le nom de Zaïde. 
+Mais cherchons-la, peut-être qu'à même heure 
+Que nous pleurons pour elle, elle-même nous pleure ; 
+Notre salut nous vient de la bonté des Cieux, 
+A-t-elle moins que nous mérité de nos Dieux ? 
+Ha c'est bien sans raison que tu veux que j'espère, 
+Ou la terre ou la mer, ou le ciel m'est contraire. 
+J'ai vu j'ai vu périr un chef-d'oeuvre si beau, 
+Et le tombeau du jour est aussi son tombeau. 
+Oui je l'ai vu périr, ha cruelle mémoire, 
+Supplice d'un amant dont tu faisais la gloire ; 
+Fais-moi de mon désastre un si triste rapport 
+Que j'y trouve le trait qui me donne la mort. 
+Que n'ai-je pu trouver le destin plus contraire, 
+Et qu'au lieu de la soeur ne pleures-tu le frère. 
+Ce n'est pas, Télariste, adoucir mes travaux, 
+Que de me souhaiter un changement de maux. 
+Cherchons-la. 
+La fortune est pour moi si cruelle, 
+Que pour la retrouver il faut mourir comme elle. 
+Cherchons-la toutefois sur ces funestes bords, 
+Pour mourir plus certains de la voir chez les morts. 
+Va-t-en de ce côté, je prendrai cette route. 
+Nous la retrouverons, je n'en fais point de doute. 
+Tu me retrouveras. 
+Ici le rendez-vous. 
+En l'état où je suis la mort est le plus doux. 
+Toi qui fus autrefois l'honneur de la Nature, 
+Toi qu'un bord inconnu laisse sans sépulture, 
+Que ton esprit errant regarde nos transports, 
+Et nous attire enfin où repose ton corps. 
+Déjà se font paraître à mes tristes pensées, 
+Par les coups de la mort tes beautés effacées, 
+Déjà voyant ton front, qui fut digne des Dieux, 
+J'y cherche avec effroi la place de tes yeux, 
+J'y cherche cet éclat qui fut incomparable 
+Et vois que tout est mort, où tout fut adorable ; 
+J'y cherche les sujets de mon Ravissement 
+Et je vois tout horrible où tout était charmant : 
+Enfin je te crois voir en quelque bord étrange 
+Comme un rebut des eaux dessus un lit de fange, 
+Et je ne veux en toi tant d'horreur concevoir
+Que pour mourir d'horreur devant que de te voir. 
+Que me pourrait servir une mourante vie 
+Qu'à souhaiter sans fin qu'elle me fut ravie ? 
+Que vois-je ! Mais bons Dieux ce Page me nuira, 
+Mon fils va-t-en au Port, entends ce qu'on dira, 
+Vois si l'on a trouvé Clarigène et mon frère, 
+J'irai tantôt au temple. 
+Il faut vous satisfaire. 
+Va ne t'arrête point, tâche de m'alléger, 
+Et crois qu'on ne perd rien lorsqu'on peut m'obliger. 
+Mais que vois-je ! Est-ce vous ? 
+Ô dieux que de délices 
+Près de tant de tourment, près de tant de supplices ! 
+Je doute maintenant en cet heureux transport 
+Si ce lieu m'est un Ciel ou seulement un port. 
+Hélas ! Si c'est un Ciel il faut que je t'en chasse, 
+Ton malheur t'y poursuit, ton destin t'y menace, 
+Et loin d'y rencontrer la fin de mon tourment. 
+T'y perdre et t'y trouver me gêne également. 
+Fuis donc. 
+Que dites-vous ? 
+Fuis sans me contredire, 
+T'imposer ce destin m'est un nouveau martyre, 
+Mais il n'importe, fuis. 
+Courtes félicités, 
+Je sors d'un précipice, et vous m'y rejetez ! 
+Pourquoi fuirais-je enfin d'un port si favorable ? 
+On te poursuit ici, de même qu'un coupable. 
+Moi ! Que m'impose-t-on ? 
+Je ne l'ai pu savoir, 
+Mon âme, n'attends pas qu'on te le fasse voir. 
+Fuis de ces tristes lieux, n'attends pas que la terre 
+Plus cruelle que l'eau te déclare la guerre, 
+Ta présence me tue, et tu m'es un trésor 
+Que je ne puis sauver qu'en te perdant encor. 
+Ton absence m'assure où ton sort m'épouvante, 
+Et savoir que tu vis suffit à ton amante. 
+Quel sort prodigieux nous refuse la paix, 
+Et qu'aurais-je pu faire, où je ne fus jamais ? 
+Quand le Ciel en fureur poursuit un misérable, 
+Quelque innocent qu'il soit, il est partout coupable. 
+S'il est partout coupable, et partout odieux 
+En vain pour me sauver je fuirai de ces lieux. 
+Si je trouve partout une égale poursuite 
+À quoi me servira cette honteuse fuite ? 
+Au moins à contenter mon esprit amoureux 
+À qui plus que son mal, ton mal est rigoureux. 
+Ne craignez rien pour moi, je puis bien tout attendre, 
+Quiconque est innocent a de quoi se défendre. 
+Je te juge innocent autant que généreux 
+Mais ce n'est pas assez lorsqu'on est malheureux. 
+Fuis c'est là ton seul bien, que la fuite te cache. 
+Nommerez-vous un bien, ce qui m'est une tache ? 
+Retire-toi d'ici, ne m'oppose plus rien 
+Ce qui te peut sauver, je le nomme un grand bien. 
+C'est lâcheté de fuir, quand on peut se défendre, 
+Mais lorsqu'on ne le peut ; c'est un vice qu'attendre ; 
+Cette loi de l'honneur si cher aux grands esprits 
+À qui cède à propos donne même des prix : 
+Fuis donc, et n'attends plus, un moment te peut nuire 
+Et peut par ton exemple aujourd'hui t'en instruire, 
+Fuis pour me contenter, et pour m'ôter des maux 
+Que tes persécuteurs joindraient à mes travaux, 
+Le coup qui te menace a mon âme abattue 
+Et le trait qui te blesse est celui qui me tue. 
+Quelque mal qui m'arrive après mon désespoir, 
+Je ne puis trop payer le bien de te revoir. 
+Assez te persécute une rage infernale 
+Sans me rendre moi-même à ton salut fatale, 
+Si l'amour t'empêchait de t'éloigner de moi 
+Pour t'obliger à fuir, je fuirai devant toi ; 
+Une fois pour mon bien j'ai su prendre la fuite 
+Une fois pour le tien tu m'y verras réduite, 
+Ne m'as-tu pas fait sortir d'un pays malheureux 
+Que pour rendre en ce lieu mon sort plus rigoureux ? 
+Et pouvais-je trouver au mal qui me consomme 
+Un plus noble tombeau que le tombeau de Rome ? 
+Quelles extrémités ! 
+Ô dieux tout est perdu, 
+Et tu t'es ruiné pour avoir attendu. 
+Mais ne dis point ton nom. Monsieur voilà mon frère, 
+Et Clarigène est mort. 
+Le Ciel vous soit prospère, 
+Mais Clarigène vit. 
+Dieux soyez son support. 
+Ainsi par les écueils on peut revenir au port. 
+Vous le reconnaissez par l'heureuse fortune 
+Qui vous tire du gouffre où préside Neptune, 
+Et pour comble de biens, et de contentements 
+Vous le reconnaîtrez par mes bons traitements, 
+Si chez moi votre soeur a trouvé son asile 
+Vous y rencontrerez le sort aussi facile
+C'est par ce seul accueil qui nous est un support 
+Que nous devons juger que nous sommes au port. 
+Et ce seul mal me reste après mille supplices 
+De n'avoir que des voeux pour tous vos bons offices. 
+C'est assez de vos voeux, si je vous fais du bien, 
+Je m'acquitte envers vous, et ne vous donne rien. 
+J'étais comblé d'ennuis, et par votre rencontre 
+Au moins à mes douleurs le remède se montre. 
+Nos maux nous serons doux, si vous en profitez. 
+Oui je gagne beaucoup par vos adversités, 
+Et pour vous être aussi moi-même salutaire 
+Après tant d'accidents je ne dois rien vous taire. 
+Je sais que mes discours vous blesseront d'abord, 
+Qu'ils vous seront des traits pires que ceux du sort, 
+Et qu'en ce même temps que je vous traite en père 
+Vous m'allez accuser comme votre adversaire, 
+Mais je sais bien aussi que ce même discours 
+Qui semble vous blesser sera votre secours. 
+Un traître vous suivait, et sa rage couverte 
+A peut-être cent fois conspiré votre perte, 
+Mais bien qu'il fût partout à vos pas attaché 
+L'apparence d'ami vous la toujours caché. 
+Enfin pour vous le dire, et vous ôter de peine 
+C'est même à mon regret l'infâme Clarigène. 
+L'infâme Clarigène. 
+Oui mon fils. 
+Justes Dieux. 
+Il s'est pourtant acquis des noms plus glorieux. 
+On ne le connaît pas aux lieux où l'on l'estime. 
+On le connaît bien moins aux lieux où l'on l'opprime. 
+Mais enfin qu'a-t-il fait d'injuste et d'outrageux. 
+Une infidélité qui vous blesse tous deux. 
+Une infidélité ! Bons Dieux, que dois-je croire ? 
+Ne t'imagine rien qui ne soit à sa gloire, 
+Mais pardonnez, Monsieur, à mon affection 
+Si j'ai de Clarigène une autre opinion. 
+Je serais criminel, je serais condamnable 
+Si je croyais trop tôt qu'un ami fut coupable, 
+Pardonnez donc Monsieur, au trouble où je me vois, 
+Quand je parle pour lui je crois parler pour moi. 
+Vous faites le devoir d'un ami véritable, 
+Mais par quelque vertu qu'il vous paraisse aimable, 
+Vous avouerez bientôt que c'est avec raison 
+Qu'il vient d'être conduit aux fers d'une prison. 
+Quoi Clarigène est pris ! 
+Il est pris ce Corsaire. 
+Qui sous le nom d'amant était votre adversaire. 
+Bien plutôt que le Ciel, l'enfer vous l'eût donné, 
+Mais le Dieu qui vous garde a ce coup détourné. 
+Il vous sauve deux fois, et vous le fait paraître 
+En vous tirant des flots, et vous ôtant ce traître ; 
+Tant que d'un vrai mérite, il sembla revêtu 
+L'amour dont vous brûliez était une vertu ; 
+Mais puisque sa vertu ne fut qu'un artifice 
+Si vous l'aimez encor, votre amour est un vice. 
+Déjà par la raison votre frère conduit 
+Voit et connaît l'erreur, dont il était séduit, 
+Et son coeur amoureux de votre seule gloire 
+Déjà par ses regards vous parle de me croire. 
+Je fais de vos conseils, et ma gloire et mes biens 
+Et je voudrais les suivre aussitôt que les siens, 
+Mais peut-on m'inspirer l'horreur de Clarigène 
+Sans me montrer au moins une cause de haine ? 
+Veut-on qu'en cet amant aujourd'hui malheureux, 
+Je condamne le choix d'un père généreux ? 
+Si l'honneur seulement est l'esprit qui l'anime, 
+C'est ce me semble assez pour le croire sans crime ; 
+Un soupçon contre lui n'est pas assez puissant, 
+Puisqu'il aime la gloire il doit être innocent, 
+Et s'il est innocent, et de crime incapable, 
+C'est ce me semble assez pour être encore aimable. 
+Si Clarigène souffre, il n'a point de tourments 
+Que ce discours ne change en des contentements, 
+Mais ne négligeons pas ce qu'on en peut apprendre ; 
+L'amour nous sait tromper comme il sait nous surprendre ; 
+Il faut peu se fier à ses attraits flatteurs, 
+Il ne trompe jamais que ses adorateurs, 
+Et ne donne après tout à nos âmes blessées, 
+Pour les sujets aimés, que de nobles pensées. 
+Sachons donc ce qu'a fait ce malheureux amant. 
+Vous parlez en vrai frère, et certes justement, 
+Mais retournons chez moi, c'est là, cher Télariste, 
+Que vous aurez horreur d'une histoire si triste. 
+M'accuser de ce Rapt, et croire m'avoir pris, 
+Ce sont des accidents qui troublent mes esprits, 
+Mais me voir au hasard de ressentir ta haine, 
+C'est mon plus grand malheur et ma plus grande peine. 
+Ne crains pas qu'un soupçon rompe notre lien, 
+Je t‘aurais vu faillir que je n'en croirais rien. 
+Quoi qu'on me fasse voir, et quoi que l'on t'impose, 
+J'écoute la vertu qui plaide ici ta cause ; 
+C'est un juste témoin qu'on ne peut soupçonner. 
+. . . . . . . . . . 
+. . . . . M'aimez-vous ? 
+Je t'adore. 
+Et vous me conseillez ce qui me déshonore ! 
+Si je suis innocent, que dois-je appréhender ? 
+Que le Ciel irrité cesse de te garder. 
+Il offre à ton salut une fuite facile, 
+Et tu rends au besoin sa faveur inutile, 
+Crains qu'il ne t'abandonne au courroux des humains 
+Pour avoir refusé le secours de ses mains. 
+N'importe. 
+Va-t-en donc, que ton âme contente, 
+N'écoute les conseils ni d'ami, ni d'amante, 
+Mais apprends qu'un esprit jusques là s'enflammant, 
+Ne mérite les noms ni d'ami, ni d'amant. 
+Mais juge en ma faveur qu'il est plus honorable, 
+De mourir innocent que de fuir en coupable ; 
+Ou plutôt ne crois pas qu'une bonne action 
+Ait mérité des Dieux une punition. 
+Appréhende pourtant bien souvent l'apparence, 
+Même avec infamie a perdu l'innocence.
+Pardonne-moi, Célie, et permets qu'une fois 
+Pour sauver mon honneur je sois sourd à ta voix. 
+Malgré moi maintenant ma fortune m'entraîne, 
+Et ne t'obéir pas est ma faute et ma peine ; 
+Si je ne suis tes voeux en l'état où je suis, 
+Crois que je le voudrais et que je ne le puis. 
+Hélas ! Il s'abandonne où le mal est extrême, 
+Trop d'amitié le rend ennemi de soi-même ; 
+Et comme si mes maux n'avaient rien d'assez grand, 
+Il se dérobe à moi, quand le Ciel me le rend. 
+Aveugle à ta ruine, insensible à ma peine, 
+Meilleur ami qu'amant, furieux Clarigène, 
+Coupable seulement dans ton sort rigoureux, 
+De hasardez en toi l'innocent malheureux, 
+Faut-il que dans mon coeur l'amour ait cette honte, 
+De voir que dans le tien l'amitié le surmonte ? 
+M'aimes-tu seulement pour me persécuter ? 
+Et n'es-tu généreux que pour me tourmenter ? 
+Je ne sais si les Dieux rigoureux ou propices, 
+Me font trouver en toi mes maux ou mes délices ; 
+Et ne puis dire enfin si le Ciel m'obligea, 
+Lorsque de cent périls son soin me dégagea. 
+J'ai redouté dans Rome une force étrangère, 
+J'ai craint dessus les flots leur funeste colère, 
+Et j'apprends aujourd'hui par un nouveau tourment 
+Que j'ai dû redouter mon salut seulement. 
+Quoi toujours dans les pleurs, et toujours affligée ? 
+C'est un triste devoir où je suis obligée. 
+Vous avez toutefois de quoi vous soulager. 
+Oui, Cléone, il est vrai, j'ai de quoi m'alléger, 
+En ce que ma douleur se rends assez profonde, 
+Pour dérober ma vie aux traverses du monde. 
+Plus mon deuil sera fort, plus mes maux seront grands 
+Et plus j'approcherai du repos que j'attends. 
+Un sujet plus heureux, vous dois tirer de peine, 
+Votre frère est trouvé. 
+Mais je perds Clarigène. 
+Ce n'est pas maintenant, qu'il faut dissimuler, 
+Ce que vous en savez, vous devrait consoler. 
+Ce que je sais de lui finirait mon supplice, 
+Si les Dieux permettaient qu'on lui rendît justice. 
+Vous devez l'espérer. 
+J'espère, mais je crains 
+Ce que la passion peut dessus les humains. 
+Encore que les lois soient un commun refuge 
+L'innocent doit trembler tant que l'homme est son juge. 
+La justice est ici comme en la main des Dieux, 
+Et toujours l'innocent en sort victorieux. 
+Ne vous plaignez donc pas du sort de Clarigène ; 
+S'il est ici sans crime, il y sera sans peine : 
+Et s'il est criminel, c'est bien injustement, 
+Que vous versez des pleurs pour un coupable amant. 
+Mais je veux qu'en son coeur la vertu toute pure, 
+Soit de ses actions la règle et la mesure, 
+Cette crainte excessive et ce profond ennui 
+Sont en vous des témoins qui parlent contre lui. 
+Retenez donc ces pleurs, où la peur vous engage, 
+Craindre pour l'innocent est lui faire un outrage, 
+Et souvent contre lui son malheur a permis 
+Que l'on ait employé les pleurs se ses amis. 
+Si je fais de mes pleurs un torrent pitoyable, 
+Je pleure un malheureux et non pas un coupable, 
+Et si je crains pour lui de sinistres effets, 
+Son malheur me fait craindre et non pas ses forfaits. 
+J'aime, et cela suffit pour pleurer, pour me plaindre, 
+Et pour craindre en tous lieux ce qui n'est pas à craindre. 
+Hélas ! À quelque excès que montent mes douleurs, 
+Si vous avez aimé vous approuvez mes pleurs, 
+Et de quelques grands soins dont on me trouve atteinte, 
+Si vous avez aimé vous approuvez ma crainte. 
+Vous savez quels soucis l'amour verse sur nous, 
+Et vous louez en moi ce qu'il ferait en vous. 
+Que si jamais ce feu qui consume nos âmes, 
+N'étendit jusqu'à vous ses dévorantes flammes, 
+N'en puissiez-vous jamais ressentir les chaleurs, 
+Qui de nos plus beaux jours sèchent toutes les fleurs. 
+Ou c'est un destin que l'amour indomptable, 
+Ait réservé pour vous un trait inévitable, 
+N'en puissiez-vous avoir que les contentements 
+De même que mon coeur n'en a que les tourments. 
+Je ne reconnaîtrai des souhaits si propices, 
+Qu'en souhaitant pour vous de semblables délices. 
+En l'état malheureux où me laisse le sort, 
+Pour souhaiter mon bien, souhaitez-moi la mort. 
+Vous n'avez point de maux que le Ciel ne guérisse. 
+Ha ! Je n'ai point de maux que lui-même n'aigrisse, 
+S'il m'abandonne enfin, qui peut me secourir ? 
+Mais voici Polémon. 
+Hé bien, faut-il mourir, 
+Ai-je comme le Ciel la justice adversaire ? 
+Le Ciel se lassera de vous être contraire ; 
+Mais le Sénat vous mande. 
+Il me manderait ? Moi !
+Cet homme me l'a dit, et vous saurez pourquoi. 
+Sur un point important tout le Sénat en peine 
+Veut par votre secours connaître Clarigène. 
+Comme on l'interrogeait, un autre est survenu 
+Étranger courageux, à chacun inconnu. 
+Je suis, a-t-il crié, je suis ce misérable 
+Que pense interroger un Sénat équitable, 
+Je suis ce Clarigène en ce seul point heureux, 
+D'avoir à ma défense un ami généreux. 
+Quiconque en cet état l'a vu si magnanime 
+A cru voir la vertu qui s'accusait d'un crime. 
+Le Sénat a loué cet acte solennel, 
+Et redouté pour lui qu'il fut le criminel ; 
+L'autre non moins touché du désir de la gloire, 
+Lui dispute aussitôt son nom et la victoire ; 
+Et l'on a craint alors pour ce coeur indompté 
+Ce que pour le premier on avait redouté. 
+Ainsi dans un combat, et si noble et si triste 
+Tous deux sont Clarigène, et tous deux Télariste, 
+Ainsi l'on eût jugé que ces nobles esprits 
+Au lieu d'un châtiment venaient poursuivre un prix. 
+Licidas étonné de leur amour extrême 
+En les persécutant les admire lui-même ; 
+Mais enfin il se lève, et remontre au Sénat 
+Que vous pouvez finir un si fameux débat. 
+On prononce aussitôt qu'on vous ferait paraître, 
+À dessein seulement de les faire connaître. 
+Ô plus cruel arrêt, que les feux et les eaux, 
+Qui nous ont tant de fois présenté des tombeaux ! 
+Hélas ! Si mon destin eût de la violence, 
+C'est ici seulement que la rage commence. 
+Tant de traitements soufferts, tant de peurs, tant ennuis, 
+N'étaient que les chemins des troubles où je suis. 
+Ce n'est donc pas assez, pour me consoler de peine, 
+Que sur moi la fortune ait épuisé sa haine, 
+Elle n'aurait donc plus de quoi me tourmenter 
+Si je n'aidais moi-même à me persécuter. 
+Que ferai-je, Cléone, en un mal incurable, 
+En un mal si nouveau, qu'il paraît une fable, 
+Et pour me délivrer d'un si funeste faix, 
+Quel exemple suivrai-je où l'on n'en eût jamais ? 
+Hélas ! Quoi que je fasse, et que je délibère, 
+Si je veux un amant, il faut détruire un frère ; 
+Et si fort le destin conspire à mon tourment, 
+Que si je veux un frère, il faut perdre un amant. 
+Ô Dieux inspirez-moi, si je suis misérable, 
+Permettez pour le moins que je sois équitable. 
+La nature et l'amour combattent dans mon coeur, 
+Montrez-moi, justes Dieux, qui doit être vainqueur. 
+Ha quelques grands assauts, que mon amour me livre 
+La nature est ici la loi que je dois suivre,
+Et vouloir consulter en cette extrémité, 
+Pour moi, pour une soeur est une impiété : 
+Mais quelques justes lois que la nature fasse, 
+Un amour aussi juste en même temps l'efface. 
+Si le Ciel, si mon père, et mon consentement, 
+Ainsi que mon époux me font suivre un amant, 
+Dois-je moins respecter en pareille aventure 
+Les noeuds que fait le Ciel, que ceux de la nature ? 
+À qui ferai-je donc un plus doux traitement, 
+Hélas ! L'un est mon frère et l'autre est mon amant ; 
+Et de quelque côté que j'incline moi-même, 
+Je ne saurais juger que contre ce que j'aime. 
+Grande et nouvelle guerre, où dans un même coeur, 
+Une amante aujourd'hui combat contre une soeur ! 
+N'êtes-vous pas touché d'un si noble courage ? 
+Comme je suis touché par celui qui m'outrage : 
+Quoi qu'ils nous fassent voir de grand, de glorieux, 
+Leur générosité n'est qu'un monstre à mes yeux. 
+Jamais une amitié n'eût des preuves plus claires. 
+On voit de l'amitié même entre les Corsaires.
+Leur action fait voir qu'ils sont d'un autre rang. 
+Ce titre est bien acquis, à qui m'ôte mon sang. 
+Vous devez mieux traiter une vertu si rare. 
+Un Père qui se venge est justement barbare. 
+Je sais bien qu'en un père affligé comme vous 
+L'excès est légitime, et permis au courroux, 
+Mais il faut empêcher que s'il est pardonnable 
+Il ne produise au moins un effet condamnable. 
+Condamnable ! Comment, s'il est juste et permis ? 
+D'user de cruauté contre vos ennemis, 
+De trop précipiter une importante affaire, 
+Dont le retardement leur serait nécessaire. 
+On n'agit point trop tôt lorsque c'est justement, 
+Et qui veut du secours hait le retardement. 
+J'attends depuis deux ans cette heureuse journée 
+Qu'à mon soulagement le Ciel a destinée, 
+J'attends depuis deux ans à venger un affront, 
+Et tu veux m'accuser d'être encore trop prompt ! 
+Veux-tu voir les raisons de ma juste colère ? 
+Considère ma perte, et vois que je suis père. 
+On ouvre, et le Sénat est encore assemblé. 
+Rendez ici le calme à votre esprit troublé. 
+Quel est votre pays ? 
+Rome enfin ruinée, 
+Et ma condition est d'être infortunée. 
+Connaissez-vous ceux-ci. 
+J'expirerais pour eux, 
+Ils sont tous deux Romains, et tous deux généreux, 
+Ils vous l'ont bien appris par leur noble querelle. 
+Vous savez le sujet pourquoi l'on vous appelle, 
+Votre frère se perd, et s'il est en danger 
+Ce n'est que votre main qui l'en peut dégager. 
+Pour un ami coupable il veut se mettre en peine, 
+Doncques pour le sauver montrez-nous Clarigène. 
+Il se montre lui-même, il fait assez de bruit, 
+C'est en moi qu'on le voit, et que l'on le poursuit. 
+Je suis ce malheureux, je suis ce Clarigène, 
+À qui même un ami sert aujourd'hui de gêne. 
+À qui par un destin triste en événements, 
+Tous les soins d'un ami sont autant de tourments. 
+Regarde Télariste, où me porte ton zèle, 
+Tu me perces le coeur pour m'être trop fidèle, 
+Tu ramènes mes maux en pensant les chasser, 
+Et m'étouffes enfin quand tu crois m'embrasser. 
+Ne t'oppose donc plus au malheur qui m'outrage, 
+Avec moins d'amitié tu me plais davantage ; 
+Permets donc que j'expire avec ce peu de mal, 
+D'être à moi seulement et funeste et fatal. 
+Vis avecque ta soeur, ton ami t'en conjure, 
+Et croit que ton refus est pour elle une injure. 
+Dans ce nouveau sujet de tristesse et d'effroi, 
+Parle ne confonds rien, lui dois-tu moins qu'à moi ? 
+Dois-tu plus de respect à ce noeud qui nous lie, 
+Qu'à ce puissant lien qui t'attache à Célie ?
+Ô vous qui disposez du destin des humains, 
+Qu'une triste fortune a mis entre vos mains, 
+Écoutez en moi seul un témoin véritable, 
+Qui parle contre soi peut bien être croyable, 
+Et dans l'infâme sort dont mon mal est accru, 
+Laissez-moi pour le moins la gloire d'être cru. 
+Ne cherche point ici cette inutile gloire, 
+D'abuser un Sénat, et de te faire croire. 
+Par l'illustre action dont tu charmes ces lieux, 
+Le noble Télariste est assez glorieux ; 
+Et pour me consoler des maux que l'on me livre, 
+Cède à la vérité, cesse de te poursuivre, 
+Par cet acte d'amour, dont tu t'es signalé, 
+Le triste Clarigène est assez consolé. 
+Donc pour d'autres combats réserve ton courage, 
+Ne sois pas généreux à mon désavantage ; 
+Veux-tu que ton ami fasse une lâcheté, 
+Pour mieux faire éclater ta générosité ? 
+Rendre pour me sauver ta perte inévitable, 
+C'est rendre ton ami de ta perte coupable, 
+Ainsi croyant m'ôter d'un injuste tourment, 
+Tu me mets en état de souffrir justement ; 
+Ainsi tu me fais voir par un Zèle invincible, 
+Qu'un ami trop parfait est quelquefois nuisible, 
+Ne te trahis donc plus pour me favoriser, 
+Ne m'offre plus un bien que je dois refuser, 
+Accepter à ton dam cette faveur insigne, 
+C'est et d'elle et de toi me déclarer indigne, 
+Et c'est par ce refus, que tu souffres de moi, 
+Que je me puis montrer digne d'elle et de toi. 
+Je ne puis profiter d'une injustice extrême, 
+Qu'un ami généreux exerce sur lui-même ; 
+Et tu ne peux enfin me donner du support, 
+Qu'en me laissant aller où m'entraîne mon sort. 
+Tu veux périr pour moi, mais hélas, considère, 
+Pour être bon ami tu te rends mauvais frère. 
+Laisseras-tu ta soeur contre toutes les lois ? 
+Et peux-tu me donner un sang que tu lui dois ? 
+Ne joins pas à ses maux cette peine nouvelle, 
+De te voir pour autrui plus touché que pour elle ; 
+Vois que l'abandonner est une cruauté, 
+Qui passe et qui ternit ta générosité ; 
+Rends-toi donc à ta soeur que son deuil te surmonte, 
+En cette occasion l'on est vaincu sans honte ; 
+Être frère insensible, être frère à demi, 
+Efface justement la gloire d'être ami. 
+C'est moi. 
+C'est moi, Seigneurs, que le Ciel persécute. 
+C'est trop longtemps souffrir une vaine dispute. 
+Montrez-nous Clarigène, et sans plus différer, 
+Finissez un combat qu'ils ont trop fait durer. 
+À quelque extrémité que son destin le range, 
+Innocent ou coupable, il n'est pas sans louange. 
+Il faut enfin céder à la force du droit, 
+Et rendre à l'équité l'hommage qu'on lui doit. 
+Toi que traite le Ciel de même qu'un coupable, 
+Et de qui tout le crime est d'être misérable, 
+Pardonne Clarigène à la nécessité, 
+Où me réduit l'honneur et la fatalité. 
+Célie en te montrant ne croit pas te déplaire, 
+Puisqu'elle ne fait rien que tu ne veuilles faire, 
+Et qu'en l'extrémité, qui lui défend le choix, 
+Elle suit un conseil, que tu lui donnerais : 
+Non, non, je ne crois pas que je te sois contraire, 
+En t'exposant aux yeux d'un puissant adversaire ; 
+Qu'il soit fort, qu'il soit grand, je n'en ai point d'effroi, 
+Ce serait t'offenser que de craindre pour toi ; 
+Quoi que pour te gêner l'enfer fasse paraître, 
+Je n'appréhende pas de te faire connaître, 
+Puisqu'il est assuré qu'en dépit de ton sort, 
+Ta vertu fera voir que l'on t'accuse à tort. 
+Elle montre Clarigène.
+Voilà donc Clarigène. 
+Ô Dieux est-il possible, 
+Que jusques à ce point vous soyez in sensible, 
+Que par le sang d'un frère immolé lâchement 
+Vous vouliez acheter le salut d'un amant ? 
+Ne croyez pas, Seigneurs, la passion extrême, 
+Qui la rend outrageuse à la nature même, 
+Elle m'aime, je l'aime, et l'amour peut prouver, 
+Qu'aux dépends de son frère elle veut me sauver. 
+Elle lui donne ensemble, et mon nom, et mon crime, 
+Veut pour ma délivrance en faire une victime, 
+Et pour me surmonter par sa fidélité, 
+Elle se laisse aller jusqu'à l'impiété. 
+Détournez cette horreur qu'elle attire sur elle, 
+La nature s'en plaint comme d'une rebelle, 
+Et moi même confus de ce qu'elle a tenté, 
+Je déteste un dessein dont j'aurais profité. 
+Si la fille amoureuse a su trahir son Père, 
+Une amoureuse soeur peut bien trahir son frère. 
+Juge mieux de ta soeur par ce juste devoir, 
+Qui s'est acquis sur elle un absolu pouvoir. 
+Qui le croirait, Seigneurs, qu'une fille bien née, 
+À ce dérèglement se fut abandonnée ? 
+Quand l'amour a fait voir ces étranges effets, 
+Il ne les a formés qu'en des esprits mal faits. 
+Ce n'est pas en ta soeur que l'amour est barbare, 
+Il ne peut être aveugle en une âme si rare, 
+Et s'il avait les feux d'un insolent vainqueur, 
+Il les épurerait dans un si noble coeur. 
+Ailleurs en souverain l'amour se fait paraître, 
+Mais il connaît ici que l'honneur est son maître. 
+Ne t'impose donc plus le nom de ravisseur, 
+Ne conseille donc plus la honte de ta soeur. 
+Souffre qu'elle te sauve, endure qu'elle t'aime, 
+Ce n'est qu'en te sauvant qu'elle agit pour moi-même, 
+Et si l'amour que j'ai peut encore monter, 
+Ce n'est qu'en te sauvant qu'elle peut l'augmenter. 
+Vous qui cachez des Dieux sous une forme humaine, 
+Justes dispensateurs du prix ou de la peine, 
+Pour terminer enfin ce fameux différent, 
+Suivez le plus honnête et le plus apparent. 
+C'est faire à la nature une injure mortelle, 
+De croire que l'amour ait plus de force qu'elle. 
+Ma fille, éclaircissez ce qu'ils ont obscurci, 
+Dissipez nos soupçons, ôtez-nous de soucis, 
+Si l'amour a failli, montrez-vous plus parfaite, 
+Corrigez sans rougir la faute qu'il a faite, 
+Et par un désaveu plein d'un juste courroux, 
+Faites-nous voir qu'en vous, il a failli sans vous. 
+Non, non, ce chaste amour, est un Dieu dans mon âme, 
+Et par cette raison incapable de blâme ; 
+Et par cette raison plus juste qu'on ne croit, 
+Si je voulais faillir il m'en empêcherait. 
+Voilà donc Clarigène ; hélas l'ai-je pu dire, 
+Ou le dirai-je encor qu'aussitôt je n'expire ? 
+Ne m'interrogez plus, j'ai fait ce que je dois, 
+Et j'ai percé mon coeur pour la seconde fois. 
+Ha ! Seigneurs. 
+C'est assez. Mais que l'on les ramène, 
+Il parle à Licidas.
+Et renvoyez chez vous, cette jeune Romaine ; 
+Loin de nous apporter de l'éclaircissement, 
+Ce qu'elle nous a dit nous trouble infiniment. 
+Assez et trop souvent l'amour est dans le monde, 
+En actes inhumains uns source féconde ; 
+Tâchez donc de tirer de ce coeur aveuglé, 
+Ce que cache sans doute un amour déréglé, 
+Employez la douceur, employez l'artifice, 
+Sachez la vérité, l'on vous fera justice. 
+Ces généreux amis ensemble retenus, 
+Par vous ou par le temps seront enfin connus. 
+Par qui doit de mes maux la course être arrêtée, 
+Si la justice même est contre moi portée ? 
+Si pour rendre mes jours d'autant plus malheureux, 
+Il suffit qu'un coupable imite un généreux ? 
+Votre vengeance est juste autant que nécessaire, 
+Mais on ne la rompt pas alors qu'on la diffère ; 
+En retarder le coup, n'est pas vous négliger, 
+Un juge doit connaître avant que de juger. 
+À qui tient dans ses mains le fer et la balance, 
+Un scrupule tout seul doit être d'importance. 
+Mais j'aperçois mon fils, ha Cléante, et ta soeur ? 
+Parle moi promptement, qu'en fit son ravisseur ? 
+Que le Ciel. 
+Ne fais point de préface importune, 
+Et pour tout compliment dis-moi son infortune 
+Quand tu me fus ravi par ta seule valeur, 
+Ton vaisseau joignit-il celui de ce voleur ? 
+Après deux mois entiers de poursuite et de peine, 
+Enfin je le joignis auprès de Mitilène. 
+Il ne résista point, il me montra ma soeur, 
+Et me reçut en frère et non en ravisseur. 
+Ne crois pas, me dit-il, qu'une beauté si rare, 
+Trouve en moi le courage et l'âme d'un barbare, 
+De ce vivant trésor nous connaissons le prix, 
+Et nous saurons garder ce que nous avons pris. 
+Je m'irrite à ce mot, nous en venons aux armes, 
+Ma soeur en même temps nous oppose ses larmes, 
+Elle arrête la main qui me lance des traits, 
+Et d'un oeil tout en pleurs nous demande la paix. 
+N'achevez point, dit-elle, et pour mon allégeance, 
+Songez à mon salut plutôt qu'à ma vengeance ; 
+Que ferai-je sans vous si d'un coup hasardeux 
+Ce funeste combat vous emporte tous deux. 
+À peine eût-elle dit, que les vents adversaires 
+Poussèrent contre nous deux vaisseaux de corsaires. 
+Dieux ! Que devint ma fille en cette extrémité ? 
+Clarigène en fuyant la mit en sûreté. 
+Et toi que devins-tu ? 
+Je suivis Clarigène, 
+Et nous tînmes longtemps une route incertaine. 
+Les eaux eurent pour nous d'éternelles fureurs, 
+Chaque jour nous montrait de nouvelles horreurs, 
+Et même le trépas n'a point d'affreux visage, 
+Dont il n'ait à nos yeux représenté l'image. 
+Enfin. 
+Après six mois presque épuisé de biens 
+Clarigène arriva chez les Siciliens, 
+Et je reçus du Ciel un pareil avantage, 
+Puisque aussitôt que lui j'en touchai le rivage. 
+Là parmi ses amis Clarigène plus fort 
+Mais non pas moins civil me vint parler d'accord, 
+Il me dit que l'amour avait commis son crime 
+Et que l'amour enfin le rendrait légitime. 
+Ô dieux ! Qu'à s'excuser, un méchant est subtil : 
+S'il aimait votre soeur que ne m'en parlait-il ? 
+Il savait son devoir, mais l'amour le fit taire, 
+La crainte d'un refus le rendit téméraire, 
+Il crut qu'un étranger n'obtiendrait pas de vous 
+Ce qui rendait ici votre destin si doux. 
+Enfin il me parla, pour réparer l'outrage, 
+De faire de ce rapt un juste mariage, 
+J'en remis à ma soeur la résolution, 
+Et ma soeur la remit à votre intention. 
+On vous en écrivit. 
+Je n'ai rien vu Cléante. 
+Aussi votre silence a trompé notre attente, 
+Et nous pensions déjà que notre mauvais sort 
+À nos longs déplaisirs avait joint votre mort. 
+Alors notre retour eût terminé les peines 
+Que notre éloignement vous rendait inhumaines, 
+Mais le bruit des Gaulois, que Rome vit armer, 
+Ne laissait rien de libre et sur terre et sur mer. 
+Ces peuples furieux, mais amis de la gloire. 
+Parle-moi de ta soeur, je sais bien leur histoire, 
+Dis-moi ce qui me touche, et laisse aux curieux 
+Ce qu'un autre désir me rendrait ennuyeux. 
+Doncques après que Rome à vaincre destinée, 
+Eût de cet ennemi la force ruinée, 
+L'assurance revint, et l'empire des eaux 
+Revit en liberté la course des vaisseaux. 
+Nous partons aussitôt. 
+Avecques Clarigène. 
+C'est lui qui nous ravit, c'est lui qui nous ramène, 
+Et sous le titre heureux ou d'époux ou d'amant, 
+Il vient enfin chercher votre consentement ? 
+De moi qui sais combien ce généreux courage 
+Peut à notre maison apporter davantage, 
+Connaissant ce qu'il a, connaissant ce qu'il est, 
+En sa seule faveur je rendrais un arrêt. 
+Où croyez-vous qu'il soit ? 
+Non loin de cette ville, 
+Il attend qu'à ses voeux je vous rende facile. 
+Ô Dieux ! Mais depuis quand vous vit-on arriver 
+Où ce voleur attend que vous l'alliez trouver ? 
+Ce fut hier au soir. 
+Ô trahison trop grande ! 
+Ne crois pas le trouver où tu crois qu'il t'attende, 
+Sans doute Polémon, il fuyait de ces bords 
+Au moment que sa prise a suivi nos efforts. 
+Quoi sa prise ! 
+Oui sa prise, et ses fourbes sont vaines. 
+Je lui laisse pourtant à deux mille d'Athènes. 
+Tu n'iras pas si loin pour revoir ce voleur, 
+D'où vient toute ma honte, et toute ma douleur. 
+Je le tiens ce cruel. 
+Ô l'étrange nouvelle. 
+Comment donc ? 
+Et ta soeur en quel endroit est-elle ? 
+Où vous la désirez, chez vous. 
+Allons la voir, 
+Le traître Clarigène a trompé ton espoir. 
+Enfin vous revoyez une fille si belle, 
+Un repos assuré vous revient avecque elle, 
+Et son retour vainqueur de tous vos déplaisirs 
+A fait perdre chez vous l'usage des soupirs. 
+Enfin vous consentez qu'un hymen légitime 
+Délivre Clarigène, et répare son crime. 
+Dis plutôt Polémon, qu'en cette extrémité 
+Je me laisse emporter à la nécessité, 
+Dis que je suis contraint, et qu'en cette disgrâce 
+Je permets malgré moi ce qu'il faut que l'on fasse, 
+En cette occasion si contraire à mes voeux 
+Je fais ce que je dois, et non ce que je veux ; 
+Je fais ce qu'a voulu l'honneur de ma fille, 
+Et je ne donne rien au bonheur de ma fille. 
+Ha que lui donnerais-je en ce nouveau malheur 
+S'il faut pour son époux lui donner un voleur. 
+Encore en ce malheur a-t-on cet avantage 
+Que sa condition aide à ce mariage, 
+Et que sans déshonneur par les siens poursuivi 
+Vous lui pourriez donner ce qu'il vous a ravi. 
+Qui l'est allé quérir, et qui vous le ramène ? 
+Mon fils, bien étonné de le savoir en peine. 
+Il ne peut concevoir cet emprisonnement, 
+Et demeure confus sur cet événement. 
+Enfin selon mon ordre il est allé lui-même 
+Retirer des prisons ce barbare qu'il aime. 
+Qu'en dit cette Romaine. 
+Elle plaint ses malheurs 
+Et voudrait se noyer dedans l'eau de ses pleurs ; 
+Mais quelque grand transport qu'elle mêle à ses plaintes, 
+Tout ce qu'elle m'a dit je le prends pour des feintes. 
+Pour des feintes ! Comment ? 
+Il n'en faut point douter, 
+Où l'on a des raisons qu'on ne peut contester. 
+Elle mêle au récit qu'elle fait de sa peine 
+Qu'elle sortit de Rome avecques Clarigène, 
+Et qu'après des dangers aussi craints que la mort 
+Le hasard seulement la jeta dans ce port ; 
+Tu sais bien cependant que des bords de Sicile 
+Clarigène et mon fils font voile en cette ville, 
+Et qu'un même vaisseau favorisé des Cieux 
+Les a portés ensemble en ces aimables lieux. 
+Démêle maintenant le noeud que je te montre 
+Accorde si tu peux l'une et l'autre rencontre, 
+Suis de l'oeil Clarigène, et montre-moi comment 
+Il peut être en deux lieux en un même moment. 
+Il est vrai, Licidas, que mon esprit s'égare 
+Lorsque je me figure un accident si rare.
+J'y considère tout, j'y cherche des clartés 
+Et je n'y trouve rien que des obscurités. 
+Ma fille et vous ma Nièce, avecques peu de peine 
+Vous saurez mieux que nous qu'elle est cette Romaine, 
+Faites-la donc venir, ou l'allez voir exprès, 
+La fille ouvre à la fille aisément ses secrets. 
+Je n'épargnerai rien de ce qui peut vous plaire. 
+Je vais voir cependant qui retient votre frère. 
+Que croirai-je Cléone ; et quel nouveau tourment 
+Du logis paternel me fait un monument ? 
+Clarigène en prison, Clarigène perfide ! 
+Que ne dit-on plutôt qu'il est mon homicide ? 
+De quoi vous plaignez-vous ? S'il veut vous outrager, 
+Il est en un endroit, où l'on peut vous venger. 
+Hélas, pour me venger, serai-je moins trompée, 
+Et d'un trait moins cruel me verrai-je frappée ? 
+L'aimez-vous ? 
+Est-il vrai qu'il se soit parjuré, 
+Et qu'il ait contre moi lui-même conspiré ? 
+Après tant de devoirs, qui furent la victime 
+Par qui mon ravisseur se purgea de son crime, 
+Ha, si je ne crois pas cette infidélité, 
+L'on doit bien excuser mon incrédulité. 
+Dites-moi, l'aimez-vous ? 
+Hélas qu'en dois-je croire ! 
+Toutes ses actions ne tendent qu'à sa gloire, 
+Même en me ravissant il fut respectueux 
+Et même dans son crime il parut vertueux. 
+Par cet enlèvement qui le combla de joie, 
+Il me fit sa captive, il me rendit sa proie, 
+Mais par son grand respect, qui n'eût jamais de fin, 
+On eût plutôt jugé qu'il était mon butin. 
+Vous eussiez dit à voir son respect et sa peine, 
+Que c'était un sujet qui conduisait sa Reine, 
+Et qui la délivrait d'une captivité 
+Pour lui rendre son sceptre et son autorité. 
+Jamais sa passion ne me livra la guerre, 
+Tel qu'il fur sur les eaux, tel il fut sur la terre : 
+Mon honneur y craignit son amour suborneur, 
+Et ce fut son amour qui sauva mon honneur ; 
+Enfin pour dire tout, j'appris dans la Sicile, 
+Que chez mon ravisseur je trouvais mon Asile. 
+Mais enfin l'aimez-vous ? 
+Juge ici par mes pleurs, 
+Ou bien de mon amour, ou bien de mes douleurs. 
+J'allumai dans son coeur des feux qui me brûlèrent, 
+Mais mieux que son amour, ses respects me gagnèrent. 
+Quelque fatalité me rangea sous ses lois 
+Et je puis dire enfin qu'il me ravit deux fois. 
+Mais hélas il est homme, et son âme contrainte 
+Sous un voile d'amour peut cacher une feinte 
+Ce n'est pas le premier en ces occasions 
+Qui par ses actions dément ses actions. 
+Peut-être que mon frère avait par sa présence 
+De ce barbare esprit réprimé l'insolence, 
+Que par son seul aspect mon honneur fut sauvé 
+Et que sans lui ce traître eût son crime achevé. 
+Mais que dis-je Cléone, il m'a donné des larmes 
+Plus que n'a mérité ce peu que j'ai de charmes, 
+Mais que dis-je bons Dieux, n'est-il pas assuré 
+Qu'on a souvent trahi celui qu'on a pleuré. 
+Mais parlons à Célie. 
+Hélas que dira-t-elle 
+Qui ne rende en mon coeur ma peine plus cruelle ? 
+Et que peut-elle enfin me faire concevoir 
+Que mon esprit confus ne craigne de savoir ? 
+Voyons-la toutefois. 
+Il faut que je l'appelle. 
+Après tant de devoirs Clarigène infidèle ! 
+Comment ? Et depuis quand ? Avant que de me voir 
+L'amour l'engageait-il sous un autre pouvoir ! 
+Il le faut, je le crois. Mais. 
+Faites-moi connaître 
+Ce que dans peu de jours le temps ferait paraître, 
+Et pour votre repos autant que pour le mien 
+De vos tristes amours ne me déguisez rien. 
+Aimez-vous Clarigène ? 
+Oui Madame je l'aime 
+Et l'aime d'un amour aussi vieux que moi-même. 
+Je cacherais en vain ce qu'on a déjà su. 
+Dites, depuis deux ans l'avez-vous toujours vu ? 
+Oui je l'ai toujours vu, si j'excepte un voyage 
+Où durant quatre mois l'engagea son courage. 
+En quel endroit fut-il ? 
+Aux pays étrangers 
+Où la guerre plus forte avait plus de dangers. 
+Il vous trompa Célie, il vint en cette terre, 
+Et ce ne fut qu'à moi qu'il déclara la guerre. 
+Ce fut en ce temps-là que ce perfide amant 
+Se rendit criminel par mon enlèvement. 
+Mais où vous mena-t-il. 
+Sur les bords de Sicile. 
+Il vous y laissa donc. 
+Il se tint en cette Île, 
+Et c'est lui maintenant qui m'y conduit ici. 
+Et c'est lui maintenant qui m'y conduit aussi. 
+Je ne puis rien comprendre à cette étrange histoire, 
+Le moyen de vous croire, ou de me faire croire ? 
+Le moyen de me croire ! Ha c'est me maltraiter. 
+Je n'ai jamais rien dit, dont on ait pu douter. 
+Peut-être qu'ayant su qu'une amitié nouvelle 
+Vous avait dérobé cet esprit infidèle, 
+L'amour vous l'a fait suivre, et c'est peut-être ainsi 
+Que ce perfide amant vous a conduite ici.
+De ces subtilités mon âme est incapable, 
+Je suivis un amant sans me rendre coupable ; 
+Je ne suis pas enfin de ces lâches esprits, 
+Où l'amour criminel met l'honneur à mépris. 
+Mais enfin il vous aime. 
+Il me l'a fait connaître.
+Il n'en faut plus douter, Cléone, c'est un traître ; 
+Ses respects n'ont été que des pièges divers, 
+Que des poisons cachés, que des crimes couverts, 
+Et je dois accuser cette âme criminelle 
+Et comme un ravisseur, et comme un infidèle. 
+Mais son premier forfait en outrages fécond 
+Me servira du moins à punir le second. 
+Pourquoi contre son bien formez-vous cette plainte, 
+Puisqu'il doit être à vous, même par la contrainte ? 
+Et que de la prison, qui le tient arrêté, 
+Il ne peut s'affranchir par l'infidélité. 
+S'il est vrai qu'il vous aime, et qu'il vous ait ravie 
+Vous avez intérêt à conserver sa vie ; 
+Hélas ! Belle Céphise en cette extrémité 
+Qui peut rendre l'honneur que ceux qui l'ont ôté ? 
+Il ne m'a rien ôté, le parjure, le traître, 
+Si ce n'est cet amour qu'il me faisait paraître, 
+Et je découvre assez en le persécutant 
+Que j'attends peu de bien de ce coeur inconstant. 
+Vous vous flattez en vain d'un espoir de vengeance, 
+Un rapt ôte l'honneur, au moins en apparence ; 
+Et dès lors qu'il s'agit d'un trésor si parfait,
+L'ôter en apparence est l'ôter en effet. 
+Protéger donc celui qui pourrait vous le rendre, 
+Défendre Clarigène est aussi vous défendre. 
+Mais devez-vous parler pour ce perfide amant 
+Dont l'infidélité nous trompe également ? 
+Devez-vous protéger celui qui vous outrage ? 
+Qui vous donne sa foi tandis qu'il me l'engage ? 
+Qui feint en même temps de brûler pour nous deux 
+Et qui peut-être ailleurs brûle pour d'autres feux ? 
+Misérable Célie, il vous trahit vous-même 
+Et vous vous trahissez de croire qu'il vous aime, 
+Quand il vous aimerait jusqu'à vous adorer, 
+Engagé comme il est, qu'en peut-on espérer ? 
+Quand je le donnerais à l'amour qui vous reste 
+Que profiterez-vous d'un présent si funeste ? 
+Perfide comme il est, et pour vous, et pour nous 
+Si je vous le donnais, il s'enfuirait de vous. 
+Perdez donc un espoir qui vous est si contraire, 
+Ne défendez donc plus un si traître adversaire, 
+Quoi que la passion vous en fasse juger 
+Je vous venge moi-même en voulant me venger, 
+Et peut-être avec nous lâchement méprisées, 
+Je venge justement cent filles abusées. 
+Ne vous efforcez point de l'ôter de mon coeur, 
+Il y vit en amant, il y règne en vainqueur, 
+Et si je le défends contre votre colère, 
+Je montre que je l'aime ; et non pas que j'espère. 
+Je vous parle pour lui, je tâche à le sauver, 
+À dessein seulement de vous le conserver. 
+Qu'un autre le possède, et qu'il me soit parjure 
+S'il me fuit pour son bien, j'aimerai cette injure ; 
+Qu'il soit à mon malheur, infidèle, inconstant, 
+Pourvu qu'il soit heureux, j'aurai l'esprit content. 
+Non, non, ne pensez pas, que j'aille le contraindre ; 
+Si mon feu lui déplaît, je suis prête à l'éteindre, 
+Et mon extrême amour sera récompensé, 
+Si j'adoucis pour lui votre esprit offensé. 
+Vous voulez le confondre, et pour votre allégeance 
+De son sang répandu tirer votre vengeance, 
+Mais croyez-vous tirer votre soulagement 
+D'où malgré tous vos soins viendra votre tourment ; 
+Si vous avez aimé cet amant déplorable,
+S'il vous fut quelquefois un objet agréable, 
+Pensez-vous à sa perte aujourd'hui consentir 
+Sans en avoir demain un juste repentir ? 
+Si l'on résout bientôt un destin si funeste, 
+Après avoir aimé bientôt on le déteste, 
+Nous pensons n'aimer plus en faisant ces desseins 
+Dont même les effets sont pour nous inhumains, 
+Mais par un prompt remords, dont le feu nous dévore, 
+Nous apprenons bientôt que nous aimons encore. 
+C'est alors que l'amour rend ses feux éclatants, 
+C'est alors qu'on souhaite, et qu'il n'en est plus temps 
+L'âme avecques soi-même est toujours en querelle, 
+Sa faute est un enfer, qu'elle porte avecque elle, 
+Un juste désespoir la suit avec horreur, 
+Et ce qui fut amour n'est plus rien que fureur. 
+Fuyez donc les conseils, d'une si prompte haine, 
+Qui vous serait fatale autant que Clarigène, 
+Et pour craindre pour vous un trait envenimé 
+Souvenez-vous ici que vous l'avez aimé. 
+Que si vos passions le traitent d'infidèle 
+Il peut en expirant vous appeler cruelle, 
+Et vous blâmer enfin d'une inhumanité, 
+Bien plus à condamner qu'une infidélité. 
+Hélas il a failli ; mais s'il en est blâmable 
+Faut-il en vous vengeant vous rendre plus coupable ? 
+Si jadis vos beautés gagnèrent son amour 
+Qu'aujourd'hui vos bontés le gagnent à leur tour, 
+Qu'il rougisse aujourd'hui cet injuste volage 
+De devoir son salut à celle qu'il outrage ; 
+Laissez-lui ce regret, qu'il en soit consumé, 
+Et ressouvenez-vous que vous l'avez aimé. 
+Feriez-vous d'un amant une affreuse victime, 
+Peut-être au même instant qu'il pleure de son crime ? 
+Lui pouvez-vous montrer cet excès de courroux 
+Quand l'amour repentant le ramène chez vous ? 
+Si l'on pardonne même aux esclaves rebelles, 
+Doit-on moins de faveur aux amants infidèles ? 
+Et d'un feu tout divin votre coeur enflammé 
+Doit-il moins à celui que vous avez aimé ? 
+Que l'amour a des traits plus forts que la colère, 
+Je me rends malgré moi. 
+Mais voici votre Père. 
+Hélas ! 
+Nos prisonniers à la fin sont venus, 
+Mais comme auparavant ils me sont inconnus. 
+Mon frère toutefois connaît bien Clarigène 
+Et peut vous le montrer puisqu'il vous le ramène. 
+Il les a renvoyés, et n'est pas revenu, 
+J'ignore le sujet qui l'aura retenu, 
+Mais vous pouvez sans lui nous retirer de doute, 
+Et ramener le jour où nous ne voyons goutte. 
+Que l'on fasse venir le premier pris des deux. 
+Que mon sort est étrange et qu'il est courageux ! 
+Est-ce là Clarigène, est-ce lui ? 
+C'est mon frère. 
+Ma fille répondez, contentez votre Père, 
+Est-ce lui ? 
+Non Monsieur, ou par trop de rigueur, 
+Son visage a changé de même que son coeur. 
+Qu'on fasse venir l'autre. 
+Ô Ciel sois nous propice. 
+Enfin nous le verrons malgré votre artifice. 
+L'est-ce là [?]
+Si l'amour t'arrête en des liens 
+Plus vieux ou plus nouveaux que ne sont pas les miens, 
+Elle parle à Clarigène.
+Si tu commis un mal que l'amour autorise, 
+Si tu te dois toi-même à l'honneur de Céphise, 
+Si tu l'aimes enfin, ne crains pas devant moi 
+Après le don du coeur de lui donner ta foi. 
+Ne me regarde plus, regarde ta fortune, 
+Je ne t'oppose point une amour importune, 
+Mais pour te rendre libre, et moins fortuné 
+Je te rends le serment que tu m'avais donné. 
+Ne me montre donc plus un zèle opiniâtre, 
+Cesse pour ton bonheur d'être mon idolâtre ; 
+Que me pourrait servir de retenir ta foi 
+Si l'on peut malgré toi te dérober à moi. 
+Ne crains point de ma part de reproche ou d'injure, 
+Blâmerais-je un dessein lorsque je t'en conjure ? 
+Et si tu veux encor te montrer mon amant 
+Prends ici mon conseil comme un commandement. 
+Ici l'étonnement étouffe ma parole, 
+Et tout ce que j'y vois me trouble et me console. 
+C'est donc là Clarigène, et vous le connaissez. 
+Je l'ai vu trop longtemps, je le connais assez, 
+Mais je ne vis jamais ce nouveau misérable 
+Que le crime d'un autre a fait croire coupable. 
+Ce n'est pas lui ! 
+Rien moins. 
+Parlez-moi librement, 
+Peut-être que l'amour vous fait plaindre un amant, 
+Et que pour le sauver de ma juste colère 
+Cette feinte est un trait que la peur vous suggère. 
+Mais enfin mes rigueurs font place à la douceur, 
+En lui je cherche un fils, non pas un ravisseur, 
+Je consens que son bien naisse ici de sa faute. 
+Il n'osait se promettre une faveur si haute, 
+Mais s'il voulait ici se cacher vainement, 
+Il se découvrirait par son contentement. 
+Ce n'est pas lui Monsieur. 
+Qui m'ôtera de peine. 
+Mais voici votre fils. 
+Est-ce là Clarigène. 
+C'est lui, ce ne l'est pas, écoutez seulement, 
+Vous aurez du plaisir et de l'étonnement.
+Croyant voir Clarigène en ces lieux redoutables 
+Qui sont comme l'enfer, un séjour de coupables, 
+J'ai trouvé ces Romains, et connu clairement 
+Qu'ils souffraient pour un autre un injuste tourment, 
+Que pour porter enfin le nom de Clarigène 
+Faits pour lui prisonnier, ils en portaient la peine : 
+Voilà l'étrange sort qui les gênaient tous deux, 
+Et je n'ai différé de venir avec eux, 
+Que pour aller quérir cet autre Clarigène 
+Qui voudrait par son sang éteindre votre haine. 
+Je sais bien que paraître aujourd'hui devant vous 
+C'est attirer sur moi votre juste courroux, 
+Mais je sais bien aussi que pour votre allégeance 
+À ma confusion je vous dois ma présence. 
+Sur mon sang, sur mon coeur, vengez-vous d'un forfait 
+Que l'amour entreprit, et que l'amour a fait, 
+Et donnez à l'honneur d'une fille ravie 
+Selon vos passions, ou ma mort, ou ma vie. 
+Je mourrai sans me plaindre et content de mon sort 
+Si vous pouvez enfin vous venger par ma mort. 
+S'il est vrai toutefois qu'un amour légitime 
+Toujours dedans mon coeur fut ennemi du crime, 
+Jugez-moi, jugez-moi, non par mes actions 
+Mais pour la pureté de mes intentions. 
+En veut-on une preuve aussi forte que claire 
+Interrogez Céphise interrogez son frère, 
+Nous produisons sans peur des témoins contre nous 
+Que la nature même intéresse pour vous. 
+Quelle confusion à la mienne est semblable ? 
+Il regarde l'un et l'autre Clarigène.
+Là je suis l'offensé, là je suis le coupable, 
+J'ai besoin du Pardon, où l'on veut m'obliger, 
+Et je vois satisfaire, où j'ai cru me venger. 
+Excusez mes amis la Passion d'un Père 
+Qui perd en ses enfants sa richesse plus chère. 
+Et si d'injustes maux sont tombés dessus vous 
+Blâmez-en votre nom plutôt que mon courroux. 
+En l'état où j'étais, portant le nom de Père 
+Pouvais-je plus attendre, et devais-je moins faire. 
+Votre dessein fut juste, et quoi que l'on ait fait, 
+Me vouloir satisfaire est m'avoir satisfait. 
+Quand même vos rigueurs nous traitaient en coupables 
+Vos soins beaucoup plus grands nous étaient favorables ; 
+En donnant à Célie un Asile chez vous 
+Vous détourniez le mal que vous versiez sur nous ; 
+Vous ne pouviez enfin nous paraître adversaire 
+Tandis que vos faveurs allégeaient sa misère ; 
+Et je sentais les biens, dont vous la soulagiez, 
+Beaucoup mieux que les maux par qui vous m'affligiez ;
+On oblige un amant en la beauté qu'il aime 
+Bien plus qu'on ne l'outrage en sa personne même. 
+Vos bontés seulement sont ici les raisons, 
+Qui vous font oublier ma haine et vos prisons.
+Pourrais-je sans leur aide effacer les injures 
+Dont je viens d'augmenter vos tristes aventures. 
+Que ne vous dois-je point ? 
+Vous devez désormais 
+Sans vous inquiéter nous croire satisfaits. 
+S'il est vrai néanmoins, que d'un noble courage 
+Je puisse justement espérer d'avantage, 
+Prosterné devant vous j'implore seulement 
+Une grâce, un pardon, qui sauve cet amant. 
+Bien que ma passion soit ici légitime 
+J'apprends par votre exemple à pardonner un crime. 
+Qu'il possède ma fille, et rallume ses feux, 
+Vous me le demandez, j'y consens ? Je le veux. 
+Confus comme ravi ; par des faveurs si grandes, 
+À qui dois-je des deux mes premières offrandes ? 
+Ce que j'ai fait pour vous, vous l'eussiez fait pour moi. 
+Ô générosité seule semblable à soi, 
+Et qui nous fait bien voir, que Rome est dans le monde
+En célestes enfants une mère féconde. 
+Hélas. 
+Que pleurez-vous. 
+Je pleure ses malheurs. 
+Laissez aux affligés les soupirs, et les pleurs. 
+Enfin Rome a repris une face plus belle 
+Et triomphe aujourd'hui, de qui triomphait d'elle. 
+Camille glorieux est son libérateur 
+Et s'est fait des Romains le second fondateur. 
+Ô nouvelle agréable autant que désirée ! 
+Ne soupirez donc plus. 
+Mais est-elle assurée ? 
+Cléante, que le Ciel amène à mon secours, 
+En nous tirant des fers m'en a fait le discours. 
+Vous saurez plus au long cette agréable histoire 
+Qui vous comble de joie, et Camille de Gloire. 
+Ô vous illustres coeurs vrais amis, vrais amants 
+Seuls à qui mon repos coûte tant de tourments, 
+Soit que de ce pays la beauté vous retienne, 
+Soit que de votre ville un désir vous revienne, 
+Disposez de mes biens, prenez-en votre part, 
+Ou pour votre séjour, ou pour votre départ. 

@@ -128,7 +128,6 @@ Riche banquier, par un fol entêtement de noblesse, j'épousai une fille qui n'a
 Vous les méritiez, apparemment ?
 Elle et toute sa famille puisaient à pleines mains dans ma caisse ; et elle ne croyait pas que je l'eusse encore assez payée.
 Elle avait raison ; vous ne savez pas ce que c'est que la qualité.
-Georges Dandin est une comédie de Molière.
 Je n'étais son mari qu'en peinture : elle craignait de déroger avec moi ; en un mot, j'étais le Georges Dandin de la comédie.
 Elle en usait encore trop bien avec vous.
 N'exposez point ma nièce à endurer des mépris.
@@ -589,7 +588,7 @@ Elle fait-là une bonne affaire de donner sa fille à monsieur le marquis, et, e
 À vous, Monsieur Pot-De-Vin ?
 Oui, oui, à moi ; et si je disais un mot, quoique la chose soit bien avancée, je la ferais manquer.
 Comment donc ?
-Depuis que le bruit s'est répandu que monsieur le marquis épouse Mademoiselle Benjamine, dans toutes les rues où je passe, je suis arrêté par un nombreinfini de gros financiers et d'agioteurs. 
+Depuis que le bruit s'est répandu que monsieur le marquis épouse Mademoiselle Benjamine, dans toutes les rues où je passe, je suis arrêté par un nombre infini de gros financiers et d'agioteurs. 
 "Eh ! 
 Monsieur Pot-De-Vin, me disent-ils, mon cher Monsieur Pot-De-Vin, j'ai une fille unique, belle comme l'amour, et des millions !... 
 Messieurs, il n'est plus temps ; j'en suis fâché, monsieur le marquis a fait un dédit... 
@@ -670,7 +669,7 @@ Nous le verrons une autre fois.
 Il y a une semaine que vous me remettez de jour à autre. 
 Je n'ai que deux mots...
 Voyons donc ; il faut me défaire de vous.
-" Mémoire des frais, mises et avances faits pour le service de monsieur le marquis de Moncade, par moi, Pierre-Roch Pot-De-Vin, intendant de mondit sieur le marquis... "
+" Mémoire des frais, mises et avances faits pour le service de monsieur le marquis de Moncade, par moi, Pierre-Roch Pot-De-Vin, intendant de Mondit sieur le marquis... "
 Eh ! 
 Laissez-là ce maudit préambule.
 Il se jette dans un fauteuil. 
@@ -1187,7 +1186,7 @@ Soyez sûr de sa reconnaissance et de la mienne.
 Je voudrais que vous m'eussiez vu quand je suis entré ici. 
 Je venais vous quereller. 
 J'y ai trouvé Damis au désespoir : il m'a encore animé contre vous. 
-Enfin j'étais dans une colère si grande, que je croyais que j'allaisvous étrangler, vous, Benjamine, et monsieur le marquis même. 
+Enfin j'étais dans une colère si grande, que je croyais que j'allais vous étrangler, vous, Benjamine, et monsieur le marquis même. 
 Hélas ! 
 Sitôt qu'il a paru, j'ai senti, peu à peu, que ma colère s'évaporait ; et, à la fin, je me suis voulu un mal incroyable de m'être opposé un seul moment à ce mariage.
 Je savais bien, moi, que vous reviendriez sur son compte.
@@ -1235,7 +1234,7 @@ Il va accourir.
 Pour moi, je galope porter cet autre billet chez un duc, des amis de mon maître.
 Un duc, ma mère !
 C'est pour le convier à vos noces. 
-Votre très humble ettrès obéissant.
+Votre très humble et très obéissant.
 À Marthon. 
 Sans adieu, mon adorable.
 Il sort. 
