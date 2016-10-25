@@ -1,0 +1,1333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b" class="pygal-chart" viewBox="0 0 800 600">
+  <!--Generated with pygal 2.2.2 (lxml) ©Kozea 2012-2016 on 2016-10-25-->
+  <!--http://pygal.org-->
+  <!--http://github.com/Kozea/pygal-->
+  <defs>
+    <style type="text/css">/*
+ * This file is part of pygal
+ *
+ * A python svg graph plotting library
+ * Copyright © 2012 Kozea
+
+ * This library is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Lesser General Public License as published by the Free
+ * Software Foundation, either version 3 of the License, or (at your option) any
+ * later version.
+ *
+ * This library is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with pygal. If not, see &lt;http://www.gnu.org/licenses/&gt;.
+*/
+
+/*
+ * Font-sizes from config, override with care
+ */
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  {
+  -webkit-user-select: none;
+  -webkit-font-smoothing: antialiased;
+  font-family: FreeSans;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .title {
+  font-family: FreeSans;
+  font-size: 20px;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .legends .legend text {
+  font-family: FreeSans;
+  font-size: 16px;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis text {
+  font-family: FreeSans;
+  font-size: 12px;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis text.major {
+  font-family: FreeSans;
+  font-size: 10px;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .text-overlay text.value {
+  font-family: FreeSans;
+  font-size: 16px;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .text-overlay text.label {
+  font-family: FreeSans;
+  font-size: 10px;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip {
+  font-family: FreeSans;
+  font-size: 14px;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b text.no_data {
+  font-family: FreeSans;
+  font-size: 64px;
+}
+
+/*
+ * This file is part of pygal
+ *
+ * A python svg graph plotting library
+ * Copyright © 2012 Kozea
+
+ * This library is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Lesser General Public License as published by the Free
+ * Software Foundation, either version 3 of the License, or (at your option) any
+ * later version.
+ *
+ * This library is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with pygal. If not, see &lt;http://www.gnu.org/licenses/&gt;.
+*/
+
+/*
+ * Styles from config
+ */
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b {
+  background-color: white;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b path,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b rect,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b circle {
+  -webkit-transition: 150ms;
+  -moz-transition: 150ms;
+  transition: 150ms;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .graph &gt; .background {
+  fill: white;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .plot &gt; .background {
+  fill: white;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .graph {
+  fill: rgba(0, 0, 0, .87);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b text.no_data {
+  fill: rgba(0, 0, 0, 1);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .title {
+  fill: rgba(0, 0, 0, 1);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .legends .legend text {
+  fill: rgba(0, 0, 0, .87);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .legends .legend:hover text {
+  fill: rgba(0, 0, 0, 1);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis .line {
+  stroke: rgba(0, 0, 0, 1);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis .guide.line {
+  stroke: rgba(0, 0, 0, .54);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis .major.line {
+  stroke: rgba(0, 0, 0, .87);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis text.major {
+  fill: rgba(0, 0, 0, 1);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.y .guides:hover .guide.line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .line-graph .axis.x .guides:hover .guide.line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .stackedline-graph .axis.x .guides:hover .guide.line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .xy-graph .axis.x .guides:hover .guide.line {
+  stroke: rgba(0, 0, 0, 1);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis .guides:hover text {
+  fill: rgba(0, 0, 0, 1);
+}
+
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .reactive {
+  fill-opacity: .7;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .ci {
+    stroke: rgba(0, 0, 0, .87);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .reactive.active,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .active .reactive {
+  fill-opacity: .8;
+  stroke-width: 4;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .ci .reactive.active {
+  stroke-width: 1.5;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .series text {
+  fill: rgba(0, 0, 0, 1);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip rect {
+  fill: white;
+  stroke: rgba(0, 0, 0, 1);
+  -webkit-transition: opacity 150ms;
+  -moz-transition: opacity 150ms;
+  transition: opacity 150ms;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip .label {
+  fill: rgba(0, 0, 0, .87);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip .label {
+  fill: rgba(0, 0, 0, .87);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip .legend {
+  font-size: .8em;
+  fill: rgba(0, 0, 0, .54);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip .x_label {
+  font-size: .6em;
+  fill: rgba(0, 0, 0, 1);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip .xlink {
+  font-size: .5em;
+  text-decoration: underline;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip .value {
+  font-size: 1.5em;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .bound {
+  font-size: .5em;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .max-value {
+  font-size: .75em;
+  fill: rgba(0, 0, 0, .54);
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .map-element {
+  fill: white;
+  stroke: rgba(0, 0, 0, .54) !important;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .map-element .reactive {
+  fill-opacity: inherit;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-0, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-0 a:visited {
+  stroke: #1d91c0;
+  fill: #1d91c0;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-1, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-1 a:visited {
+  stroke: #1d91c0;
+  fill: #1d91c0;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-2, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-2 a:visited {
+  stroke: #1d91c0;
+  fill: #1d91c0;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-3, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-3 a:visited {
+  stroke: #1d91c0;
+  fill: #1d91c0;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-4, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-4 a:visited {
+  stroke: #1d91c0;
+  fill: #1d91c0;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-5, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-5 a:visited {
+  stroke: #071746;
+  fill: #071746;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-6, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-6 a:visited {
+  stroke: #071746;
+  fill: #071746;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-7, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-7 a:visited {
+  stroke: #071746;
+  fill: #071746;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-8, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-8 a:visited {
+  stroke: #071746;
+  fill: #071746;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-9, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .color-9 a:visited {
+  stroke: #071746;
+  fill: #071746;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-0 text {
+  fill: black;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-1 text {
+  fill: black;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-2 text {
+  fill: black;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-3 text {
+  fill: black;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-4 text {
+  fill: black;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-5 text {
+  fill: white;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-6 text {
+  fill: white;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-7 text {
+  fill: white;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-8 text {
+  fill: white;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  .text-overlay .color-9 text {
+  fill: white;
+}
+
+
+
+
+/*
+ * This file is part of pygal
+ *
+ * A python svg graph plotting library
+ * Copyright © 2012 Kozea
+
+ * This library is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Lesser General Public License as published by the Free
+ * Software Foundation, either version 3 of the License, or (at your option) any
+ * later version.
+ *
+ * This library is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with pygal. If not, see &lt;http://www.gnu.org/licenses/&gt;.
+*/
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b text.no_data {
+  text-anchor: middle;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .guide.line {
+  fill: none;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .centered {
+  text-anchor: middle;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .title {
+  text-anchor: middle;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .legends .legend text {
+  fill-opacity: 1;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.x text {
+  text-anchor: middle;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.x:not(.web) text[transform] {
+  text-anchor: start;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.x:not(.web) text[transform].backwards {
+  text-anchor: end;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.y text {
+  text-anchor: end;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.y text[transform].backwards {
+  text-anchor: start;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.y2 text {
+  text-anchor: start;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.y2 text[transform].backwards {
+  text-anchor: end;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis .guide.line {
+  stroke-dasharray: 4,4;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis .major.guide.line {
+  stroke-dasharray: 6,6;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .horizontal .axis.y .guide.line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .horizontal .axis.y2 .guide.line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .vertical .axis.x .guide.line {
+  opacity: 0;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .horizontal .axis.always_show .guide.line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .vertical .axis.always_show .guide.line {
+  opacity: 1 !important;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.y .guides:hover .guide.line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.y2 .guides:hover .guide.line,
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis.x .guides:hover .guide.line {
+  opacity: 1;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .axis .guides:hover text {
+  opacity: 1;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .nofill {
+  fill: none;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .subtle-fill {
+  fill-opacity: .2;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .dot {
+  stroke-width: 1px;
+  fill-opacity: 1;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .dot.active {
+  stroke-width: 5px;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .dot.negative {
+  fill: transparent;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  text, #chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b  tspan {
+  stroke: none !important;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .series text.active {
+  opacity: 1;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip rect {
+  fill-opacity: .95;
+  stroke-width: .5;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .tooltip text {
+  fill-opacity: 1;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .showable {
+  visibility: hidden;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .showable.shown {
+  visibility: visible;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .gauge-background {
+  fill: rgba(229, 229, 229, 1);
+  stroke: none;
+}
+
+#chart-a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b .bg-lines {
+  stroke: white;
+  stroke-width: 2px;
+}
+</style>
+    <script type="text/javascript">window.pygal = window.pygal || {};window.pygal.config = window.pygal.config || {};window.pygal.config['a37e96e1-9fd7-42ee-9f42-0c0eae53ca6b'] = {"interpolation_parameters": {}, "x_labels_major_count": null, "margin_left": null, "legend_at_bottom_columns": null, "xrange": null, "tooltip_border_radius": 0, "show_y_guides": true, "y_labels": null, "classes": ["pygal-chart"], "inner_radius": 0, "tooltip_fancy_mode": true, "inverse_y_axis": false, "x_labels": ["1", "2", "3", "4", "5", "1", "2", "3", "4", "5"], "min_scale": 4, "y_labels_major_every": null, "show_minor_x_labels": true, "spacing": 10, "y_title": null, "max_scale": 16, "half_pie": false, "interpolate": null, "js": ["//kozea.github.io/pygal.js/2.0.x/pygal-tooltips.min.js"], "show_y_labels": true, "allow_interruptions": false, "print_values": false, "print_values_position": "center", "margin_right": null, "order_min": null, "x_title": "Com\u00e9dies _________________ Trag\u00e9dies", "show_legend": false, "defs": [], "no_data_text": "No data", "show_minor_y_labels": true, "zero": 0, "legends": ["('Com\u00e9die', 0)", "('Com\u00e9die', 1)", "('Com\u00e9die', 2)", "('Com\u00e9die', 3)", "('Com\u00e9die', 4)", "('Trag\u00e9die', 0)", "('Trag\u00e9die', 1)", "('Trag\u00e9die', 2)", "('Trag\u00e9die', 3)", "('Trag\u00e9die', 4)"], "formatter": null, "x_labels_major": null, "rounded_bars": null, "truncate_legend": null, "show_dots": true, "title": "coeur-ciel-malheureux (33)", "x_labels_major_every": null, "explicit_size": false, "fill": false, "y_labels_major": null, "legend_at_bottom": false, "x_label_rotation": 0, "style": {"value_font_size": 16, "foreground": "rgba(0, 0, 0, .87)", "guide_stroke_dasharray": "4,4", "title_font_size": 20, "legend_font_family": "FreeSans", "tooltip_font_size": 14, "no_data_font_family": "FreeSans", "label_font_size": 12, "transition": "150ms", "major_label_font_size": 10, "legend_font_size": 16, "background": "white", "foreground_strong": "rgba(0, 0, 0, 1)", "value_background": "rgba(229, 229, 229, 1)", "opacity_hover": ".8", "foreground_subtle": "rgba(0, 0, 0, .54)", "font_family": "FreeSans", "major_guide_stroke_dasharray": "6,6", "value_colors": [], "title_font_family": "FreeSans", "major_label_font_family": "FreeSans", "value_label_font_family": "FreeSans", "value_font_family": "FreeSans", "colors": ["#1d91c0", "#1d91c0", "#1d91c0", "#1d91c0", "#1d91c0", "#071746", "#071746", "#071746", "#071746", "#071746"], "label_font_family": "FreeSans", "no_data_font_size": 64, "opacity": ".7", "tooltip_font_family": "FreeSans", "ci_colors": [], "value_label_font_size": 10, "plot_background": "white"}, "stack_from_top": false, "secondary_range": null, "dots_size": 2.5, "margin": 20, "css": ["file://style.css", "file://graph.css"], "legend_box_size": 12, "y_labels_major_count": null, "width": 800, "no_prefix": false, "box_mode": "tukey", "dynamic_print_values": false, "print_zeroes": true, "strict": false, "logarithmic": false, "stroke": true, "print_labels": false, "show_x_guides": false, "disable_xml_declaration": false, "margin_top": null, "margin_bottom": null, "show_x_labels": true, "show_only_major_dots": false, "truncate_label": null, "range": null, "stroke_style": null, "y_label_rotation": 0, "pretty_print": true, "include_x_axis": false, "force_uri_protocol": "https", "interpolation_precision": 250, "missing_value_fill_truncation": "x", "height": 600}</script>
+    <script type="text/javascript" xlink:href="https://kozea.github.io/pygal.js/2.0.x/pygal-tooltips.min.js"/>
+  </defs>
+  <title>coeur-ciel-malheureux (33)</title>
+  <g class="graph box-graph vertical">
+    <rect class="background" height="600" width="800" x="0" y="0"/>
+    <g class="plot" transform="translate(51, 50)">
+      <rect class="background" height="478" width="728.4" x="0" y="0"/>
+      <g class="axis y">
+        <g class="guides">
+          <path class="axis major line" d="M0.000000 468.807692 h728.400000"/>
+          <text class="major" x="-5" y="473.007692308">0</text>
+          <title>0</title>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M0.000000 381.404025 h728.400000"/>
+          <text class="" x="-5" y="385.604024701">0.1</text>
+          <title>0.1</title>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M0.000000 294.000357 h728.400000"/>
+          <text class="" x="-5" y="298.200357093">0.2</text>
+          <title>0.2</title>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M0.000000 206.596689 h728.400000"/>
+          <text class="" x="-5" y="210.796689486">0.3</text>
+          <title>0.3</title>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M0.000000 119.193022 h728.400000"/>
+          <text class="" x="-5" y="123.393021879">0.4</text>
+          <title>0.4</title>
+        </g>
+        <g class="guides">
+          <path class="major guide line" d="M0.000000 31.789354 h728.400000"/>
+          <text class="major" x="-5" y="35.989354272">0.5</text>
+          <title>0.5</title>
+        </g>
+      </g>
+      <g class="axis x">
+        <path class="line" d="M0.000000 0.000000 v478.000000"/>
+        <g class="guides">
+          <path class="guide line" d="M49.026923 0.000000 v478.000000"/>
+          <text class="" x="49.02692307692308" y="494.0">1</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M119.065385 0.000000 v478.000000"/>
+          <text class="" x="119.0653846153846" y="494.0">2</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M189.103846 0.000000 v478.000000"/>
+          <text class="" x="189.10384615384615" y="494.0">3</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M259.142308 0.000000 v478.000000"/>
+          <text class="" x="259.14230769230767" y="494.0">4</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M329.180769 0.000000 v478.000000"/>
+          <text class="" x="329.1807692307692" y="494.0">5</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M399.219231 0.000000 v478.000000"/>
+          <text class="" x="399.2192307692308" y="494.0">1</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M469.257692 0.000000 v478.000000"/>
+          <text class="" x="469.2576923076923" y="494.0">2</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M539.296154 0.000000 v478.000000"/>
+          <text class="" x="539.2961538461539" y="494.0">3</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M609.334615 0.000000 v478.000000"/>
+          <text class="" x="609.3346153846153" y="494.0">4</text>
+        </g>
+        <g class="guides">
+          <path class="guide line" d="M679.373077 0.000000 v478.000000"/>
+          <text class="" x="679.373076923077" y="494.0">5</text>
+        </g>
+      </g>
+      <g class="series serie-0 color-0">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M33.618462 468.403411 L64.435385 468.403411" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M18.210000 468.209432 L79.843846 468.209432" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M33.618462 448.730530 L64.435385 448.730530" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M49.026923 468.403411 L49.026923 468.296527" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M49.026923 448.730530 L49.026923 460.405408" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="7.89111932912" width="61.63384615384615" x="18.21" y="460.405407684"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="447.593909365" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="446.940911241" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="446.325665378" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="445.88367865" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="445.391929719" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="444.896137927" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="444.85530375" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="444.815846885" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="444.489217231" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="444.388961001" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="444.068207021" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="443.632362634" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="441.790256343" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="441.512392686" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="441.327329363" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="440.250861547" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="440.046014307" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="438.644586136" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="436.929826488" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="436.764407804" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="436.01123549" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="435.843566924" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="435.534345605" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="435.09754021" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="433.549924022" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="433.266372524" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="432.348437989" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="431.834879167" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="430.779948896" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="430.399431722" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="427.621513209" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="427.621513209" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="426.942692657" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="426.676723545" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="425.486614294" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="423.511264094" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="423.356038863" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="421.837618055" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="421.81031144" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="419.776387912" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="419.632521353" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="413.694808558" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="412.638015073" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="411.177687664" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="409.589723473" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="409.3742057" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="408.480925874" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="407.017251993" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="406.676640286" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="406.465789268" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="401.043492934" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="400.220083229" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="399.487284619" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="398.465986053" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="397.650737597" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="396.382205746" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="395.068550937" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="393.22470229" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="392.656093852" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="391.648551935" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="390.96534676" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="389.091475937" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="389.041936273" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="387.133570796" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="381.71097839" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="378.427812612" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="374.848564792" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="368.464900016" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="360.673505925" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="348.061880886" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="345.005335349" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="339.663702651" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="335.120412354" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="318.209957736" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="309.276124903" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="298.722725454" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="49.026923076923076" cy="163.888675881" r="3"/>
+            <desc class="value">Min: 0.0004625446712
+Lower Whisker: 0.0004625446712
+Q1: 0.0005848327743
+Q2: 0.0006844794679
+Q3: 0.009613194564
+Upper Whisker: 0.02297061768
+Max: 0.3488629537</desc>
+            <desc class="x centered">49.026923076923076</desc>
+            <desc class="y centered">462.809061626</desc>
+            <desc class="x_label">1</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-1 color-1">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M103.656923 468.403411 L134.473846 468.403411" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M88.248462 468.198701 L149.882308 468.198701" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M103.656923 435.564738 L134.473846 435.564738" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M119.065385 468.403411 L119.065385 468.286053" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M119.065385 435.564738 L119.065385 455.001812" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="13.2842405241" width="61.63384615384615" x="88.24846153846153" y="455.001812184"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="433.02513986" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="432.955980914" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="432.345317681" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="430.527114094" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="429.428656655" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="429.311391179" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="428.955366566" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="426.716239094" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="426.54246767" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="425.858145769" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="425.013245708" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="424.420797475" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="423.322400218" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="421.495748839" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="420.819079941" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="420.642523465" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="419.598085099" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="419.0700557" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="418.738262414" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="417.363866607" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="416.756201143" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="416.520571216" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="411.516498019" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="410.100534978" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="410.018410341" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="407.823178414" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="406.449701889" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="406.085430485" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="404.874506086" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="401.197522242" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="395.170311117" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="394.539662533" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="393.914305064" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="392.604727845" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="392.500631472" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="390.583711604" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="389.934177482" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="389.311822823" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="388.496451658" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="386.050170206" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="378.73647548" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="377.874274803" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="374.213708857" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="373.051748301" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="370.118558162" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="370.118558162" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="367.613112217" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="366.845060694" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="361.240010723" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="359.34807175" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="358.619698152" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="357.841574127" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="357.207477877" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="345.656222003" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="340.025369587" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="334.006212684" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="326.840954946" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="326.680873072" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="325.818430918" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="320.529950749" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="308.089421502" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="305.396846644" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="305.199426889" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="288.999769885" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="271.468115259" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="119.0653846153846" cy="243.338144055" r="3"/>
+            <desc class="value">Min: 0.0004625446712
+Lower Whisker: 0.0004625446712
+Q1: 0.0005968166027
+Q2: 0.0006967575877
+Q3: 0.01579553868
+Upper Whisker: 0.03803382063
+Max: 0.2579634865</desc>
+            <desc class="x centered">119.0653846153846</desc>
+            <desc class="y centered">459.090942992</desc>
+            <desc class="x_label">2</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-2 color-2">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M173.695385 468.456409 L204.512308 468.456409" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M158.286923 468.181216 L219.920769 468.181216" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M173.695385 431.803963 L204.512308 431.803963" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M189.103846 468.456409 L189.103846 468.287828" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M189.103846 431.803963 L189.103846 453.671284" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="14.6165442996" width="61.63384615384615" x="158.28692307692307" y="453.671283834"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="431.275729618" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="431.153000337" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="429.073766693" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="426.496250002" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="425.549267421" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="425.307772199" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="425.282906822" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="424.324244256" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="424.042534945" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="423.888324474" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="423.665432692" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="423.003486341" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="422.72435133" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="422.238941608" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="421.361812413" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="420.368102679" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="419.8314968" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="417.161569241" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="416.201285522" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="414.820181426" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="414.519272519" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="414.370393613" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="413.670514633" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="409.642532997" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="409.642532997" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="408.767763883" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="407.752275465" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="407.630683469" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="406.728771263" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="405.073000774" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="404.171456845" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="400.349006226" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="399.572645493" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="399.181105134" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="397.323374049" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="395.659903478" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="395.367596892" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="391.550635696" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="391.004284532" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="390.110319056" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="389.569237822" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="389.073704791" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="388.017400562" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="384.64003058" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="384.102194742" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="383.952770784" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="381.170684277" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="379.811454958" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="372.675831562" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="372.3051227" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="358.142431842" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="352.686095634" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="351.54532354" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="350.827356383" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="345.346042848" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="345.030251076" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="344.15389533" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="340.955686353" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="337.693909174" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="337.06775486" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="335.479519093" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="335.374691711" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="335.157171994" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="328.841115097" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="328.509478585" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="327.373042241" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="325.269122052" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="319.817493925" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="319.227317394" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="316.571683631" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="302.680675167" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="286.581939944" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="286.201912345" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="256.435893984" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="189.10384615384615" cy="180.046303465" r="3"/>
+            <desc class="value">Min: 0.0004019090228
+Lower Whisker: 0.0004019090228
+Q1: 0.0005947853083
+Q2: 0.000716762031
+Q3: 0.01731781845
+Upper Whisker: 0.04233658667
+Max: 0.3303767413</desc>
+            <desc class="x centered">189.10384615384615</desc>
+            <desc class="y centered">458.080139974</desc>
+            <desc class="x_label">3</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-3 color-3">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M243.733846 468.394666 L274.550769 468.394666" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M228.325385 468.173411 L289.959231 468.173411" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M243.733846 423.702916 L274.550769 423.702916" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M259.142308 468.394666 L259.142308 468.279284" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M259.142308 423.702916 L259.142308 450.201017" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="18.0782673807" width="61.63384615384615" x="228.3253846153846" y="450.201016892"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="422.238941608" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="421.03427821" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="420.853819668" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="420.54436779" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="420.18149198" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="418.819080942" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="418.463050635" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="417.86207932" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="416.239119626" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="414.183548746" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="412.835927344" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="412.270564571" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="411.959612447" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="411.832169114" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="410.373952705" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="410.018410341" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="407.045837709" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="405.906127194" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="405.788454268" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="404.590187378" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="404.510365678" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="402.664786113" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="402.161143839" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="401.246508453" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="398.459468604" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="398.095359752" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="395.415923799" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="393.562695308" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="391.004284532" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="390.083575845" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="390.035361209" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="385.412974514" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="384.948550636" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="383.754754491" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="382.454828226" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="381.721461388" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="380.839462164" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="379.786875959" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="378.707179707" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="378.328538008" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="377.313826191" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="367.730481958" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="366.263000529" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="358.666542693" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="355.281924498" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="350.899992006" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="349.937466702" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="349.570369137" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="342.552073871" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="341.495111457" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="317.786018472" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="316.193997948" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="315.475317537" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="311.836129278" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="305.048403827" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="293.311792486" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="280.290380324" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="272.754806601" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="260.371719105" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="247.474258358" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="244.720183284" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="241.304255836" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="227.439023767" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="223.508548672" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="195.533903396" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="168.055378021" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="259.14230769230767" cy="100.662359703" r="3"/>
+            <desc class="value">Min: 0.0004725507486
+Lower Whisker: 0.0004725507486
+Q1: 0.0006045604831
+Q2: 0.0007256913831
+Q3: 0.02128820898
+Upper Whisker: 0.0516051303
+Max: 0.421201241</desc>
+            <desc class="x centered">259.14230769230767</desc>
+            <desc class="y centered">455.750258792</desc>
+            <desc class="x_label">4</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-4 color-4">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M313.772308 468.385533 L344.589231 468.385533" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M298.363846 465.450097 L359.997692 465.450097" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M313.772308 397.717219 L344.589231 397.717219" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M329.180769 468.385533 L329.180769 468.237358" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M329.180769 397.717219 L329.180769 438.845498" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="29.3918600883" width="61.63384615384615" x="298.3638461538461" y="438.845497867"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="387.987589972" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="386.500071501" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="385.785275503" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="385.535365531" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="378.870583437" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="376.017351222" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="372.62602832" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="372.565062934" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="368.509214796" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="368.07150022" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="363.440770074" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="362.979974991" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="361.639533154" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="360.345525313" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="360.238662838" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="358.288138845" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="358.082627435" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="355.197724581" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="353.834862471" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="353.142370271" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="345.901630497" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="345.389537102" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="339.952762225" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="333.258592192" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="327.654158142" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="308.405083427" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="301.007194102" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="296.917969167" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="296.06395985" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="296.056007597" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="280.343847523" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="274.91380729" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="271.4781677" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="263.195370835" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="237.652703692" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="236.919306522" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="232.775044112" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="211.231282264" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="210.406316647" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="200.85862326" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="181.862662666" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="106.718231176" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="59.600728061" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="329.1807692307692" cy="9.19230769231" r="3"/>
+            <desc class="value">Min: 0.0004829993146
+Lower Whisker: 0.0004829993146
+Q1: 0.0006525290853
+Q2: 0.003841480729
+Q3: 0.03428024849
+Upper Whisker: 0.08133580066
+Max: 0.5258536595</desc>
+            <desc class="x centered">329.1807692307692</desc>
+            <desc class="y centered">447.727141146</desc>
+            <desc class="x_label">5</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-5 color-5">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M383.810769 468.417857 L414.627692 468.417857" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M368.402308 463.035581 L430.036154 463.035581" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M383.810769 332.632313 L414.627692 332.632313" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M399.219231 468.417857 L399.219231 468.350123" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M399.219231 332.632313 L399.219231 413.383698" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="54.9664246511" width="61.63384615384615" x="368.40230769230766" y="413.383697918"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="330.538651951" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="329.921349599" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="329.429026265" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="329.052124048" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="328.767251951" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="328.612567654" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="327.80617591" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="326.358242618" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="326.251630754" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="324.172571975" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="323.050270497" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="320.876352136" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="319.243602893" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="318.883818756" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="317.590669215" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="317.049364822" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="316.716104625" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="315.474165579" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="313.959630618" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="311.920206996" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="310.5269354" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="309.402973034" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="309.402973034" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="306.630947998" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="305.352227032" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="304.866923789" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="302.832447141" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="299.007823561" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="296.718636761" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="296.496118479" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="296.425975582" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="295.411658726" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="294.94677774" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="292.504044838" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="292.115581108" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="288.840808131" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="288.838996776" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="281.687195114" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="280.663125488" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="277.870775235" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="267.908987618" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="266.948414646" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="266.200224509" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="264.375078665" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="262.869977044" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="261.237676041" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="257.094786387" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="252.761451906" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="252.209634178" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="251.599173779" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="247.862906425" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="247.330078387" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="245.678981639" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="240.975413961" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="226.281771112" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="224.011111521" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="220.324460074" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="215.269014025" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="214.143320928" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="212.782264338" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="209.897933129" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="209.533194759" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="208.164053331" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="193.28037143" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="192.605936649" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="191.634503583" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="177.70162225" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="399.21923076923076" cy="174.181933735" r="3"/>
+            <desc class="value">Min: 0.0004460172496
+Lower Whisker: 0.0004460172496
+Q1: 0.0005235132019
+Q2: 0.006603968726
+Q3: 0.06341152026
+Upper Whisker: 0.1558005328
+Max: 0.337086265</desc>
+            <desc class="x centered">399.21923076923076</desc>
+            <desc class="y centered">429.163914259</desc>
+            <desc class="x_label">1</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-6 color-6">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M453.849231 468.437688 L484.666154 468.437688" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M438.440769 457.876691 L500.074615 457.876691" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M453.849231 244.374025 L484.666154 244.374025" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M469.257692 468.437688 L469.257692 468.333428" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M469.257692 244.374025 L469.257692 378.747408" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="89.5860195137" width="61.63384615384615" x="438.44076923076915" y="378.747408329"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="242.493362509" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="241.912399726" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="235.16051008" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="235.1345527" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="229.396527551" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="223.90686144" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="216.472966543" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="215.434460639" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="207.993292775" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="204.135682315" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="193.525385079" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="191.577199909" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="176.147914533" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="176.10503754" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="156.211043978" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="141.713975694" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="66.9856919726" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="469.2576923076922" cy="17.2496052136" r="3"/>
+            <desc class="value">Min: 0.0004233280226
+Lower Whisker: 0.0004233280226
+Q1: 0.0005426139181
+Q2: 0.0125063422
+Q3: 0.1030394793
+Upper Whisker: 0.2567783182
+Max: 0.5166351704</desc>
+            <desc class="x centered">469.2576923076922</desc>
+            <desc class="y centered">403.553847882</desc>
+            <desc class="x_label">2</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-7 color-7">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M523.887692 468.415857 L554.704615 468.415857" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M508.479231 460.469996 L570.113077 460.469996" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M523.887692 240.891157 L554.704615 240.891157" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M539.296154 468.415857 L539.296154 468.335992" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M539.296154 240.891157 L539.296154 376.717428" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="91.618563573" width="61.63384615384615" x="508.4792307692307" y="376.71742823"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="230.318955695" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="225.188536654" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="224.006232965" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="223.82897696" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="223.03852803" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="221.76992424" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="216.130902581" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="212.906219598" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="212.804332556" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="212.70112934" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="211.910215593" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="209.50789006" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="208.352432188" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="203.570672661" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="203.006630221" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="200.498162663" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="200.268179403" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="193.28037143" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="192.595079733" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="189.805769986" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="185.495263125" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="180.830206675" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="179.482161471" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="179.197955163" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="177.731769847" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="172.730794527" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="172.690101952" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="170.146107445" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="169.244191093" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="157.308879022" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="157.308879022" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="152.916314373" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="151.264829371" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="148.471891139" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="144.260538364" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="143.806124948" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="142.058531944" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="139.697801107" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="131.897187215" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="127.909950691" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="539.2961538461537" cy="81.3215654499" r="3"/>
+            <desc class="value">Min: 0.0004483056266
+Lower Whisker: 0.0004483056266
+Q1: 0.0005396804482
+Q2: 0.009539297759
+Q3: 0.1053620135
+Upper Whisker: 0.2607631258
+Max: 0.4433293676</desc>
+            <desc class="x centered">539.2961538461537</desc>
+            <desc class="y centered">402.966085913</desc>
+            <desc class="x_label">3</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-8 color-8">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M593.926154 468.419837 L624.743077 468.419837" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M578.517692 452.925446 L640.151538 452.925446" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M593.926154 206.516718 L624.743077 206.516718" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M609.334615 468.419837 L609.334615 468.328594" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M609.334615 206.516718 L609.334615 363.541294" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="104.787299903" width="61.63384615384615" x="578.5176923076923" y="363.541294091"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="201.858059671" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="201.71350595" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="198.57097823" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="191.459512567" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="187.637151119" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="183.096139098" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="180.972195251" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="175.176201608" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="173.285899939" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="173.127714757" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="171.585276459" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="171.066409744" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="162.653205716" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="158.545027554" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="157.421395177" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="140.372627492" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="127.057598298" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="117.4375612" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="98.9578929472" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="609.3346153846154" cy="52.8977367557" r="3"/>
+            <desc class="value">Min: 0.0004437521161
+Lower Whisker: 0.0004437521161
+Q1: 0.0005481444044
+Q2: 0.01817114413
+Q3: 0.1204370493
+Upper Whisker: 0.3000914972
+Max: 0.4758495461</desc>
+            <desc class="x centered">609.3346153846154</desc>
+            <desc class="y centered">391.946377655</desc>
+            <desc class="x_label">4</desc>
+          </g>
+        </g>
+      </g>
+      <g class="series serie-9 color-9">
+        <g class="boxes">
+          <g class="box">
+            <path class="reactive tooltip-trigger" d="M663.964615 468.421796 L694.781538 468.421796" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M648.556154 461.408100 L710.190000 461.408100" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M663.964615 230.750925 L694.781538 230.750925" stroke-width="3"/>
+            <path class="reactive tooltip-trigger" d="M679.373077 468.421796 L679.373077 468.305764" stroke-width="2"/>
+            <path class="reactive tooltip-trigger" d="M679.373077 230.750925 L679.373077 372.835447" stroke-width="2"/>
+            <rect class="subtle-fill reactive tooltip-trigger" height="95.4703170824" width="61.63384615384615" x="648.5561538461538" y="372.835447181"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="225.021196616" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="224.792174891" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="224.534097228" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="221.567574377" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="219.629014763" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="219.547641744" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="218.46162355" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="217.793784636" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="215.512648627" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="214.307911988" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="193.896397997" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="189.226533867" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="187.911495628" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="186.029594181" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="183.818598622" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="183.490913631" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="181.815486418" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="164.260816694" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="161.555886652" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="159.219932892" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="158.62395908" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="136.553949374" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="134.144259091" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="110.49739156" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="102.454107881" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="97.8963393508" r="3"/>
+            <circle class="subtle-fill reactive tooltip-trigger" cx="679.373076923077" cy="17.7358695533" r="3"/>
+            <desc class="value">Min: 0.0004415098735
+Lower Whisker: 0.0004415098735
+Q1: 0.0005742642815
+Q2: 0.00846599764
+Q3: 0.1098034531
+Upper Whisker: 0.2723647345
+Max: 0.5160788272</desc>
+            <desc class="x centered">679.373076923077</desc>
+            <desc class="y centered">400.344406584</desc>
+            <desc class="x_label">5</desc>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="titles">
+      <text class="title plot_title" x="400.0" y="30">coeur-ciel-malheureux (33)</text>
+      <text class="title" x="415.79999999999995" y="580">Comédies _________________ Tragédies</text>
+    </g>
+    <g class="plot overlay" transform="translate(51, 50)">
+      <g class="series serie-0 color-0"/>
+      <g class="series serie-1 color-1"/>
+      <g class="series serie-2 color-2"/>
+      <g class="series serie-3 color-3"/>
+      <g class="series serie-4 color-4"/>
+      <g class="series serie-5 color-5"/>
+      <g class="series serie-6 color-6"/>
+      <g class="series serie-7 color-7"/>
+      <g class="series serie-8 color-8"/>
+      <g class="series serie-9 color-9"/>
+    </g>
+    <g class="plot text-overlay" transform="translate(51, 50)">
+      <g class="series serie-0 color-0"/>
+      <g class="series serie-1 color-1"/>
+      <g class="series serie-2 color-2"/>
+      <g class="series serie-3 color-3"/>
+      <g class="series serie-4 color-4"/>
+      <g class="series serie-5 color-5"/>
+      <g class="series serie-6 color-6"/>
+      <g class="series serie-7 color-7"/>
+      <g class="series serie-8 color-8"/>
+      <g class="series serie-9 color-9"/>
+    </g>
+    <g class="plot tooltip-overlay" transform="translate(51, 50)">
+      <g class="tooltip" style="opacity: 0" transform="translate(0 0)">
+        <rect class="tooltip-box" height="0" rx="0" ry="0" width="0"/>
+        <g class="text"/>
+      </g>
+    </g>
+  </g>
+</svg>
