@@ -6,7 +6,7 @@ This is accompanying material for the proposal "Genre on time: determining time-
 
 ## Python scripts:
 
-### links
+### Links
 The following python modules available in the CLiGS toolbox have been used for data description, annotation, analysis and visualization:
 
 For data description:
@@ -19,11 +19,11 @@ For data annotation:
 * https://github.com/cligs/toolbox/blob/master/annotate/use_heideltime.py
 
 For data analysis and visualization:
-* https://github.com/cligs/toolbox/blob/master/analyse/genre-on-time.py
+* https://github.com/cligs/toolbox/blob/master/analyse/genre_on_time.py
 
 Copies of these files are included here to reflect the state of the scripts at submission time.
 
-### files
+### Files
 * scripts/get_metadata.py
 * scripts/visualize_metadata.py
 * scripts/workflow_teihdt.py
