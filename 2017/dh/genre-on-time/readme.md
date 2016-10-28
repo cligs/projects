@@ -33,9 +33,9 @@ Copies of these files are included here to reflect the state of the scripts at s
 ## Research data results:
 * data/corpus-description.csv
 * data/corpus-metadata.csv
-* data/tpx-feature-doc.csv
-* data/tpx-corpus-counts.csv
-* data/tpx-test-statistics.csv
+* data/tpx-feature-doc.csv: documentation of temporal expression features
+* data/tpx-corpus-counts.csv: feature counts
+* [data/tpx-test-statistics.csv](data/tpx-test-statistics.csv): feature evaluation
 
 ## Visualizations:
 * visuals/corpus-description: contains charts for corpus summarization
