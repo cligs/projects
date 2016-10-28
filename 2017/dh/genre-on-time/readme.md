@@ -32,6 +32,8 @@ Copies of these files are included here to reflect the state of the scripts at s
 
 ## Research data results:
 * data/corpus-description.csv
+* data/corpus-metadata.csv
+* data/tpx-feature-doc.csv
 * data/tpx-corpus-counts.csv
 * data/tpx-test-statistics.csv
 
