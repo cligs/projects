@@ -1,57 +1,57 @@
 Feature / Field name,Example,Description,Type of count
-idno,nh0001,text id in CLiGS project,na
+idno,"""nh0001""",text id in CLiGS project,na
 tpx_all_abs,all kinds of tpx,total number of temporal expressions in the text,absolute number
-tpx_date_abs,"""this year‘s summer""",number of DATE expressions; DATES describe a calendar time,absolute number
-tpx_time_abs,,number of TIME expressions,absolute number
-tpx_duration_abs,,number of DURATION expressions,absolute number
-tpx_set_abs,,number of SET expressions,absolute number
+tpx_date_abs,"""this year‘s summer""",number of DATE expressions,absolute number
+tpx_time_abs,"""3 p.m.""",number of TIME expressions,absolute number
+tpx_duration_abs,"""eight years""",number of DURATION expressions,absolute number
+tpx_set_abs,"""every two months""",number of SET expressions,absolute number
 tpx_date_none_abs,"""last year""",number of DATE expressions where no value is specified,absolute number
 tpx_date_year_abs,"""1877""",number of DATE expressions with at least the YEAR specified,absolute number
 tpx_date_year_month_abs,"""March 1877""",number of DATE expressions with at least YEAR and MONTH specified,absolute number
 tpx_date_month_abs,"""March""",number of DATE expressions with at least MONTH specified,absolute number
 tpx_date_day_abs,"""on the 2nd""",number of DATE expressions with at least DAY specified,absolute number
 tpx_date_month_day_abs,"""on the 2nd of March""",number of DATE expressions with at least MONTH and DAY specified,absolute number
-tpx_date_any_abs,"""on the 2nd of March 1877""","number of DATE expressions where at least one value is specified (YEAR, MONTH, DAY)",absolute number
-tpx_date_full_abs,,"number of fully specified DATE expressions (YEAR, MONTH, DAY)",absolute number
+tpx_date_any_abs,"""on the 2nd"", ""March"", ""1877""","number of DATE expressions where at least one value is specified (YEAR, MONTH, DAY)",absolute number
+tpx_date_full_abs,"""on the 2nd of March 1877""","number of fully specified DATE expressions (YEAR, MONTH, DAY)",absolute number
 tpx_date_past_ref_abs,"""yesterday""",number of DATE expressions which are references to the past,absolute number
 tpx_date_present_ref_abs,"""today""",number of DATE expressions which are references to the present,absolute number
 tpx_date_future_ref_abs,"""tomorrow""",number of DATE expressions which are references to the future,absolute number
-tpx_date_any_chapter_first_abs,,"number of DATE expressions in the first chapter of the novel, where at least one value is specified (YEAR, MONTH, DAY)",absolute number
-tpx_date_any_chapter_other_mean_abs,,"mean of DATE expressions in the remaining chapters of the novel, where at least one value is specified (YEAR, MONTH, DAY)",absolute number
-tpx_all_rel,,total number of temporal expressions in the text,relative to the number of words in the text
-tpx_date_rel,,number of DATE expressions,relative to the number of words in the text
-tpx_time_rel,,number of TIME expressions,relative to the number of words in the text
-tpx_duration_rel,,number of DURATION expressions,relative to the number of words in the text
-tpx_set_rel,,number of SET expressions,relative to the number of words in the text
-tpx_date_none_rel,,number of DATE expressions where no value is specified,relative to the number of words in the text
-tpx_date_year_rel,,number of DATE expressions with at least the YEAR specified,relative to the number of words in the text
-tpx_date_year_month_rel,,number of DATE expressions with at least YEAR and MONTH specified,relative to the number of words in the text
-tpx_date_month_rel,,number of DATE expressions with at least MONTH specified,relative to the number of words in the text
-tpx_date_day_rel,,number of DATE expressions with at least DAY specified,relative to the number of words in the text
-tpx_date_month_day_rel,,number of DATE expressions with at least MONTH and DAY specified,relative to the number of words in the text
-tpx_date_any_rel,,"number of DATE expressions where at least one value is specified (YEAR, MONTH, DAY)",relative to the number of words in the text
-tpx_date_full_rel,,"number of fully specified DATE expressions (YEAR, MONTH, DAY)",relative to the number of words in the text
-tpx_date_past_ref_rel,,"number of DATE expressions which are references to the past (e.g. ""yesterday"")",relative to the number of words in the text
-tpx_date_present_ref_rel,,"number of DATE expressions which are references to the present (e.g. ""today"")",relative to the number of words in the text
-tpx_date_future_ref_rel,,"number of DATE expressions which are references to the future (e.g. ""tomorrow"")",relative to the number of words in the text
-tpx_date_any_chapter_first_rel,,"number of DATE expressions in the first chapter of the novel, where at least one value is specified (YEAR, MONTH, DAY)",relative to the number of words in the text
-tpx_date_any_chapter_other_mean_rel,,"mean of DATE expressions in the remaining chapters of the novel, where at least one value is specified (YEAR, MONTH, DAY)",relative to the number of words in the text
-tpx_date_prop,,number of DATE expressions,in proportion to the total number of temporal expressions in the text
-tpx_time_prop,,number of TIME expressions,in proportion to the total number of temporal expressions in the text
-tpx_duration_prop,,number of DURATION expressions,in proportion to the total number of temporal expressions in the text
-tpx_set_prop,,number of SET expressions,in proportion to the total number of temporal expressions in the text
-tpx_date_none_prop,,number of DATE expressions where no value is specified,in proportion to the total number of temporal expressions in the text
-tpx_date_year_prop,,number of DATE expressions with at least the YEAR specified,in proportion to the total number of temporal expressions in the text
-tpx_date_year_month_prop,,number of DATE expressions with at least YEAR and MONTH specified,in proportion to the total number of temporal expressions in the text
-tpx_date_month_prop,,number of DATE expressions with at least MONTH specified,in proportion to the total number of temporal expressions in the text
-tpx_date_day_prop,,number of DATE expressions with at least DAY specified,in proportion to the total number of temporal expressions in the text
-tpx_date_month_day_prop,,number of DATE expressions with at least MONTH and DAY specified,in proportion to the total number of temporal expressions in the text
-tpx_date_any_prop,,"number of DATE expressions where at least one value is specified (YEAR, MONTH, DAY)",in proportion to the total number of temporal expressions in the text
-tpx_date_full_prop,,"number of fully specified DATE expressions (YEAR, MONTH, DAY)",in proportion to the total number of temporal expressions in the text
-tpx_date_past_ref_prop,,"number of DATE expressions which are references to the past (e.g. ""yesterday"")",in proportion to the total number of temporal expressions in the text
-tpx_date_present_ref_prop,,"number of DATE expressions which are references to the present (e.g. ""today"")",in proportion to the total number of temporal expressions in the text
-tpx_date_future_ref_prop,,"number of DATE expressions which are references to the future (e.g. ""tomorrow"")",in proportion to the total number of temporal expressions in the text
-tpx_date_any_chapter_first_prop,,"number of DATE expressions in the first chapter of the novel, where at least one value is specified (YEAR, MONTH, DAY)",in proportion to the total number of temporal expressions in the text
-tpx_date_any_chapter_other_mean_prop,,"mean of DATE expressions in the remaining chapters of the novel, where at least one value is specified (YEAR, MONTH, DAY)",in proportion to the total number of temporal expressions in the text
-temp_dist,,temporal distance between publication year and the median of the years mentioned in the text,in years
-num_words,,Number of words in the text,absolute number
+tpx_date_any_chapter_first_abs,"""on the 2nd"", ""March"", ""1877""","number of DATE expressions in the first chapter of the novel, where at least one value is specified (YEAR, MONTH, DAY)",absolute number
+tpx_date_any_chapter_other_mean_abs,"""on the 2nd"", ""March"", ""1877""","mean of DATE expressions in the remaining chapters of the novel, where at least one value is specified (YEAR, MONTH, DAY)",absolute number
+tpx_all_rel,all kinds of tpx,total number of temporal expressions in the text,relative to the number of words in the text
+tpx_date_rel,"""this year‘s summer""",number of DATE expressions,relative to the number of words in the text
+tpx_time_rel,"""3 p.m.""",number of TIME expressions,relative to the number of words in the text
+tpx_duration_rel,"""eight years""",number of DURATION expressions,relative to the number of words in the text
+tpx_set_rel,"""every two months""",number of SET expressions,relative to the number of words in the text
+tpx_date_none_rel,"""last year""",number of DATE expressions where no value is specified,relative to the number of words in the text
+tpx_date_year_rel,"""1877""",number of DATE expressions with at least the YEAR specified,relative to the number of words in the text
+tpx_date_year_month_rel,"""March 1877""",number of DATE expressions with at least YEAR and MONTH specified,relative to the number of words in the text
+tpx_date_month_rel,"""March""",number of DATE expressions with at least MONTH specified,relative to the number of words in the text
+tpx_date_day_rel,"""on the 2nd""",number of DATE expressions with at least DAY specified,relative to the number of words in the text
+tpx_date_month_day_rel,"""on the 2nd of March""",number of DATE expressions with at least MONTH and DAY specified,relative to the number of words in the text
+tpx_date_any_rel,"""on the 2nd"", ""March"", ""1877""","number of DATE expressions where at least one value is specified (YEAR, MONTH, DAY)",relative to the number of words in the text
+tpx_date_full_rel,"""on the 2nd of March 1877""","number of fully specified DATE expressions (YEAR, MONTH, DAY)",relative to the number of words in the text
+tpx_date_past_ref_rel,"""yesterday""","number of DATE expressions which are references to the past (e.g. ""yesterday"")",relative to the number of words in the text
+tpx_date_present_ref_rel,"""today""","number of DATE expressions which are references to the present (e.g. ""today"")",relative to the number of words in the text
+tpx_date_future_ref_rel,"""tomorrow""","number of DATE expressions which are references to the future (e.g. ""tomorrow"")",relative to the number of words in the text
+tpx_date_any_chapter_first_rel,"""on the 2nd"", ""March"", ""1877""","number of DATE expressions in the first chapter of the novel, where at least one value is specified (YEAR, MONTH, DAY)",relative to the number of words in the text
+tpx_date_any_chapter_other_mean_rel,"""on the 2nd"", ""March"", ""1877""","mean of DATE expressions in the remaining chapters of the novel, where at least one value is specified (YEAR, MONTH, DAY)",relative to the number of words in the text
+tpx_date_prop,"""this year‘s summer""",number of DATE expressions,in proportion to the total number of temporal expressions in the text
+tpx_time_prop,"""3 p.m.""",number of TIME expressions,in proportion to the total number of temporal expressions in the text
+tpx_duration_prop,"""eight years""",number of DURATION expressions,in proportion to the total number of temporal expressions in the text
+tpx_set_prop,"""every two months""",number of SET expressions,in proportion to the total number of temporal expressions in the text
+tpx_date_none_prop,"""last year""",number of DATE expressions where no value is specified,in proportion to the total number of temporal expressions in the text
+tpx_date_year_prop,"""1877""",number of DATE expressions with at least the YEAR specified,in proportion to the total number of temporal expressions in the text
+tpx_date_year_month_prop,"""March 1877""",number of DATE expressions with at least YEAR and MONTH specified,in proportion to the total number of temporal expressions in the text
+tpx_date_month_prop,"""March""",number of DATE expressions with at least MONTH specified,in proportion to the total number of temporal expressions in the text
+tpx_date_day_prop,"""on the 2nd""",number of DATE expressions with at least DAY specified,in proportion to the total number of temporal expressions in the text
+tpx_date_month_day_prop,"""on the 2nd of March""",number of DATE expressions with at least MONTH and DAY specified,in proportion to the total number of temporal expressions in the text
+tpx_date_any_prop,"""on the 2nd"", ""March"", ""1877""","number of DATE expressions where at least one value is specified (YEAR, MONTH, DAY)",in proportion to the total number of temporal expressions in the text
+tpx_date_full_prop,"""on the 2nd of March 1877""","number of fully specified DATE expressions (YEAR, MONTH, DAY)",in proportion to the total number of temporal expressions in the text
+tpx_date_past_ref_prop,"""yesterday""","number of DATE expressions which are references to the past (e.g. ""yesterday"")",in proportion to the total number of temporal expressions in the text
+tpx_date_present_ref_prop,"""today""","number of DATE expressions which are references to the present (e.g. ""today"")",in proportion to the total number of temporal expressions in the text
+tpx_date_future_ref_prop,"""tomorrow""","number of DATE expressions which are references to the future (e.g. ""tomorrow"")",in proportion to the total number of temporal expressions in the text
+tpx_date_any_chapter_first_prop,"""on the 2nd"", ""March"", ""1877""","number of DATE expressions in the first chapter of the novel, where at least one value is specified (YEAR, MONTH, DAY)",in proportion to the total number of temporal expressions in the text
+tpx_date_any_chapter_other_mean_prop,"""on the 2nd"", ""March"", ""1877""","mean of DATE expressions in the remaining chapters of the novel, where at least one value is specified (YEAR, MONTH, DAY)",in proportion to the total number of temporal expressions in the text
+temp_dist,-240,temporal distance between publication year and the median of the years mentioned in the text,in years
+num_words,all words,Number of words in the text,absolute number

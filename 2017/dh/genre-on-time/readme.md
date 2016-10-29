@@ -24,19 +24,19 @@ For data analysis and visualization:
 Copies of these files are included here to reflect the state of the scripts at submission time.
 
 ### Files
-* scripts/get_metadata.py
-* scripts/visualize_metadata.py
-* scripts/workflow_teihdt.py
-* scripts/prepare_tei.py
-* scripts/use_heideltime.py
+* [scripts/get_metadata.py](scripts/get_metadata.py)
+* [scripts/visualize_metadata.py](scripts/visualize_metadata.py)
+* [scripts/workflow_teihdt.py](scripts/workflow_teihdt.py)
+* [scripts/prepare_tei.py](scripts/prepare_tei.py)
+* [scripts/use_heideltime.py](scripts/use_heideltime.py)
 
 ## Research data results:
-* data/corpus-description.csv
-* data/corpus-metadata.csv
-* data/tpx-feature-doc.csv: documentation of temporal expression features
-* data/tpx-corpus-counts.csv: feature counts
+* [data/corpus-description.csv](data/corpus-description.csv)
+* [data/corpus-metadata.csv](data/corpus-metadata.csv)
+* [data/tpx-feature-doc.csv](data/tpx-feature-doc.csv): documentation of temporal expression features
+* [data/tpx-corpus-counts.csv](data/tpx-corpus-counts.csv): feature counts
 * [data/tpx-test-statistics.csv](data/tpx-test-statistics.csv): feature evaluation
 
 ## Visualizations:
-* visuals/corpus-description: contains charts for corpus summarization
-* visuals/tpx: contains charts with temporal feature analysis results
+* [visuals/corpus-description](visuals/corpus-description): contains charts for corpus summarization
+* [visuals/tpx](visuals/corpus-description): contains charts with temporal feature analysis results
