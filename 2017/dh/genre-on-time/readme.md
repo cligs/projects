@@ -34,6 +34,7 @@ Copies of these files are included here to reflect the state of the scripts at s
 * [data/corpus-description.csv](data/corpus-description.csv)
 * [data/corpus-metadata.csv](data/corpus-metadata.csv)
 * [data/tpx-feature-doc.csv](data/tpx-feature-doc.csv): documentation of temporal expression features
+* [data/tpx-feature-expectations.csv](data/tpx-feature-expectations.csv): expectations about the significance of tpx features
 * [data/tpx-corpus-counts.csv](data/tpx-corpus-counts.csv): feature counts
 * [data/tpx-test-statistics.csv](data/tpx-test-statistics.csv): feature evaluation
 
