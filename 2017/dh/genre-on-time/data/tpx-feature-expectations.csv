@@ -1,0 +1,58 @@
+Feature_name,Expectation,Comment
+temp_dist,significant,
+tpx_all_abs,not significant,too general
+tpx_all_rel,not significant,too general
+tpx_date_abs,not significant,too general
+tpx_date_any_abs,not significant,too general
+tpx_date_any_chapter_first_abs,undecided,different assumptions plausible
+tpx_date_any_chapter_first_prop,undecided,different assumptions plausible
+tpx_date_any_chapter_first_rel,undecided,different assumptions plausible
+tpx_date_any_chapter_other_abs,undecided,different assumptions plausible
+tpx_date_any_chapter_other_mean_abs,undecided,different assumptions plausible
+tpx_date_any_chapter_other_mean_prop,undecided,different assumptions plausible
+tpx_date_any_chapter_other_mean_rel,undecided,different assumptions plausible
+tpx_date_any_chapter_other_prop,undecided,different assumptions plausible
+tpx_date_any_chapter_other_rel,undecided,different assumptions plausible
+tpx_date_any_prop,not significant,too general
+tpx_date_any_rel,not significant,too general
+tpx_date_day_abs,significant,
+tpx_date_day_prop,significant,
+tpx_date_day_rel,significant,
+tpx_date_full_abs,significant,
+tpx_date_full_prop,significant,
+tpx_date_full_rel,significant,
+tpx_date_future_ref_abs,not significant,
+tpx_date_future_ref_prop,not significant,
+tpx_date_future_ref_rel,not significant,
+tpx_date_month_abs,significant,
+tpx_date_month_day_abs,significant,
+tpx_date_month_day_prop,significant,
+tpx_date_month_day_rel,significant,
+tpx_date_month_prop,significant,
+tpx_date_month_rel,significant,
+tpx_date_none_abs,not significant,
+tpx_date_none_prop,not significant,
+tpx_date_none_rel,not significant,
+tpx_date_past_ref_abs,significant,
+tpx_date_past_ref_prop,significant,
+tpx_date_past_ref_rel,significant,
+tpx_date_present_ref_abs,not significant,
+tpx_date_present_ref_prop,not significant,
+tpx_date_present_ref_rel,not significant,
+tpx_date_prop,not significant,too general
+tpx_date_rel,not significant,too general
+tpx_date_year_abs,significant,
+tpx_date_year_month_abs,significant,
+tpx_date_year_month_prop,significant,
+tpx_date_year_month_rel,significant,
+tpx_date_year_prop,significant,
+tpx_date_year_rel,significant,
+tpx_duration_abs,not significant,assumed not to be relevant for historical novels
+tpx_duration_prop,not significant,assumed not to be relevant for historical novels
+tpx_duration_rel,not significant,assumed not to be relevant for historical novels
+tpx_set_abs,not significant,assumed not to be relevant for historical novels
+tpx_set_prop,not significant,assumed not to be relevant for historical novels
+tpx_set_rel,not significant,assumed not to be relevant for historical novels
+tpx_time_abs,not significant,assumed not to be relevant for historical novels
+tpx_time_prop,not significant,assumed not to be relevant for historical novels
+tpx_time_rel,not significant,assumed not to be relevant for historical novels
