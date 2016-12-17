@@ -1,0 +1,4 @@
+	groupone	grouptwo	correlation	p-value
+2	tragedie	tragicomedie	0.8032241526704285	2.239130701729235e-12
+0	comedie	tragedie	-0.73821343220905	9.486435943415321e-10
+1	comedie	tragicomedie	-0.29577436502275123	0.037028088010859876
