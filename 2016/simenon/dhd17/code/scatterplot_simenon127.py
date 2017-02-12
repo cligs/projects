@@ -88,15 +88,15 @@ def create_scatterplot(maigret_data, romans_data, autobio_data, plot_file):
     maigret_points = []
     romans_points = []
     autobio_points = []
-    for i in range(0,len(maigret_data)-1):
+    for i in range(0,len(maigret_data)):
         point = {"value" : (maigret_data["pub-year"][i], maigret_data["mean"][i]),
                   "label" : maigret_data["title"][i]}
         maigret_points.append(point)
-    for i in range(0,len(romans_data)-1):
+    for i in range(0,len(romans_data)):
         point = {"value" : (romans_data["pub-year"][i], romans_data["mean"][i]),
                   "label" : romans_data["title"][i]}
         romans_points.append(point)
-    for i in range(0,len(autobio_data)-1):
+    for i in range(0,len(autobio_data)):
         point = {"value" : (autobio_data["pub-year"][i], autobio_data["mean"][i]),
                   "label" : autobio_data["title"][i]}
         autobio_points.append(point)
