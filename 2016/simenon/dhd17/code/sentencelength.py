@@ -1,79 +1,113 @@
 #!/usr/bin/env python3
 # Filename: sentencelength.py
+# Author: #cf
+# New version: 2017-02-12
+
 
 """
-# Function calculate sentence length statistics for a text collection.
+Function to calculate sentence length statistics for a text collection.
 """
 
-
-# Import statements
 
 import re
 import glob
 import os
 import pandas as pd
 import numpy as np
+import statistics as st
+import nltk
 
 
+# ==============================
 # Parameter definitions
+# ==============================
 
-InPath = "./txt/*.txt"
-ResultFile = "AllResults.csv"
+inpath = "./txt/*.txt"
+results_file = "results.csv"
 
+
+# ==============================
 # Functions
+# ==============================
 
-def read_file(File):
-    with open(File,"r") as InFile:
-        Text = InFile.read()
-        TextName, Ext = os.path.splitext(os.path.basename(File))
-        print("Now:", TextName)
-        return Text, TextName
 
-def get_lengths(Text):
-    Paras = re.split("\n", Text)
-    LengthsWords = []
-    for Para in Paras:
-        #print(Para,"\n")
-        if len(Para) > 2: 
-            Sents = re.split("[\.?!]", Para)
-            for Sent in Sents:
-                if len(Sent) > 2:
-                    Sent = re.sub("[\.,!?:;«»]"," ", Sent)
-                    Sent = re.sub("[-]{2,4}"," ", Sent)
-                    Sent = re.sub("[ ]{2,4}"," ", Sent)
-                    Sent = re.sub("\t"," ", Sent)
-                    Sent = Sent.strip()
-                    #print(Sent)
-                    Words = re.split("[\W'-]", Sent)
-                    #print(Words)
-                    LengthWords = len(Words)
-                    LengthsWords.append(LengthWords)
-    #print(LengthsWords)
-    return LengthsWords
+def read_file(file):
+    with open(file,"r") as infile:
+        text = infile.read()
+        textname, ext = os.path.splitext(os.path.basename(file))
+        print("Now:", textname)
+        return text, textname
+
+
+def get_lengths(text):
+    paras = re.split("\n", text)
+    length_in_words_text = []
+    for para in paras:
+        #print(para,"\n")
+        if len(para) > 2:
+            #para = re.sub("\sM\.\s", " M ", para)
+            #sents = re.split("[\.?!]", para)
+            #sents = re.split("(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s", para)
+            sents = nltk.sent_tokenize(para, language='french')
+            for sent in sents:
+                if len(sent) > 2:
+                    sent = re.sub("[\.,!?:;«»]"," ", sent)
+                    sent = re.sub("[-]{2,4}"," ", sent)
+                    sent = re.sub("[ ]{2,4}"," ", sent)
+                    sent = re.sub("peut-être","peut_être", sent)
+                    sent = re.sub("soi-disant","soi_disant", sent)
+                    sent = re.sub("aujourd'hui","aujourd_hui", sent)
+                    sent = re.sub("-t-","-t_", sent)
+                    sent = re.sub("\t"," ", sent)
+                    sent = sent.strip()
+                    #if "-" in sent or "_" in sent:
+                    #    print(sent)
+                    words = re.split("[\W]", sent)
+                    #words = nltk.word_tokenize(sent)
+                    #if "-" in words:
+                    #    print(words)
+                    # print(words)
+                    length_in_words_sent = len(words)
+                    length_in_words_text.append(length_in_words_sent)
+    #print(len(length_in_words_text))
+    return length_in_words_text
+
     
-def get_stats(LengthsWords, TextName): 
-    Words = sum(LengthsWords)
-    Sents = len(LengthsWords)
-    Mean = np.mean(LengthsWords)
-    Median = np.median(LengthsWords)
-    Stdev = np.std(LengthsWords)
-    Stats = [Words, Sents, Mean, Median, Stdev]
-    Stats = pd.Series(Stats, name=TextName)
-    return Stats
+def get_stats(length_in_words_text, textname): 
+    words = sum(length_in_words_text)
+    sents = len(length_in_words_text)
+    mean = np.mean(length_in_words_text)
+    median = np.median(length_in_words_text)
+    try:
+        mode = st.mode(length_in_words_text)
+    except:
+        mode = "N/A"
+    stdev = np.std(length_in_words_text)
+    stats = [words, sents, mean, median, mode, stdev]
+    stats = pd.Series(stats, name=textname)
+    #print(stats)
+    return stats
 
-def save_results(AllStats, ResultFile): 
-    with open(ResultFile, "w") as OutFile: 
-        AllStats.to_csv(OutFile)
 
+def save_results(allstats, results_file):
+    allstats.columns = ["words", "sents", "mean", "median", "mode", "stdev"]
+    print(allstats)
+    with open(results_file, "w") as outfile: 
+        allstats.to_csv(outfile)
+
+
+# ==============================
 # Coordination function
+# ==============================
 
-def sentencelength(InPath):
-    AllStats = pd.DataFrame() # columns=["idno", "words", "sents", "mean", "median", "stdev"]
-    for File in glob.glob(InPath):
-        Text, TextName = read_file(File)
-        LengthsWords = get_lengths(Text)
-        Stats = get_stats(LengthsWords, TextName)
-        AllStats = AllStats.append(Stats)
-    save_results(AllStats, ResultFile)
 
-sentencelength(InPath)
+def sentencelength(inpath, results_file):
+    allstats = pd.DataFrame()
+    for file in glob.glob(inpath):
+        text, textname = read_file(file)
+        length_in_words_text = get_lengths(text)
+        stats = get_stats(length_in_words_text, textname)
+        allstats = allstats.append(stats)
+    save_results(allstats, results_file)
+
+sentencelength(inpath, results_file)
