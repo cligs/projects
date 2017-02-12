@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<querydoc>
+  <metadata>
+    <study>
+      <title>L'effet de sourdine revisité: les motifs définis par Spitzer</title>
+      <investigator>Christof Schöch</investigator>
+      <date when="2017-02-12">Februar 2017</date>
+      <place>Würzburg, Germany</place>
+      <institution>Universität Würzburg</institution>
+      <contact>christof.schoech@uni-wuerzburg.de</contact>
+    </study>
+    <data>
+      <title>Tragedies by Racine and his contemporaries</title>
+      <responsible>Paul Fièvre</responsible>
+      <date>2016</date>
+      <url>http://www.theatre-classique.fr</url>
+      <doi>N/A</doi>
+    </data>
+    <method>
+      <label>CQP queries in TXM</label>
+      <software>TXM</software>
+      <developer>Serge Heiden, Alexej Lavrentiev</developer>
+      <version>0.77</version>
+      <date>2016</date>
+    </method>
+  </metadata>
+  <main>
+    <div xml:id="A">
+      <label>La "désindividualisation" / Entindividualisierung</label>
+      <comments/>
+      <ref target="@spitzer_1988" loc="209"/>
+      <ref target="@spitzer_1928" loc="209"/>
+      <queryGroup xml:id="A1">
+        <label>l'article indéfini</label>
+        <comments>
+          <item>Beispiel (Spitzer): "À de moindres faveurs des malheureux prétendent, / Seigneur ; c'est un exil que mes pleurs vous demandent" (Andromaque)</item>
+        </comments>
+        <query xml:id="A1a">
+          <queryString type="cqp">([word="de"][word="les"]|[word="un.?"])[pos="noun"]</queryString>
+          <results/>
+          <comments>
+            <item>Nicht gut modelliert, weil das natürlich nur in ganz bestimmten Kontexten dem entspricht, was Spitzer hier meint. </item>
+          </comments>
+        </query>
+        <query xml:id="A1x">
+          <queryString type="cqp">[word="de"][word="les"][pos="noun"]</queryString>
+          <results/>
+          <comments>
+            <item>Nicht gut modelliert, weil das natürlich nur in ganz bestimmten Kontexten dem entspricht, was Spitzer hier meint. </item>
+          </comments>
+        </query>
+      </queryGroup>
+      <queryGroup xml:id="A2">
+        <comment>
+          <item>Beispiel (Spitzer): "Je révoque des lois dont j'ai plaint la rigueur"</item>
+          <item>Beispiel (Spitzer): "Modérez des bontés dont l'excès m'embarrasse"</item>
+        </comment>
+        <ref target="@spitzer_1988" loc="212"/>
+        <ref target="@spitzer_1928" loc="142"/>
+        <query xml:id="A2">
+          <queryString type="cqp">[pos="det.*" &amp; form="de"][pos="det.*"][pos="noun.*"][tag="PR.*"]</queryString>
+          <results/>
+          <comments>
+            <item>Recht gut modelliert</item>
+          </comments>
+        </query>
+      </queryGroup>
+      <queryGroup xml:id="A3">
+        <label>"expressions impersonnelles" avec "on" (213) / unpersönliche Ausdrücke mit on</label>
+        <ref target="@spitzer_1988" loc="213"/>
+        <query xml:id="A3a">
+          <query-string type="cqp">[lemma="on"]</query-string>
+          <results/>
+          <comments>
+            <item>Approximation</item>
+            <item>Nicht mehr bei Racine, sondern sogar deutlich weniger. Aber das sind natürlich nur die rohen "on"-counts. </item>
+          </comments>
+        </query>
+      </queryGroup>
+    </div>
+    <div xml:id="B">
+      <label>Affaiblissement de l'expression directe du sentiment (214)</label>
+      <ref target="@spitzer_1988" loc="214"/>
+      <queryGroup xml:id="B1">
+        <label>"le démonstratif de distance" (au lieu du possessif) (214) / "distanzierender Gebrauch des Demonstrativs" (144)</label>
+        <comments>
+          <item>Beispiele (Spitzer): "ce fils", "ce fruit de sa vieillesse", "cette reine"</item>
+        </comments>
+        <ref target="@spitzer_1988" loc="214"/>
+        <ref target="@spitzer_1928" loc="144"/>
+        <query xml:id="B1a">
+          <queryString type="cqp">[pos="det" &amp; lemma="ce"] [pos="noun"]</queryString>
+          <comment>
+            <item>Racine 7.7, Proches 6.5, rrf 1.17 zugunsten Racine (leicht überrepräsentiert); aber mit p-value von 0.07 nicht signifikant.</item>
+          </comment>
+        </query>
+      </queryGroup>
+      <queryGroup>
+        <label>[S05] "les périphrases" locatives / lokative Periphrasen</label>
+        <comment>
+          <item>Beispiel (Spitzer): B2A "(en) ces lieux" / "sur ces bords" (pour "ici")</item>
+          <item>Beispiel (Spitzer): B2B "ce jour" (pour aujourd'hui)</item>
+        </comment>
+        <query>
+          <label>B2A</label>
+          <queryString type="cqp">([word="en"][word="ces"][word="lieux"]|[word="sur"][word="ces"][word="bords"])</queryString>
+        </query>
+        <query>
+          <label>B2B</label>
+          <queryString type="cqp">[word="ce"][word="jour"]</queryString>
+        </query>
+        <query>
+          <queryString type="cqp">[word="ici"]</queryString>
+        </query>
+        <query>
+          <queryString type="cqp">[word="en"][word="ces"][word="lieux"]</queryString>
+        </query>
+        <query>
+          <queryString type="cqp">[word="sur"][word="ces"][word="bords"] </queryString>
+        </query>
+        <query>
+          <queryString type="cqp">[word="ce"][word="jour"]</queryString>
+        </query>
+        <comment>
+          <item>Racine verwendet "en ces lieux" und "sur ces bords" deutlich häufiger als die anderen (rrf 1,36!), das ist aber nicht statistisch signifikant. Auch bei den Proches ist eine breite Verteilung da.</item>
+          <item>Außerdem fällt auf, dass Racine auch "ici" deutlich mehr verwendet, also gerade nicht seltener, wie von Spitzer angedeutet</item>
+          <item>Spitzer schreibt, "ici" sei bei Racine selten; also umgekehrte Erwartung!</item>
+        </comment>
+      </queryGroup>
+    </div>
+  </main>
+  <references>
+    <record key="@spitzer_1988">
+      <bibl>Spitzer, Leo. “L’effet de sourdine dans le style classique : Racine.” In Études de style, 208–335. Paris: Gallimard, 1988.
+      </bibl>
+    </record>
+    <record key="@spitzer_1928">
+      <bibl>Spitzer, Leo ([1928]): „Die klassische Dämpfung in Racines Stil“, in: Romanische Stil- und Literaturstudien I. Marburg: Elwert (1931), 135–268.</bibl>
+    </record>
+  </references>
+</querydoc>
