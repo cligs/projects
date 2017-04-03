@@ -151,12 +151,34 @@ def make_complex(SelectedData, Labels, Topic, Firstwords, GraphFolder):
                         style = cx_style,
                         box_mode = "tukey",
                         title = str(Firstwords.iloc[Topic,0]),
-                        x_title = "Comédies _________________ Tragédies")
+                        x_title = "comedies _________________ tragedies")
     for i in range(0,len(XLabels)): 
         #print(str(Labels[i]))
         Boxplot.add(str(Labels[i]), SelectedData[i])
-    Boxplot.render_to_file(GraphFolder+"boxplot_"+"{:03d}".format(Topic)+".svg")
+    Boxplot.render_to_file(GraphFolder+"boxplot_"+"{:03d}".format(Topic)+"-2017.svg")
 
+
+def check_significance(SelectedData, Labels):
+    indices = list(range(0, len(Labels)))
+    from scipy import stats
+    print("comedies")
+    combinations = [[0,1],[0,2],[0,3],[0,4],[1,2],[1,3],[1,4],[2,3],[2,4],[3,4]]
+    for combination in combinations:
+        x = SelectedData[combination[0]]
+        y = SelectedData[combination[1]] 
+        result = stats.mannwhitneyu(x, y, use_continuity=True, alternative=None)
+        print("   mwu", combination[0]+1, "/", combination[1]+1, "p-value", result[1])
+    print("tragedies")
+    combinations = [[5,6],[5,7],[5,8],[5,9],[6,7],[6,8],[6,9],[7,8],[7,9],[8,9]]
+    for combination in combinations:
+        x = SelectedData[combination[0]]
+        y = SelectedData[combination[1]] 
+        result = stats.mannwhitneyu(x, y, use_continuity=True, alternative=None)
+        print("   mwu", combination[0]-4, "/", combination[1]-4, "p-value", result[1])
+    
+    
+    
+    
 
 
 
@@ -171,9 +193,11 @@ def complex(MastermatrixFile,
     Firstwords = get_firstwords(FirstwordsFile)
     Mastermatrix = get_mastermatrix(MastermatrixFile)
     BinnedData = get_complexbinneddata(Mastermatrix)
-    for Topic in range(0,60): 
+    for Topic in range(39,40):
+        print("topic", Topic)
         SelectedData, Labels = select_complexdata(BinnedData, Topic)
         make_complex(SelectedData, Labels, Topic, Firstwords, GraphFolder)
+        check_significance(SelectedData, Labels)
     print("Done.")
 
 

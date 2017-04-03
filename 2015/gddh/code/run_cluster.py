@@ -14,6 +14,7 @@ import cluster
 ########################
 ### Working Directory
 ########################
+wdir = "/media/christof/data/Dropbox/0-Analysen/2016/gddh-dhq/tc391zz/"
 WorkDir = "/media/christof/data/Dropbox/0-Analysen/2016/gddh-dhq/tc391zz/"
 
 
@@ -22,13 +23,13 @@ WorkDir = "/media/christof/data/Dropbox/0-Analysen/2016/gddh-dhq/tc391zz/"
 ### topic clustering
 ########################
 
-MastermatrixFile = WorkDir + "9_aggregates/060tp-0300in/mastermatrix.csv"
+mastermatrixfile = WorkDir + "9_aggregates/060tp-0300in/mastermatrix.csv"
 MetadataFile = WorkDir + "metadata.csv"
 GraphFolder = WorkDir + "9_visuals/060tp-0300in/topiccluster/"
 Method = "ward" # ward|average
 Metric = "euclidean"  # euclidean|cosine
 DisplayLevels = 20
-#cluster.topiccluster(MastermatrixFile, 
+#cluster.topiccluster(MastermatrixFile,
 #                     MetadataFile,
 #                     Method,
 #                     Metric,
@@ -60,15 +61,19 @@ DisplayLevels = 20
 
 
 
-########################
-### topicpca
-########################
-MastermatrixFile = WorkDir + "9_aggregates/060tp-0300in/mastermatrix.csv"
-MetadataFile = WorkDir + "metadata.csv"
-GraphFolder = WorkDir + "9_visuals/060tp-0300in/topicpca/"
-cluster.topicpca(MastermatrixFile,
-                 MetadataFile,
-                 GraphFolder)
+
+# ======================
+# topicpca
+# ======================
+mastermatrix_file = wdir + "9_aggregates/060tp-0300in/mastermatrix.csv"
+topicwords_file = wdir + "7_model/topics-with-words_060tp-6000it-0300in.csv"
+metadata_file = wdir + "metadata.csv"
+graph_folder = wdir + "9_visuals/060tp-0300in/topicpca/"
+cluster.topicpca(
+    mastermatrix_file,
+    topicwords_file,
+    metadata_file,
+    graph_folder)
 
 
 ########################
