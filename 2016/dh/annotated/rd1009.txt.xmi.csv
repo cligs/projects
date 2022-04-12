@@ -1,0 +1,504 @@
+nondirect	 ¶ V ¶ La nuit est noire.
+nondirect	 Le vent souffle de l'Ouest, chassant de gros nuages chargés de pluie, et balaie la triste plaine de Montrouge, toute crevassée de carrières.
+nondirect	 ¶ Sur l'ancienne route d'Orléans qui la traverse, pas un piéton, pas une charrette.
+nondirect	 ¶ Pas de maisons en bordure.
+nondirect	 Rien que des murs de jardins maraîchers et, de loin en loin, un hangar en bois ou une masure abandonnée.
+nondirect	 ¶ C'est le désert aux portes de Paris.
+nondirect	 ¶ Pourtant, à deux cents pas du chemin, sur la gauche, en tournant le dos aux fortifications, un point lumineux brille dans les ténèbres, presque au ras du sol, comme un ver luisant au pied d'une haie.
+nondirect	 ¶ Et, vers cette faible clarté, à travers un champ caillouteux, s'avancent lentement trois ombres, qu'on pourrait prendre pour des fantômes, quoiqu'elles aient forme humaine.
+nondirect	 ¶ Ces promeneurs nocturnes ne sont certes pas venus là pour leur agrément, à pareille heure et par un temps pareil, un temps à bourrasques de la fin de l'hiver.
+nondirect	 ¶ Ils savent où ils vont et ce qu'ils viennent faire dans ces solitudes.
+nondirect	 ¶ On les attend là-bas, dans une espèce de grange, dont une fenêtre éclairée leur sert de phare.
+nondirect	 ¶ Deux des trois sont grands et minces.
+nondirect	 Le troisième n'est pas petit, mais il est gros et il a quelque peine à tenir sur ce terrain inégal.
+nondirect	 ¶ Il marche au milieu de ses compagnons, qui le flanquent des deux côtés et le soutiennent quand il butte contre une pierre, en jurant comme un païen.
+nondirect	 ¶ Sous le caban qui le couvre et dont il a relevé le capuchon par-dessus son chapeau ciré, on ne devinerait pas que ce hardi camarade est une femme.
+nondirect	 ¶ Mais quelle femme !
+nondirect	 Virginie Crochard, affublée comme un vieux troupier ; la mère Caspienne, armée en guerre, un revolver d'ordonnance en bandoulière et une trique à la main.
+nondirect	 ¶ Son voisin de droite, c'est Cabardos, en petite tenue de brigadier de sergents de ville, le képi en tête et l'épée au côté.
+nondirect	 ¶ Son voisin de gauche, c'est Maxime de Chalandrey qui, pour cette expédition, s'est habillé comme pour une chasse à courre, toque en tête, dague passée dans le ceinturon, culotte de peau et bottes molles, sans éperons, car c'est à pied qu'on va forcer le gibier.
+nondirect	 ¶ Minuit vient de sonner au clocher de Montrouge, et voilà une heure que, sortis de Paris par la porte d'Arcueil, ils cheminent sans s'arrêter.
+nondirect	 ¶ Aussi sont-ils tous les trois d'assez mauvaise humeur.
+directspeech	 ¶ -- Mon vieux Cabardos, êtes-vous bien sûr de ne pas nous avoir égarés ?
+nondirect	 demanda tout à coup Chalandrey.
+directspeech	 ¶ -- Absolument sûr, mon lieutenant
+nondirect	, répondit le brigadier, qui avait la manie de donner des grades à tous ceux qu'il considérait comme des supérieurs.
+nondirect	 ¶ Le neveu d'un chef d'escadron devait être au moins lieutenant, et Cabardos le classait comme tel dans la hiérarchie qu'il inventait.
+directspeech	 ¶ -- La Grange Rouge est devant nous et la lumière que vous voyez est le signal convenu avec le patron. Ce n'est pas la première fois que j'y viens, à la Grange Rouge... j'y ai arrêté des rôdeurs dans le temps... et je vous y mènerais les yeux fermés.
+directspeech	 Ce n'est pas la première fois que j'y viens, à la Grange Rouge... j'y ai arrêté des rôdeurs dans le temps... et je vous y mènerais les yeux fermés.
+directspeech	 ¶ -- Du diable si je devine pourquoi ton Pigache nous y a donnés rendez-vous !
+nondirect	 grommela Maxime.
+directspeech	 ¶ -- Moi, je m'en doute. Mais je ne discute pas la consigne. On va en finir cette nuit, comme je vous le disais tantôt, quand je suis venu vous chercher pour vous ramener rue de Naples. Le patron compte sur une rafle... c'est vous qui avez demandé à en être.
+directspeech	 Mais je ne discute pas la consigne. On va en finir cette nuit, comme je vous le disais tantôt, quand je suis venu vous chercher pour vous ramener rue de Naples. Le patron compte sur une rafle... c'est vous qui avez demandé à en être.
+directspeech	 On va en finir cette nuit, comme je vous le disais tantôt, quand je suis venu vous chercher pour vous ramener rue de Naples. Le patron compte sur une rafle... c'est vous qui avez demandé à en être.
+directspeech	 Le patron compte sur une rafle... c'est vous qui avez demandé à en être.
+directspeech	 ¶ -- Et Pigache ne s'est pas fait prier pour m'en mettre. Il m'a même dit qu'il aurait peut-être besoin de moi... et je n'ai pas pu refuser. Il a été si bien pour nous, là-haut, dans le jardin ! Sans lui, je crois bien que le juge d'instruction nous aurait tous fait coffrer, y compris ce pauvre Goudal, qui a passé là un mauvais quart d'heure.
+directspeech	 Il m'a même dit qu'il aurait peut-être besoin de moi... et je n'ai pas pu refuser. Il a été si bien pour nous, là-haut, dans le jardin ! Sans lui, je crois bien que le juge d'instruction nous aurait tous fait coffrer, y compris ce pauvre Goudal, qui a passé là un mauvais quart d'heure.
+directspeech	 Il a été si bien pour nous, là-haut, dans le jardin ! Sans lui, je crois bien que le juge d'instruction nous aurait tous fait coffrer, y compris ce pauvre Goudal, qui a passé là un mauvais quart d'heure.
+directspeech	 Sans lui, je crois bien que le juge d'instruction nous aurait tous fait coffrer, y compris ce pauvre Goudal, qui a passé là un mauvais quart d'heure.
+directspeech	 ¶ -- Tandis que l'affaire est arrangée. Ce soir, à la préfecture, le patron m'a dit qu'on ne poursuivrait personne pour le duel. Et, en me donnant ses instructions pour cette nuit, il m'a commandé de vous conduire à la Grange Rouge, avec Madame Crochard, ici présente.
+directspeech	 Ce soir, à la préfecture, le patron m'a dit qu'on ne poursuivrait personne pour le duel. Et, en me donnant ses instructions pour cette nuit, il m'a commandé de vous conduire à la Grange Rouge, avec Madame Crochard, ici présente.
+directspeech	 Et, en me donnant ses instructions pour cette nuit, il m'a commandé de vous conduire à la Grange Rouge, avec Madame Crochard, ici présente.
+directspeech	 ¶ -- Il a oublié de vous dire pourquoi
+nondirect	, s'écria la ci-devant cantinière du 3e régiment de chasseurs d'Afrique.
+directspeech	 Je n'ai pas demandé à marcher, moi. Et je commence à croire qu'ils ont tous perdu la boule. Hier, ils m'ont fait venir au Palais de Justice où j'ai posé deux heures pour des prunes. Le juge n'a seulement pas voulu me voir. Je croyais que j'en étais quitte... Ah ! ¶ ouiche ! ¶ ... Ce soir, à huit heures, v'là qu'un roussin tombe dans mon garni de la rue des Épinettes... Ordre de le suivre au bureau de la Sûreté... Là, on me garde encore deux heures, et après on me fait monter en fiacre avec vous... en route, pour la porte d'Arcueil !... C'est vrai que nous y avons rencontré monsieur, qui est le neveu de mon commandant... mais, enfin, qu'est-ce qu'ils me veulent ? ¶ » J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	 Et je commence à croire qu'ils ont tous perdu la boule. Hier, ils m'ont fait venir au Palais de Justice où j'ai posé deux heures pour des prunes. Le juge n'a seulement pas voulu me voir. Je croyais que j'en étais quitte... Ah ! ¶ ouiche ! ¶ ... Ce soir, à huit heures, v'là qu'un roussin tombe dans mon garni de la rue des Épinettes... Ordre de le suivre au bureau de la Sûreté... Là, on me garde encore deux heures, et après on me fait monter en fiacre avec vous... en route, pour la porte d'Arcueil !... C'est vrai que nous y avons rencontré monsieur, qui est le neveu de mon commandant... mais, enfin, qu'est-ce qu'ils me veulent ? ¶ » J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	 Hier, ils m'ont fait venir au Palais de Justice où j'ai posé deux heures pour des prunes. Le juge n'a seulement pas voulu me voir. Je croyais que j'en étais quitte... Ah ! ¶ ouiche ! ¶ ... Ce soir, à huit heures, v'là qu'un roussin tombe dans mon garni de la rue des Épinettes... Ordre de le suivre au bureau de la Sûreté... Là, on me garde encore deux heures, et après on me fait monter en fiacre avec vous... en route, pour la porte d'Arcueil !... C'est vrai que nous y avons rencontré monsieur, qui est le neveu de mon commandant... mais, enfin, qu'est-ce qu'ils me veulent ? ¶ » J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	 Le juge n'a seulement pas voulu me voir. Je croyais que j'en étais quitte... Ah ! ¶ ouiche ! ¶ ... Ce soir, à huit heures, v'là qu'un roussin tombe dans mon garni de la rue des Épinettes... Ordre de le suivre au bureau de la Sûreté... Là, on me garde encore deux heures, et après on me fait monter en fiacre avec vous... en route, pour la porte d'Arcueil !... C'est vrai que nous y avons rencontré monsieur, qui est le neveu de mon commandant... mais, enfin, qu'est-ce qu'ils me veulent ? ¶ » J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	 Je croyais que j'en étais quitte... Ah ! ¶ ouiche ! ¶ ... Ce soir, à huit heures, v'là qu'un roussin tombe dans mon garni de la rue des Épinettes... Ordre de le suivre au bureau de la Sûreté... Là, on me garde encore deux heures, et après on me fait monter en fiacre avec vous... en route, pour la porte d'Arcueil !... C'est vrai que nous y avons rencontré monsieur, qui est le neveu de mon commandant... mais, enfin, qu'est-ce qu'ils me veulent ? ¶ » J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	 ¶ ouiche ! ¶ ... Ce soir, à huit heures, v'là qu'un roussin tombe dans mon garni de la rue des Épinettes... Ordre de le suivre au bureau de la Sûreté... Là, on me garde encore deux heures, et après on me fait monter en fiacre avec vous... en route, pour la porte d'Arcueil !... C'est vrai que nous y avons rencontré monsieur, qui est le neveu de mon commandant... mais, enfin, qu'est-ce qu'ils me veulent ? ¶ » J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	 ¶ ... Ce soir, à huit heures, v'là qu'un roussin tombe dans mon garni de la rue des Épinettes... Ordre de le suivre au bureau de la Sûreté... Là, on me garde encore deux heures, et après on me fait monter en fiacre avec vous... en route, pour la porte d'Arcueil !... C'est vrai que nous y avons rencontré monsieur, qui est le neveu de mon commandant... mais, enfin, qu'est-ce qu'ils me veulent ? ¶ » J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	... C'est vrai que nous y avons rencontré monsieur, qui est le neveu de mon commandant... mais, enfin, qu'est-ce qu'ils me veulent ? ¶ » J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	 J'en ai assez de ¶ trimer ¶ comme ça... ils ont fait fermer ma cambuse de la cité du Bastion... ils peuvent bien me laisser tranquille...
+directspeech	 ¶ -- J'ai dans l'idée qu'on vous permettra de la rouvrir, un de ces jours. Et pour ce qui est de la marche de nuit, je crois que le patron va vous parler d'un particulier que vous ne portez pas dans votre cœur... celui qui venait tous les trois mois, toucher le loyer du ¶ Lapin qui Saute.
+directspeech	 Et pour ce qui est de la marche de nuit, je crois que le patron va vous parler d'un particulier que vous ne portez pas dans votre cœur... celui qui venait tous les trois mois, toucher le loyer du ¶ Lapin qui Saute.
+directspeech	 ¶ -- Tévenec !... ah ! le gueux !... en voilà un que je voudrais voir aux galères !... mais si ce n'est que pour me parler de lui, ce n'était pas la peine de me faire courir la plaine de Montrouge.
+directspeech	... ah ! le gueux !... en voilà un que je voudrais voir aux galères !... mais si ce n'est que pour me parler de lui, ce n'était pas la peine de me faire courir la plaine de Montrouge.
+directspeech	 le gueux !... en voilà un que je voudrais voir aux galères !... mais si ce n'est que pour me parler de lui, ce n'était pas la peine de me faire courir la plaine de Montrouge.
+directspeech	... en voilà un que je voudrais voir aux galères !... mais si ce n'est que pour me parler de lui, ce n'était pas la peine de me faire courir la plaine de Montrouge.
+directspeech	... mais si ce n'est que pour me parler de lui, ce n'était pas la peine de me faire courir la plaine de Montrouge.
+directspeech	 ¶ -- C'est pour mieux que ça. Vous le connaissez, ce Tévenec... que le patron n'a jamais vu... et si on vous le montre, vous pourrez dire que c'est bien lui.
+directspeech	 Vous le connaissez, ce Tévenec... que le patron n'a jamais vu... et si on vous le montre, vous pourrez dire que c'est bien lui.
+directspeech	 ¶ -- Ah ! oui, que je le dirai ! et du moment que c'est pour aider à le faire pincer, je n'en veux plus à votre patron de m'avoir dérangée.
+directspeech	 oui, que je le dirai ! et du moment que c'est pour aider à le faire pincer, je n'en veux plus à votre patron de m'avoir dérangée.
+directspeech	 et du moment que c'est pour aider à le faire pincer, je n'en veux plus à votre patron de m'avoir dérangée.
+directspeech	 ¶ -- Moi aussi, je connais Tévenec
+directspeech	, dit Chalandrey, et nous serons deux pour constater l'identité... mais votre patron le tient donc ?
+directspeech	 ¶ -- Pas encore, mais ça ne tardera pas. Le patron va vous expliquer ce qu'il attend de vous.
+directspeech	 Le patron va vous expliquer ce qu'il attend de vous.
+directspeech	 ¶ » Maintenant, attention !
+directspeech	 Maintenant, attention !
+nondirect	 ajouta Cabardos, en baissant la voix.
+directspeech	 Nous tombons dans les avant-postes.
+nondirect	 ¶ Un homme venait de se dresser à dix pas devant eux, un homme qui se tenait couché dans un sillon.
+directspeech	 ¶ -- Ami !
+nondirect	 lui cria Cabardos.
+directspeech	 Avance à l'ordre que je te donne le mot de passe.
+nondirect	 ¶ Le brigadier fit la moitié du chemin et conféra un instant avec cette sentinelle qui gardait les abords de la Grange Rouge.
+nondirect	 ¶ Puis, revenant à Maxime et à la mère Caspienne.
+directspeech	 ¶ -- Venez,
+directspeech	 leur dit-il ; le patron nous attend.
+nondirect	 ¶ Ils marchèrent vers la lumière qui brillait toujours à la fenêtre et le brigadier frappa doucement aux carreaux.
+nondirect	 ¶ Une porte basse s'ouvrit et M. Pigache se montra sur le seuil, portant à la main une lanterne sourde dont il tourna vers le groupe la face éclairée.
+directspeech	 ¶ -- Bonsoir, monsieur de Chalandrey
+nondirect	, dit-il, le plus poliment du monde.
+directspeech	 Je vous remercie d'être venu. Vous allez m'être fort utile. J'ai d'abord à causer avec vous et je vous prie d'entrer. ¶ » Vous, la mère, je vous ai réquisitionnée, parce que j'aurai besoin de vous, tout à l'heure... et je puis vous dire, dès à présent, que si vous me servez bien, je vous ferai rendre l'autorisation qu'on vous a retirée.
+directspeech	 Vous allez m'être fort utile. J'ai d'abord à causer avec vous et je vous prie d'entrer. ¶ » Vous, la mère, je vous ai réquisitionnée, parce que j'aurai besoin de vous, tout à l'heure... et je puis vous dire, dès à présent, que si vous me servez bien, je vous ferai rendre l'autorisation qu'on vous a retirée.
+directspeech	 J'ai d'abord à causer avec vous et je vous prie d'entrer. ¶ » Vous, la mère, je vous ai réquisitionnée, parce que j'aurai besoin de vous, tout à l'heure... et je puis vous dire, dès à présent, que si vous me servez bien, je vous ferai rendre l'autorisation qu'on vous a retirée.
+directspeech	 Vous, la mère, je vous ai réquisitionnée, parce que j'aurai besoin de vous, tout à l'heure... et je puis vous dire, dès à présent, que si vous me servez bien, je vous ferai rendre l'autorisation qu'on vous a retirée.
+directspeech	 ¶ -- Ça ne sera pas trop tôt
+nondirect	, grommela Virginie.
+nondirect	 ¶ Maxime, de plus en plus étonné, se laissa conduire dans l'intérieur de la Grange Rouge, ainsi nommée parce qu'elle était construite en briques.
+nondirect	 ¶ Elle avait dû servir autrefois de logement à des carriers ou d'abri pour emmagasiner leurs outils, mais elle était abandonnée depuis longtemps, car elle tombait en ruines et, à l'intérieur comme à l'extérieur, on n'y voyait que les quatre murs, sauf une cloison en planches mal rabotées qui la partageait en deux.
+nondirect	 ¶ M. Pigache l'emmena dans un coin et reprit à demi-voix, comme s'il eût craint d'être entendu : ¶ 
+directspeech	-- Vous vous doutez bien que nous allons pincer, cette nuit, Maubert, Tévenec et peut-être le reste de la bande. Le juge d'instruction tenait à les avoir tous. J'ai pris mes mesures et je suis sûr d'arrêter au moins les chefs.
+directspeech	 Le juge d'instruction tenait à les avoir tous. J'ai pris mes mesures et je suis sûr d'arrêter au moins les chefs.
+directspeech	 J'ai pris mes mesures et je suis sûr d'arrêter au moins les chefs.
+directspeech	 ¶ -- Dans la plaine de Montrouge ?
+nondirect	 demanda Chalandrey, presque incrédule.
+directspeech	 ¶ -- À trois cents mètres de cette masure. Vous le croirez quand vous l'aurez vu. Je veux que vous assistiez à la capture. Mais il faut d'abord que vous sachiez comment je suis arrivé à un si prompt résultat. C'est un des leurs qui les a dénoncés.
+directspeech	 Vous le croirez quand vous l'aurez vu. Je veux que vous assistiez à la capture. Mais il faut d'abord que vous sachiez comment je suis arrivé à un si prompt résultat. C'est un des leurs qui les a dénoncés.
+directspeech	 Je veux que vous assistiez à la capture. Mais il faut d'abord que vous sachiez comment je suis arrivé à un si prompt résultat. C'est un des leurs qui les a dénoncés.
+directspeech	 Mais il faut d'abord que vous sachiez comment je suis arrivé à un si prompt résultat. C'est un des leurs qui les a dénoncés.
+directspeech	 C'est un des leurs qui les a dénoncés.
+directspeech	 ¶ -- Naturellement.
+directspeech	 ¶ -- Et le dénonciateur est là, derrière cette cloison. Deux de mes plus solides agents le surveillent... et continueront à le serrer de près jusqu'à la fin de l'opération, car il va servir de guide. Mais je voudrais d'abord vous aboucher avec lui.
+directspeech	 Deux de mes plus solides agents le surveillent... et continueront à le serrer de près jusqu'à la fin de l'opération, car il va servir de guide. Mais je voudrais d'abord vous aboucher avec lui.
+directspeech	 Mais je voudrais d'abord vous aboucher avec lui.
+directspeech	 ¶ -- Je n'y tiens pas du tout. Et d'ailleurs, à quoi bon ?
+directspeech	 Et d'ailleurs, à quoi bon ?
+directspeech	 ¶ -- Il vous connaît et il affirme que vous le connaissez. Il fait partie de votre cercle.
+directspeech	 Il fait partie de votre cercle.
+directspeech	 ¶ -- Comme Maubert. C'est possible, mais ce n'est pas une raison pour que je le connaisse. Il compte six cents membres, ce cercle de malheur, et les coquins y foisonnent. Celui qu'ils ont étranglé dans le pavillon en était... le malheureux que mon oncle a tué aussi...
+directspeech	 C'est possible, mais ce n'est pas une raison pour que je le connaisse. Il compte six cents membres, ce cercle de malheur, et les coquins y foisonnent. Celui qu'ils ont étranglé dans le pavillon en était... le malheureux que mon oncle a tué aussi...
+directspeech	 Il compte six cents membres, ce cercle de malheur, et les coquins y foisonnent. Celui qu'ils ont étranglé dans le pavillon en était... le malheureux que mon oncle a tué aussi...
+directspeech	 Celui qu'ils ont étranglé dans le pavillon en était... le malheureux que mon oncle a tué aussi...
+directspeech	 ¶ -- Parfaitement... mais je tiens à m'assurer, dès à présent, que mon homme ne ment pas. Il a été l'ami... le bras droit de Tévenec qui, paraît-il, n'avait pas de secrets pour lui... Il a été fortement mêlé à l'enlèvement de madame de Pommeuse... et en le confrontant avec vous, j'éviterai de le confronter avec cette dame.
+directspeech	 Il a été l'ami... le bras droit de Tévenec qui, paraît-il, n'avait pas de secrets pour lui... Il a été fortement mêlé à l'enlèvement de madame de Pommeuse... et en le confrontant avec vous, j'éviterai de le confronter avec cette dame.
+directspeech	 ¶ -- Quel homme est-ce ?
+directspeech	 ¶ -- Il a l'air d'un homme du monde et il est certainement très intelligent. Il sait toute l'histoire de la bande dont il a été très longtemps. Il a compris que c'en était fait de l'association fondée par feu Grelin, et il a pris le parti de passer à l'ennemi. ¶ » Il m'a demandé carrément de l'employer dans la police de sûreté. ¶ » Nous n'y admettons plus les gens de son espèce ; mais, comme indicateur auxiliaire, il rendra des services... et on pourra fermer les yeux sur sa complicité... d'autant qu'il n'a pris aucune part à l'assassinat du boulevard Bessières. ¶ » Il s'est présenté tantôt à mon cabinet et m'a offert de me livrer cette nuit Maubert et Tévenec. J'ai accepté, bien entendu. Tout est prêt. Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Il sait toute l'histoire de la bande dont il a été très longtemps. Il a compris que c'en était fait de l'association fondée par feu Grelin, et il a pris le parti de passer à l'ennemi. ¶ » Il m'a demandé carrément de l'employer dans la police de sûreté. ¶ » Nous n'y admettons plus les gens de son espèce ; mais, comme indicateur auxiliaire, il rendra des services... et on pourra fermer les yeux sur sa complicité... d'autant qu'il n'a pris aucune part à l'assassinat du boulevard Bessières. ¶ » Il s'est présenté tantôt à mon cabinet et m'a offert de me livrer cette nuit Maubert et Tévenec. J'ai accepté, bien entendu. Tout est prêt. Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Il a compris que c'en était fait de l'association fondée par feu Grelin, et il a pris le parti de passer à l'ennemi. ¶ » Il m'a demandé carrément de l'employer dans la police de sûreté. ¶ » Nous n'y admettons plus les gens de son espèce ; mais, comme indicateur auxiliaire, il rendra des services... et on pourra fermer les yeux sur sa complicité... d'autant qu'il n'a pris aucune part à l'assassinat du boulevard Bessières. ¶ » Il s'est présenté tantôt à mon cabinet et m'a offert de me livrer cette nuit Maubert et Tévenec. J'ai accepté, bien entendu. Tout est prêt. Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Il m'a demandé carrément de l'employer dans la police de sûreté. ¶ » Nous n'y admettons plus les gens de son espèce ; mais, comme indicateur auxiliaire, il rendra des services... et on pourra fermer les yeux sur sa complicité... d'autant qu'il n'a pris aucune part à l'assassinat du boulevard Bessières. ¶ » Il s'est présenté tantôt à mon cabinet et m'a offert de me livrer cette nuit Maubert et Tévenec. J'ai accepté, bien entendu. Tout est prêt. Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Nous n'y admettons plus les gens de son espèce ; mais, comme indicateur auxiliaire, il rendra des services... et on pourra fermer les yeux sur sa complicité... d'autant qu'il n'a pris aucune part à l'assassinat du boulevard Bessières. ¶ » Il s'est présenté tantôt à mon cabinet et m'a offert de me livrer cette nuit Maubert et Tévenec. J'ai accepté, bien entendu. Tout est prêt. Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Il s'est présenté tantôt à mon cabinet et m'a offert de me livrer cette nuit Maubert et Tévenec. J'ai accepté, bien entendu. Tout est prêt. Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 J'ai accepté, bien entendu. Tout est prêt. Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Tout est prêt. Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Je n'attends plus que le moment d'opérer à coup sûr. Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Ce sera dans vingt minutes. J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 J'ai donc le temps d'interroger devant vous ce gredin qui livre ses amis. Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Vous m'aiderez et nous en tirerons des renseignements qui vous intéresseront. ¶ » Venez avec moi.
+directspeech	 Venez avec moi.
+nondirect	 ¶ Placée perpendiculairement à la porte de la grange, la cloison n'avait pas d'ouverture.
+nondirect	 Il en résultait que pour passer d'un compartiment dans l'autre, il fallait sortir, puis rentrer.
+nondirect	 ¶ Ce bizarre aménagement intérieur n'était assurément pas du fait de M. Pigache.
+nondirect	 ¶ Sans doute, les ouvriers avaient placé là cette cloison pour diviser la bâtisse en deux pièces, dont l'une leur servait de magasin et l'autre d'habitation, au temps où ils exploitaient une carrière dans les environs de la Grange-Rouge.
+nondirect	 ¶ La porte extérieure était restée ouverte et Chalandrey put voir, en passant, que Cabardos et la mère Caspienne n'étaient pas loin.
+nondirect	 ¶ La pièce où il entra après le sous-chef de la sûreté était un peu mieux éclairée que l'autre, qui ne l'était pas du tout.
+nondirect	 ¶ Deux chandelles, posées sur l'appui de la fenêtre, achevaient de se consumer, les deux chandelles qui avaient servi de phare au brigadier.
+nondirect	 ¶ Le dénonciateur, gardé par deux agents, attendait debout et adossé à la muraille.
+nondirect	 ¶ Pigache lui mit, sans cérémonie, sa lanterne sous le nez et dit à Maxime : ¶ 
+directspeech	-- Voilà le monsieur qui prétend vous avoir vu à votre cercle.
+nondirect	 ¶ Le monsieur était un homme d'une quarantaine d'années, très soigné dans sa mise et porteur d'une figure avenante.
+directspeech	 ¶ -- Il se peut que M. de Chalandrey ne se souvienne pas de moi
+nondirect	, dit-il avec un calme parfait.
+directspeech	 J'ai eu cependant assez souvent l'occasion de le rencontrer au cercle. J'ai même eu deux fois l'honneur de jouer au billard avec lui.
+directspeech	 J'ai même eu deux fois l'honneur de jouer au billard avec lui.
+nondirect	 ¶ Maxime le reconnut parfaitement.
+nondirect	 C'était un habitué de la salle de billard et il ne mentait pas en disant qu'il avait fait la partie de Maxime.
+nondirect	 ¶ Il aurait pu ajouter qu'il avait fait souvent celle du commandant d'Argental et, qu'étant de première force, il avait toujours battu l'oncle et le neveu.
+directspeech	 ¶ -- En effet... je me rappelle
+nondirect	, murmura Chalandrey, stupéfait de retrouver là un ancien ¶ partner ¶ qu'il avait toujours pris pour un homme comme il faut.
+directspeech	 ¶ -- Je m'empresse d'ajouter que je ne remettrai plus les pieds à ce cercle
+nondirect	, continua ce singulier personnage.
+directspeech	 Je viens de m'en exclure moi-même en me mettant à la disposition de monsieur le chef de la police de sûreté. Vous n'aurez donc plus, monsieur, le désagrément de m'y voir.
+directspeech	 Vous n'aurez donc plus, monsieur, le désagrément de m'y voir.
+directspeech	 ¶ -- Pas tant de phrases !
+nondirect	 dit brusquement Pigache.
+directspeech	 J'ai reçu vos déclarations et j'ai pris mes mesures en conséquence. Nous saurons tout à l'heure si elles étaient exactes. Si vous m'avez trompé, il vous en cuira. Vous paierez pour les autres. Mais, en attendant que nous marchions, répondez aux questions que monsieur et moi nous allons vous poser. ¶ » Monsieur a intérêt à savoir quel rôle ont joué certaines personnes, et je l'autorise à vous questionner... quand j'aurai fini.
+directspeech	 Nous saurons tout à l'heure si elles étaient exactes. Si vous m'avez trompé, il vous en cuira. Vous paierez pour les autres. Mais, en attendant que nous marchions, répondez aux questions que monsieur et moi nous allons vous poser. ¶ » Monsieur a intérêt à savoir quel rôle ont joué certaines personnes, et je l'autorise à vous questionner... quand j'aurai fini.
+directspeech	 Si vous m'avez trompé, il vous en cuira. Vous paierez pour les autres. Mais, en attendant que nous marchions, répondez aux questions que monsieur et moi nous allons vous poser. ¶ » Monsieur a intérêt à savoir quel rôle ont joué certaines personnes, et je l'autorise à vous questionner... quand j'aurai fini.
+directspeech	 Vous paierez pour les autres. Mais, en attendant que nous marchions, répondez aux questions que monsieur et moi nous allons vous poser. ¶ » Monsieur a intérêt à savoir quel rôle ont joué certaines personnes, et je l'autorise à vous questionner... quand j'aurai fini.
+directspeech	 Mais, en attendant que nous marchions, répondez aux questions que monsieur et moi nous allons vous poser. ¶ » Monsieur a intérêt à savoir quel rôle ont joué certaines personnes, et je l'autorise à vous questionner... quand j'aurai fini.
+directspeech	 Monsieur a intérêt à savoir quel rôle ont joué certaines personnes, et je l'autorise à vous questionner... quand j'aurai fini.
+directspeech	 ¶ -- Je suis prêt à répondre.
+directspeech	 ¶ -- À quelle époque êtes-vous entré dans l'association ?
+directspeech	 ¶ -- Presque à l'origine... mais je n'ai jamais été qu'affilié très subalterne.
+directspeech	 ¶ -- Qui l'a organisée ?
+directspeech	 ¶ -- Un homme qui avait gagné de l'argent dans des entreprises de terrassement et qui a eu l'idée de creuser des souterrains pour introduire des alcools dans Paris, sans payer les droits.
+directspeech	 ¶ -- Oui... feu Grelin
+nondirect	, dit Pigache.
+directspeech	 ¶ -- Alors, il était déjà riche, quand il a commencé à frauder l'octroi ?
+nondirect	 demanda Maxime.
+directspeech	 ¶ -- Certainement. Les travaux préparatoires ont coûté beaucoup d'argent qu'il a fourni en grande partie. Et, dès le début, il s'est associé avec Tévenec... qui était agent d'affaires et qui a apporté aussi des capitaux. ¶ » Personnellement, je n'ai pas connu Grelin... mais j'avais travaillé chez Tévenec et c'est lui qui m'a initié.
+directspeech	 Les travaux préparatoires ont coûté beaucoup d'argent qu'il a fourni en grande partie. Et, dès le début, il s'est associé avec Tévenec... qui était agent d'affaires et qui a apporté aussi des capitaux. ¶ » Personnellement, je n'ai pas connu Grelin... mais j'avais travaillé chez Tévenec et c'est lui qui m'a initié.
+directspeech	 Et, dès le début, il s'est associé avec Tévenec... qui était agent d'affaires et qui a apporté aussi des capitaux. ¶ » Personnellement, je n'ai pas connu Grelin... mais j'avais travaillé chez Tévenec et c'est lui qui m'a initié.
+directspeech	 Personnellement, je n'ai pas connu Grelin... mais j'avais travaillé chez Tévenec et c'est lui qui m'a initié.
+directspeech	 ¶ -- Les opérations n'avaient pas d'autre but que la fraude ?
+directspeech	 ¶ -- Pas d'autre... du moins tant que Grelin les a dirigées... et elles ont produit des bénéfices énormes. Moi, je ne connaissais que Tévenec et j'étais employé à placer les marchandises qu'on emmagasinait dans des locaux que vous avez découverts... boulevard Bessières, autrefois... et plus tard, rue Gazan. Je touchais de fort belles commissions, mais, après la mort de Grelin, les affaires sont devenues beaucoup moins productives, parce qu'elles ont été mal conduites... et l'association a changé de but. ¶ » Maubert y a introduit des gens capables de tout. On a commandité des voleurs de toute espèce... des escrocs qui trichaient au jeu dans les cercles et dans les villes d'eaux. Maubert s'est fait receleur et il a fini, avec d'autres bandits de son espèce, par assassiner un complice qu'il soupçonnait de l'avoir dénoncé... Ce qu'il y a de joli, c'est que ce n'était pas vrai... je le connaissais, ce malheureux... il était du cercle, lui aussi.
+directspeech	 Moi, je ne connaissais que Tévenec et j'étais employé à placer les marchandises qu'on emmagasinait dans des locaux que vous avez découverts... boulevard Bessières, autrefois... et plus tard, rue Gazan. Je touchais de fort belles commissions, mais, après la mort de Grelin, les affaires sont devenues beaucoup moins productives, parce qu'elles ont été mal conduites... et l'association a changé de but. ¶ » Maubert y a introduit des gens capables de tout. On a commandité des voleurs de toute espèce... des escrocs qui trichaient au jeu dans les cercles et dans les villes d'eaux. Maubert s'est fait receleur et il a fini, avec d'autres bandits de son espèce, par assassiner un complice qu'il soupçonnait de l'avoir dénoncé... Ce qu'il y a de joli, c'est que ce n'était pas vrai... je le connaissais, ce malheureux... il était du cercle, lui aussi.
+directspeech	 Je touchais de fort belles commissions, mais, après la mort de Grelin, les affaires sont devenues beaucoup moins productives, parce qu'elles ont été mal conduites... et l'association a changé de but. ¶ » Maubert y a introduit des gens capables de tout. On a commandité des voleurs de toute espèce... des escrocs qui trichaient au jeu dans les cercles et dans les villes d'eaux. Maubert s'est fait receleur et il a fini, avec d'autres bandits de son espèce, par assassiner un complice qu'il soupçonnait de l'avoir dénoncé... Ce qu'il y a de joli, c'est que ce n'était pas vrai... je le connaissais, ce malheureux... il était du cercle, lui aussi.
+directspeech	 Maubert y a introduit des gens capables de tout. On a commandité des voleurs de toute espèce... des escrocs qui trichaient au jeu dans les cercles et dans les villes d'eaux. Maubert s'est fait receleur et il a fini, avec d'autres bandits de son espèce, par assassiner un complice qu'il soupçonnait de l'avoir dénoncé... Ce qu'il y a de joli, c'est que ce n'était pas vrai... je le connaissais, ce malheureux... il était du cercle, lui aussi.
+directspeech	 On a commandité des voleurs de toute espèce... des escrocs qui trichaient au jeu dans les cercles et dans les villes d'eaux. Maubert s'est fait receleur et il a fini, avec d'autres bandits de son espèce, par assassiner un complice qu'il soupçonnait de l'avoir dénoncé... Ce qu'il y a de joli, c'est que ce n'était pas vrai... je le connaissais, ce malheureux... il était du cercle, lui aussi.
+directspeech	 Maubert s'est fait receleur et il a fini, avec d'autres bandits de son espèce, par assassiner un complice qu'il soupçonnait de l'avoir dénoncé... Ce qu'il y a de joli, c'est que ce n'était pas vrai... je le connaissais, ce malheureux... il était du cercle, lui aussi.
+directspeech	 ¶ -- Si nous les manquons ce soir, gare à vous ! ils ne vous manqueront pas
+directspeech	 ils ne vous manqueront pas
+nondirect	, dit avec mépris le sous-chef de la sûreté.
+directspeech	 ¶ -- Oh ! ils ne me font pas peur. Du reste, je ne les aurais jamais livrés, s'ils ne m'avaient pas volé indignement. Maubert était dépositaire de mes fonds... je les lui avais confiés sans exiger un reçu... Hier, quand je les lui ai réclamés, il a nié le dépôt, en me mettant au défi de porter plainte. J'aurais peut-être hésité à le dénoncer, parce que je ne voulais pas perdre Tévenec qui, jusqu'alors, ne m'avait pas fait de mal... mais Tévenec vient de se conduire avec moi de telle sorte que je suis dispensé de le ménager. ¶ » Il a refusé de me payer vingt-cinq mille francs qu'il m'avait promis pour arranger l'enlèvement de madame de Pommeuse.
+directspeech	 ils ne me font pas peur. Du reste, je ne les aurais jamais livrés, s'ils ne m'avaient pas volé indignement. Maubert était dépositaire de mes fonds... je les lui avais confiés sans exiger un reçu... Hier, quand je les lui ai réclamés, il a nié le dépôt, en me mettant au défi de porter plainte. J'aurais peut-être hésité à le dénoncer, parce que je ne voulais pas perdre Tévenec qui, jusqu'alors, ne m'avait pas fait de mal... mais Tévenec vient de se conduire avec moi de telle sorte que je suis dispensé de le ménager. ¶ » Il a refusé de me payer vingt-cinq mille francs qu'il m'avait promis pour arranger l'enlèvement de madame de Pommeuse.
+directspeech	 Du reste, je ne les aurais jamais livrés, s'ils ne m'avaient pas volé indignement. Maubert était dépositaire de mes fonds... je les lui avais confiés sans exiger un reçu... Hier, quand je les lui ai réclamés, il a nié le dépôt, en me mettant au défi de porter plainte. J'aurais peut-être hésité à le dénoncer, parce que je ne voulais pas perdre Tévenec qui, jusqu'alors, ne m'avait pas fait de mal... mais Tévenec vient de se conduire avec moi de telle sorte que je suis dispensé de le ménager. ¶ » Il a refusé de me payer vingt-cinq mille francs qu'il m'avait promis pour arranger l'enlèvement de madame de Pommeuse.
+directspeech	 Maubert était dépositaire de mes fonds... je les lui avais confiés sans exiger un reçu... Hier, quand je les lui ai réclamés, il a nié le dépôt, en me mettant au défi de porter plainte. J'aurais peut-être hésité à le dénoncer, parce que je ne voulais pas perdre Tévenec qui, jusqu'alors, ne m'avait pas fait de mal... mais Tévenec vient de se conduire avec moi de telle sorte que je suis dispensé de le ménager. ¶ » Il a refusé de me payer vingt-cinq mille francs qu'il m'avait promis pour arranger l'enlèvement de madame de Pommeuse.
+directspeech	 J'aurais peut-être hésité à le dénoncer, parce que je ne voulais pas perdre Tévenec qui, jusqu'alors, ne m'avait pas fait de mal... mais Tévenec vient de se conduire avec moi de telle sorte que je suis dispensé de le ménager. ¶ » Il a refusé de me payer vingt-cinq mille francs qu'il m'avait promis pour arranger l'enlèvement de madame de Pommeuse.
+directspeech	 Il a refusé de me payer vingt-cinq mille francs qu'il m'avait promis pour arranger l'enlèvement de madame de Pommeuse.
+directspeech	 ¶ -- Quoi !
+directspeech	 s'écria Maxime, c'est vous qui...
+directspeech	 ¶ -- Oui, monsieur. Je m'étais chargé de cette affaire, parce que je savais que la vie de madame de Pommeuse ne courait aucun danger. Si elle vous a raconté son aventure, elle a dû vous parler de la visite que je lui ai faite dans la maison de la rue Gazan... j'étais envoyé en ambassade par Tévenec... qui espérait, en l'effrayant, la décider à le suivre en Angleterre où il aurait eu beau jeu pour la dépouiller de sa fortune. ¶ » Vilaine mission qu'il m'avait donnée là !... je m'en suis acquitté consciencieusement... et je suis très content de n'avoir pas réussi. La comtesse de Pommeuse ne se plaindra pas que j'aie manqué d'égards avec elle.
+directspeech	 Je m'étais chargé de cette affaire, parce que je savais que la vie de madame de Pommeuse ne courait aucun danger. Si elle vous a raconté son aventure, elle a dû vous parler de la visite que je lui ai faite dans la maison de la rue Gazan... j'étais envoyé en ambassade par Tévenec... qui espérait, en l'effrayant, la décider à le suivre en Angleterre où il aurait eu beau jeu pour la dépouiller de sa fortune. ¶ » Vilaine mission qu'il m'avait donnée là !... je m'en suis acquitté consciencieusement... et je suis très content de n'avoir pas réussi. La comtesse de Pommeuse ne se plaindra pas que j'aie manqué d'égards avec elle.
+directspeech	 Si elle vous a raconté son aventure, elle a dû vous parler de la visite que je lui ai faite dans la maison de la rue Gazan... j'étais envoyé en ambassade par Tévenec... qui espérait, en l'effrayant, la décider à le suivre en Angleterre où il aurait eu beau jeu pour la dépouiller de sa fortune. ¶ » Vilaine mission qu'il m'avait donnée là !... je m'en suis acquitté consciencieusement... et je suis très content de n'avoir pas réussi. La comtesse de Pommeuse ne se plaindra pas que j'aie manqué d'égards avec elle.
+directspeech	 Vilaine mission qu'il m'avait donnée là !... je m'en suis acquitté consciencieusement... et je suis très content de n'avoir pas réussi. La comtesse de Pommeuse ne se plaindra pas que j'aie manqué d'égards avec elle.
+directspeech	... je m'en suis acquitté consciencieusement... et je suis très content de n'avoir pas réussi. La comtesse de Pommeuse ne se plaindra pas que j'aie manqué d'égards avec elle.
+directspeech	 La comtesse de Pommeuse ne se plaindra pas que j'aie manqué d'égards avec elle.
+directspeech	 ¶ -- Osez-vous prétendre qu'elle vous doit de la reconnaissance ?
+nondirect	 demanda ironiquement Chalandrey.
+nondirect	 ¶ La cynique impudence de ce drôle le dégoûtait.
+directspeech	 ¶ -- Assez d'explications là-dessus !
+nondirect	 s'écria Pigache.
+directspeech	 Vous soutenez que vous n'étiez pas de ceux qui ont étranglé un homme dans le pavillon. Il faudra le prouver. Nous verrons ce qu'en dira Maubert.
+directspeech	 Il faudra le prouver. Nous verrons ce qu'en dira Maubert.
+directspeech	 Nous verrons ce qu'en dira Maubert.
+directspeech	 ¶ -- Il est capable de m'accuser à faux... mais la meilleure preuve que je n'en étais pas, c'est que madame de Pommeuse ne m'a pas vu... et elle a assisté au meurtre.
+directspeech	 ¶ -- Qu'en savez-vous ?
+directspeech	 ¶ -- Je l'ai su par Tévenec qui l'avait su de Maubert.
+directspeech	 ¶ -- Et Tévenec, en était-il ?
+directspeech	 ¶ -- Non. Tévenec n'a jamais tué personne. Tévenec est pour les moyens doux... et quand il a appris ce qu'avait fait cette brute de Maubert, il est entré dans une colère épouvantable. ¶ » Du reste, quand vous les aurez pris, vous n'aurez qu'à les interroger pour savoir à quoi vous en tenir. Je vous dis la vérité, parce que, au point où j'en suis, je n'ai plus aucun intérêt à mentir. J'ai brûlé mes vaisseaux avec les compagnons de l' ¶ œil de chat ; ¶ j'espère qu'on me saura gré de les avoir livrés... et si la police veut bien m'employer, par la suite, je tâcherai de bien la servir.
+directspeech	 Tévenec n'a jamais tué personne. Tévenec est pour les moyens doux... et quand il a appris ce qu'avait fait cette brute de Maubert, il est entré dans une colère épouvantable. ¶ » Du reste, quand vous les aurez pris, vous n'aurez qu'à les interroger pour savoir à quoi vous en tenir. Je vous dis la vérité, parce que, au point où j'en suis, je n'ai plus aucun intérêt à mentir. J'ai brûlé mes vaisseaux avec les compagnons de l' ¶ œil de chat ; ¶ j'espère qu'on me saura gré de les avoir livrés... et si la police veut bien m'employer, par la suite, je tâcherai de bien la servir.
+directspeech	 Tévenec est pour les moyens doux... et quand il a appris ce qu'avait fait cette brute de Maubert, il est entré dans une colère épouvantable. ¶ » Du reste, quand vous les aurez pris, vous n'aurez qu'à les interroger pour savoir à quoi vous en tenir. Je vous dis la vérité, parce que, au point où j'en suis, je n'ai plus aucun intérêt à mentir. J'ai brûlé mes vaisseaux avec les compagnons de l' ¶ œil de chat ; ¶ j'espère qu'on me saura gré de les avoir livrés... et si la police veut bien m'employer, par la suite, je tâcherai de bien la servir.
+directspeech	 Du reste, quand vous les aurez pris, vous n'aurez qu'à les interroger pour savoir à quoi vous en tenir. Je vous dis la vérité, parce que, au point où j'en suis, je n'ai plus aucun intérêt à mentir. J'ai brûlé mes vaisseaux avec les compagnons de l' ¶ œil de chat ; ¶ j'espère qu'on me saura gré de les avoir livrés... et si la police veut bien m'employer, par la suite, je tâcherai de bien la servir.
+directspeech	 Je vous dis la vérité, parce que, au point où j'en suis, je n'ai plus aucun intérêt à mentir. J'ai brûlé mes vaisseaux avec les compagnons de l' ¶ œil de chat ; ¶ j'espère qu'on me saura gré de les avoir livrés... et si la police veut bien m'employer, par la suite, je tâcherai de bien la servir.
+directspeech	 J'ai brûlé mes vaisseaux avec les compagnons de l' ¶ œil de chat ; ¶ j'espère qu'on me saura gré de les avoir livrés... et si la police veut bien m'employer, par la suite, je tâcherai de bien la servir.
+directspeech	 ¶ -- Je ne vous promets rien
+nondirect	, dit sévèrement Pigache.
+directspeech	 C'est le juge d'instruction qui décidera si vous serez compris dans les poursuites contre l'ancienne bande... celle qui ne faisait que de la fraude... vous en étiez, si vous n'étiez pas au pavillon, le jour de l'assassinat... et tous ceux qui en ont été auront des comptes à rendre... Mais nous n'en sommes pas là... et l'heure avance.
+directspeech	 ¶ -- Monsieur de Chalandrey, avez-vous autre chose à demander, avant que nous nous mettions en route ?
+directspeech	 ¶ -- Deux questions à poser
+nondirect	, répondit Maxime.
+nondirect	 ¶ Et s'adressant au dénonciateur : ¶ 
+directspeech	-- Vous avez rencontré au cercle un Américain, nommé Atkins. Est-ce un affilié ?
+directspeech	 Est-ce un affilié ?
+directspeech	 ¶ -- Non, monsieur. C'est, je crois, un aventurier, mais il n'a jamais fait partie de la bande... ce qui ne veut pas dire qu'il n'a pas d'autre méfaits sur la conscience. ¶ » Tévenec, qui le détestait, je ne sais pourquoi, s'est vanté devant moi d'être en mesure de le faire arrêter quand il voudrait, mais il ne m'a pas raconté l'histoire de cet individu.
+directspeech	 C'est, je crois, un aventurier, mais il n'a jamais fait partie de la bande... ce qui ne veut pas dire qu'il n'a pas d'autre méfaits sur la conscience. ¶ » Tévenec, qui le détestait, je ne sais pourquoi, s'est vanté devant moi d'être en mesure de le faire arrêter quand il voudrait, mais il ne m'a pas raconté l'histoire de cet individu.
+directspeech	 Tévenec, qui le détestait, je ne sais pourquoi, s'est vanté devant moi d'être en mesure de le faire arrêter quand il voudrait, mais il ne m'a pas raconté l'histoire de cet individu.
+nondirect	 ¶ Cette réponse ne rassura pas tout à fait Maxime qui redoutait toujours que madame de Pommeuse ne se trouvât compromise.
+nondirect	 Elle lui prouva du moins que la proche parenté de la future femme de Lucien Croze avec le faux Américain, condamné par contumace, n'était connue que du seul Tévenec.
+nondirect	 ¶ Et il se hâta d'éclaircir un point qui l'intéressait tout autant.
+directspeech	 ¶ -- Vous avez dû voir quelquefois le caissier de Maubert ?
+nondirect	 demanda-t-il, sans transition.
+directspeech	 ¶ -- Le jeune homme que Maubert a chassé en l'accusant de l'avoir volé. Je l'ai vu très souvent. J'avais un compte dans la maison... et quand je venais toucher de l'argent, c'était lui qui me payait. Encore un que Tévenec exècre et, cette fois, je sais pourquoi. Tévenec s'est figuré que ce garçon plaisait à la comtesse de Pommeuse, et pour le perdre de réputation, il a conseillé à Maubert de lui imputer un vol imaginaire.
+directspeech	 Je l'ai vu très souvent. J'avais un compte dans la maison... et quand je venais toucher de l'argent, c'était lui qui me payait. Encore un que Tévenec exècre et, cette fois, je sais pourquoi. Tévenec s'est figuré que ce garçon plaisait à la comtesse de Pommeuse, et pour le perdre de réputation, il a conseillé à Maubert de lui imputer un vol imaginaire.
+directspeech	 J'avais un compte dans la maison... et quand je venais toucher de l'argent, c'était lui qui me payait. Encore un que Tévenec exècre et, cette fois, je sais pourquoi. Tévenec s'est figuré que ce garçon plaisait à la comtesse de Pommeuse, et pour le perdre de réputation, il a conseillé à Maubert de lui imputer un vol imaginaire.
+directspeech	 Encore un que Tévenec exècre et, cette fois, je sais pourquoi. Tévenec s'est figuré que ce garçon plaisait à la comtesse de Pommeuse, et pour le perdre de réputation, il a conseillé à Maubert de lui imputer un vol imaginaire.
+directspeech	 Tévenec s'est figuré que ce garçon plaisait à la comtesse de Pommeuse, et pour le perdre de réputation, il a conseillé à Maubert de lui imputer un vol imaginaire.
+directspeech	 ¶ -- Alors, le caissier est innocent ?
+directspeech	 ¶ -- Absolument. C'est Tévenec lui-même qui me l'a dit. Il riait beaucoup du tour qu'il lui avait joué. Nous verrons bien s'il osera le nier devant moi.
+directspeech	 C'est Tévenec lui-même qui me l'a dit. Il riait beaucoup du tour qu'il lui avait joué. Nous verrons bien s'il osera le nier devant moi.
+directspeech	 Il riait beaucoup du tour qu'il lui avait joué. Nous verrons bien s'il osera le nier devant moi.
+directspeech	 Nous verrons bien s'il osera le nier devant moi.
+directspeech	 ¶ -- Je n'ai plus rien à vous demander
+nondirect	, dit Maxime, complètement satisfait.
+directspeech	 ¶ -- Alors, marchons !
+nondirect	 commanda Pigache.
+directspeech	 Il est l'heure.
+directspeech	 ¶ -- Je suis à vos ordres,
+nondirect	 répondit le dénonciateur.
+directspeech	 ¶ -- Je vous préviens que je vais vous mettre à l'avant-garde. Si les brigands se défendent, vous recevrez les premières balles. Et les deux agents qui vont vous escorter ont l'ordre de vous tirer dessus, si vous décampez en route.
+directspeech	 Si les brigands se défendent, vous recevrez les premières balles. Et les deux agents qui vont vous escorter ont l'ordre de vous tirer dessus, si vous décampez en route.
+directspeech	 Et les deux agents qui vont vous escorter ont l'ordre de vous tirer dessus, si vous décampez en route.
+directspeech	 ¶ -- Il faudrait que je fusse bien bête pour essayer de me sauver et je n'en ai nulle envie. Je tiens trop à ma vengeance. Je ne serai content que quand je verrai mettre les menottes à Tévenec et à Maubert.
+directspeech	 Je tiens trop à ma vengeance. Je ne serai content que quand je verrai mettre les menottes à Tévenec et à Maubert.
+directspeech	 Je ne serai content que quand je verrai mettre les menottes à Tévenec et à Maubert.
+directspeech	 ¶ -- En route, vous autres !... 
+directspeech	... 
+nondirect	cria Pigache à ses agents.
+nondirect	 ¶ Ils sortirent à la file, emmenant l'affilié qui n'avait rien perdu de son assurance.
+nondirect	 Maxime et leur chef sortirent après eux.
+nondirect	 ¶ Cabardos et la mère Caspienne les attendaient dehors, sous la pluie qui commençait à tomber.
+nondirect	 ¶ Une douzaine d'agents, dispersés autour de la Grange-Rouge, s'étaient rassemblés durant la conférence et formaient le cercle autour de l'ancienne cantinière et de l'ancien maréchal des logis.
+nondirect	 ¶ M. Pigache partagea sa troupe en deux pelotons, -- un en tête, un en queue -- et donna brièvement ses dernières instructions.
+nondirect	 ¶ Cabardos prit le commandement du premier peloton.
+nondirect	 ¶ Virginie Crochard marcha avec l'arrièregarde.
+nondirect	 ¶ Pigache et Chalandrey, au centre, entre les deux escouades.
+directspeech	 ¶ -- Expliquez-moi donc ce que nous allons faire
+nondirect	, demanda Maxime.
+directspeech	 Arrêter Maubert et Tévenec, je le sais bien. Mais où sont-ils ?
+directspeech	 Mais où sont-ils ?
+directspeech	 ¶ -- Pas loin d'ici
+nondirect	, répondit Pigache.
+directspeech	 Tévenec, qui ne se refusait rien, s'est offert, il y a quelques années, une villa dans la plaine de Montrouge, à proximité de la rue Gazan, qu'il habitait, mais qui appartient à l'association. Il l'a fait bâtir pour son usage particulier, cette villa où il ne couchait que rarement et où il n'a jamais reçu que ce drôle qui l'a dénoncé, après avoir été son âme damnée. ¶ » Tévenec, en homme prudent, s'était ménagé un refuge en cas de malheur. ¶ » Quand les affaires de la bande ont commencé à mal tourner, il a songé à se mettre à l'abri et il est venu se cacher dans sa maison des champs, avant de passer en Angleterre. C'est là qu'il a organisé le guet-apens tendu à madame de Pommeuse. Il se flattait, comme vous savez, de la décider à le suivre à l'étranger. ¶ » Il n'y a pas réussi et il se prépare à filer, mais avant de partir, il avait des comptes à régler avec Maubert et il lui a donné rendez-vous pour cette nuit. ¶ » Maubert, que j'ai fait surveiller à partir de l'instant où il est sorti du cabinet du juge d'instruction, Maubert, se sentant perdu aussi, s'est décidé à voir son complice qui lui avait offert de partir avec lui. ¶ » Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Il l'a fait bâtir pour son usage particulier, cette villa où il ne couchait que rarement et où il n'a jamais reçu que ce drôle qui l'a dénoncé, après avoir été son âme damnée. ¶ » Tévenec, en homme prudent, s'était ménagé un refuge en cas de malheur. ¶ » Quand les affaires de la bande ont commencé à mal tourner, il a songé à se mettre à l'abri et il est venu se cacher dans sa maison des champs, avant de passer en Angleterre. C'est là qu'il a organisé le guet-apens tendu à madame de Pommeuse. Il se flattait, comme vous savez, de la décider à le suivre à l'étranger. ¶ » Il n'y a pas réussi et il se prépare à filer, mais avant de partir, il avait des comptes à régler avec Maubert et il lui a donné rendez-vous pour cette nuit. ¶ » Maubert, que j'ai fait surveiller à partir de l'instant où il est sorti du cabinet du juge d'instruction, Maubert, se sentant perdu aussi, s'est décidé à voir son complice qui lui avait offert de partir avec lui. ¶ » Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Tévenec, en homme prudent, s'était ménagé un refuge en cas de malheur. ¶ » Quand les affaires de la bande ont commencé à mal tourner, il a songé à se mettre à l'abri et il est venu se cacher dans sa maison des champs, avant de passer en Angleterre. C'est là qu'il a organisé le guet-apens tendu à madame de Pommeuse. Il se flattait, comme vous savez, de la décider à le suivre à l'étranger. ¶ » Il n'y a pas réussi et il se prépare à filer, mais avant de partir, il avait des comptes à régler avec Maubert et il lui a donné rendez-vous pour cette nuit. ¶ » Maubert, que j'ai fait surveiller à partir de l'instant où il est sorti du cabinet du juge d'instruction, Maubert, se sentant perdu aussi, s'est décidé à voir son complice qui lui avait offert de partir avec lui. ¶ » Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Quand les affaires de la bande ont commencé à mal tourner, il a songé à se mettre à l'abri et il est venu se cacher dans sa maison des champs, avant de passer en Angleterre. C'est là qu'il a organisé le guet-apens tendu à madame de Pommeuse. Il se flattait, comme vous savez, de la décider à le suivre à l'étranger. ¶ » Il n'y a pas réussi et il se prépare à filer, mais avant de partir, il avait des comptes à régler avec Maubert et il lui a donné rendez-vous pour cette nuit. ¶ » Maubert, que j'ai fait surveiller à partir de l'instant où il est sorti du cabinet du juge d'instruction, Maubert, se sentant perdu aussi, s'est décidé à voir son complice qui lui avait offert de partir avec lui. ¶ » Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 C'est là qu'il a organisé le guet-apens tendu à madame de Pommeuse. Il se flattait, comme vous savez, de la décider à le suivre à l'étranger. ¶ » Il n'y a pas réussi et il se prépare à filer, mais avant de partir, il avait des comptes à régler avec Maubert et il lui a donné rendez-vous pour cette nuit. ¶ » Maubert, que j'ai fait surveiller à partir de l'instant où il est sorti du cabinet du juge d'instruction, Maubert, se sentant perdu aussi, s'est décidé à voir son complice qui lui avait offert de partir avec lui. ¶ » Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Il se flattait, comme vous savez, de la décider à le suivre à l'étranger. ¶ » Il n'y a pas réussi et il se prépare à filer, mais avant de partir, il avait des comptes à régler avec Maubert et il lui a donné rendez-vous pour cette nuit. ¶ » Maubert, que j'ai fait surveiller à partir de l'instant où il est sorti du cabinet du juge d'instruction, Maubert, se sentant perdu aussi, s'est décidé à voir son complice qui lui avait offert de partir avec lui. ¶ » Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Il n'y a pas réussi et il se prépare à filer, mais avant de partir, il avait des comptes à régler avec Maubert et il lui a donné rendez-vous pour cette nuit. ¶ » Maubert, que j'ai fait surveiller à partir de l'instant où il est sorti du cabinet du juge d'instruction, Maubert, se sentant perdu aussi, s'est décidé à voir son complice qui lui avait offert de partir avec lui. ¶ » Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Maubert, que j'ai fait surveiller à partir de l'instant où il est sorti du cabinet du juge d'instruction, Maubert, se sentant perdu aussi, s'est décidé à voir son complice qui lui avait offert de partir avec lui. ¶ » Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Il est sorti de Paris, en omnibus, à la tombée de la nuit. Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Il est descendu à Arcueil et il est venu trouver son compère, à pied, à travers champs, sans s'apercevoir que deux de mes hommes le ¶ filaient ¶ . J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 J'ai été averti immédiatement. Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Déjà, dans la journée, j'avais reçu la visite du dénonciateur qui m'avait raconté le projet d'entrevue que Tévenec avait eu la bêtise de lui confier. Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 Le rapport de mes agents m'ayant appris que le poisson était dans la nasse, j'ai préparé le coup de filet pour cette nuit.
+directspeech	 ¶ -- Il me semble que vous auriez pu le donner deux heures plus tôt.
+directspeech	 ¶ -- Non... je ne voulais pas les manquer et il me fallait le temps de rassembler la brigade que j'ai conduite moi-même à la Grange Rouge... cette masure où je vous ai attendu et qui m'a déjà servi de point de ralliement pour d'autres opérations. ¶ » Je tenais à avoir, avec moi, la femme Crochard, pour le cas où Tévenec nierait qu'il touchait les loyers des dépendances du pavillon légué par feu Grelin à ses associés. J'ai dû l'envoyer chercher au quartier des Épinettes. ¶ » Je tenais aussi, à vous amener et je vous ai dépêché Cabardos. Vous m'aiderez à confondre Tévenec, s'il essaie d'équivoquer sur des faits que vous connaissez. ¶ » Et j'ai eu encore un autre motif pour retarder l'expédition. Il est possible que ces coquins se défendent, et je ne serais pas fâché de les surprendre au lit. Ils doivent y être maintenant, ou alors, c'est qu'ils ne se coucheront pas du tout, afin d'être prêts à filer au petit jour.
+directspeech	 Je tenais à avoir, avec moi, la femme Crochard, pour le cas où Tévenec nierait qu'il touchait les loyers des dépendances du pavillon légué par feu Grelin à ses associés. J'ai dû l'envoyer chercher au quartier des Épinettes. ¶ » Je tenais aussi, à vous amener et je vous ai dépêché Cabardos. Vous m'aiderez à confondre Tévenec, s'il essaie d'équivoquer sur des faits que vous connaissez. ¶ » Et j'ai eu encore un autre motif pour retarder l'expédition. Il est possible que ces coquins se défendent, et je ne serais pas fâché de les surprendre au lit. Ils doivent y être maintenant, ou alors, c'est qu'ils ne se coucheront pas du tout, afin d'être prêts à filer au petit jour.
+directspeech	 J'ai dû l'envoyer chercher au quartier des Épinettes. ¶ » Je tenais aussi, à vous amener et je vous ai dépêché Cabardos. Vous m'aiderez à confondre Tévenec, s'il essaie d'équivoquer sur des faits que vous connaissez. ¶ » Et j'ai eu encore un autre motif pour retarder l'expédition. Il est possible que ces coquins se défendent, et je ne serais pas fâché de les surprendre au lit. Ils doivent y être maintenant, ou alors, c'est qu'ils ne se coucheront pas du tout, afin d'être prêts à filer au petit jour.
+directspeech	 Je tenais aussi, à vous amener et je vous ai dépêché Cabardos. Vous m'aiderez à confondre Tévenec, s'il essaie d'équivoquer sur des faits que vous connaissez. ¶ » Et j'ai eu encore un autre motif pour retarder l'expédition. Il est possible que ces coquins se défendent, et je ne serais pas fâché de les surprendre au lit. Ils doivent y être maintenant, ou alors, c'est qu'ils ne se coucheront pas du tout, afin d'être prêts à filer au petit jour.
+directspeech	 Vous m'aiderez à confondre Tévenec, s'il essaie d'équivoquer sur des faits que vous connaissez. ¶ » Et j'ai eu encore un autre motif pour retarder l'expédition. Il est possible que ces coquins se défendent, et je ne serais pas fâché de les surprendre au lit. Ils doivent y être maintenant, ou alors, c'est qu'ils ne se coucheront pas du tout, afin d'être prêts à filer au petit jour.
+directspeech	 Et j'ai eu encore un autre motif pour retarder l'expédition. Il est possible que ces coquins se défendent, et je ne serais pas fâché de les surprendre au lit. Ils doivent y être maintenant, ou alors, c'est qu'ils ne se coucheront pas du tout, afin d'être prêts à filer au petit jour.
+directspeech	 Il est possible que ces coquins se défendent, et je ne serais pas fâché de les surprendre au lit. Ils doivent y être maintenant, ou alors, c'est qu'ils ne se coucheront pas du tout, afin d'être prêts à filer au petit jour.
+directspeech	 Ils doivent y être maintenant, ou alors, c'est qu'ils ne se coucheront pas du tout, afin d'être prêts à filer au petit jour.
+directspeech	 ¶ -- Si les oiseaux s'étaient déjà envolés ?...
+directspeech	...
+directspeech	 ¶ -- Je le saurais. Six de mes hommes surveillent les alentours de la villa... avec ordre d'empoigner tout individu qui essaierait d'en sortir et de m'envoyer chercher immédiatement à mon quartier général de la Grange Rouge. Et comme personne n'est venu, je suis certain que Tévenec et Maubert n'ont pas bougé... mais je n'espère pas trop les trouver endormis. Je croirais plutôt qu'ils discutent entre eux à propos du partage du fonds social... car je suppose qu'ils ne doivent pas être d'accord sur ce point ni sur d'autres.
+directspeech	 Six de mes hommes surveillent les alentours de la villa... avec ordre d'empoigner tout individu qui essaierait d'en sortir et de m'envoyer chercher immédiatement à mon quartier général de la Grange Rouge. Et comme personne n'est venu, je suis certain que Tévenec et Maubert n'ont pas bougé... mais je n'espère pas trop les trouver endormis. Je croirais plutôt qu'ils discutent entre eux à propos du partage du fonds social... car je suppose qu'ils ne doivent pas être d'accord sur ce point ni sur d'autres.
+directspeech	 Et comme personne n'est venu, je suis certain que Tévenec et Maubert n'ont pas bougé... mais je n'espère pas trop les trouver endormis. Je croirais plutôt qu'ils discutent entre eux à propos du partage du fonds social... car je suppose qu'ils ne doivent pas être d'accord sur ce point ni sur d'autres.
+directspeech	 Je croirais plutôt qu'ils discutent entre eux à propos du partage du fonds social... car je suppose qu'ils ne doivent pas être d'accord sur ce point ni sur d'autres.
+directspeech	 ¶ -- Est-ce qu'ils sont seuls dans cette tanière ?
+directspeech	 ¶ -- Ce n'est pas certain, mais c'est probable. Tévenec, quand il y venait, se passait de valet de chambre et, en son absence, la villa n'était gardée que par un jardinier, affilié subalterne, comme tous les gens que Tévenec avait à son service, rue Gazan. ¶ » J'ai de fortes raisons de croire qu'il a congédié récemment tout ce personnel de coquins. Je suppose donc que, pour la dernière nuit qu'il compte passer à la villa, il n'a amené personne avec lui.
+directspeech	 Tévenec, quand il y venait, se passait de valet de chambre et, en son absence, la villa n'était gardée que par un jardinier, affilié subalterne, comme tous les gens que Tévenec avait à son service, rue Gazan. ¶ » J'ai de fortes raisons de croire qu'il a congédié récemment tout ce personnel de coquins. Je suppose donc que, pour la dernière nuit qu'il compte passer à la villa, il n'a amené personne avec lui.
+directspeech	 J'ai de fortes raisons de croire qu'il a congédié récemment tout ce personnel de coquins. Je suppose donc que, pour la dernière nuit qu'il compte passer à la villa, il n'a amené personne avec lui.
+directspeech	 Je suppose donc que, pour la dernière nuit qu'il compte passer à la villa, il n'a amené personne avec lui.
+directspeech	 ¶ -- À moins qu'il n'ait convoqué tout son monde pour participer à la liquidation.
+directspeech	 ¶ -- Non. C'est déjà fait. Les inférieurs ont reçu de l'argent et l'ordre de se disperser. Les gros bonnets de la bande ont été avertis d'avoir à se mettre à l'abri. Ceux-là sont riches et ils ne viendront pas réclamer leur part. ¶ » Ils vont se terrer comme des renards, et ce n'est pas le moment de chercher leurs terriers. Quand nous tiendrons les deux chefs, le juge d'instruction saura bien en tirer des aveux. Ils tâcheront de rejeter la responsabilité sur d'autres et ils nommeront leurs complices. ¶ » On y mettra peut-être six mois, mais on finira par les avoir tous.
+directspeech	 C'est déjà fait. Les inférieurs ont reçu de l'argent et l'ordre de se disperser. Les gros bonnets de la bande ont été avertis d'avoir à se mettre à l'abri. Ceux-là sont riches et ils ne viendront pas réclamer leur part. ¶ » Ils vont se terrer comme des renards, et ce n'est pas le moment de chercher leurs terriers. Quand nous tiendrons les deux chefs, le juge d'instruction saura bien en tirer des aveux. Ils tâcheront de rejeter la responsabilité sur d'autres et ils nommeront leurs complices. ¶ » On y mettra peut-être six mois, mais on finira par les avoir tous.
+directspeech	 Les inférieurs ont reçu de l'argent et l'ordre de se disperser. Les gros bonnets de la bande ont été avertis d'avoir à se mettre à l'abri. Ceux-là sont riches et ils ne viendront pas réclamer leur part. ¶ » Ils vont se terrer comme des renards, et ce n'est pas le moment de chercher leurs terriers. Quand nous tiendrons les deux chefs, le juge d'instruction saura bien en tirer des aveux. Ils tâcheront de rejeter la responsabilité sur d'autres et ils nommeront leurs complices. ¶ » On y mettra peut-être six mois, mais on finira par les avoir tous.
+directspeech	 Les gros bonnets de la bande ont été avertis d'avoir à se mettre à l'abri. Ceux-là sont riches et ils ne viendront pas réclamer leur part. ¶ » Ils vont se terrer comme des renards, et ce n'est pas le moment de chercher leurs terriers. Quand nous tiendrons les deux chefs, le juge d'instruction saura bien en tirer des aveux. Ils tâcheront de rejeter la responsabilité sur d'autres et ils nommeront leurs complices. ¶ » On y mettra peut-être six mois, mais on finira par les avoir tous.
+directspeech	 Ceux-là sont riches et ils ne viendront pas réclamer leur part. ¶ » Ils vont se terrer comme des renards, et ce n'est pas le moment de chercher leurs terriers. Quand nous tiendrons les deux chefs, le juge d'instruction saura bien en tirer des aveux. Ils tâcheront de rejeter la responsabilité sur d'autres et ils nommeront leurs complices. ¶ » On y mettra peut-être six mois, mais on finira par les avoir tous.
+directspeech	 Ils vont se terrer comme des renards, et ce n'est pas le moment de chercher leurs terriers. Quand nous tiendrons les deux chefs, le juge d'instruction saura bien en tirer des aveux. Ils tâcheront de rejeter la responsabilité sur d'autres et ils nommeront leurs complices. ¶ » On y mettra peut-être six mois, mais on finira par les avoir tous.
+directspeech	 Quand nous tiendrons les deux chefs, le juge d'instruction saura bien en tirer des aveux. Ils tâcheront de rejeter la responsabilité sur d'autres et ils nommeront leurs complices. ¶ » On y mettra peut-être six mois, mais on finira par les avoir tous.
+directspeech	 Ils tâcheront de rejeter la responsabilité sur d'autres et ils nommeront leurs complices. ¶ » On y mettra peut-être six mois, mais on finira par les avoir tous.
+directspeech	 On y mettra peut-être six mois, mais on finira par les avoir tous.
+nondirect	 ¶ Cette perspective d'un trop long procès n'était pas faite pour réjouir Maxime de Chalandrey, car ces misérables ne manqueraient pas de mettre en scène la pauvre comtesse, mais le sort en était jeté et il ne dépendait pas des amis de madame de Pommeuse d'empêcher que l'arrestation des deux chefs eût des suites.
+nondirect	 ¶ Maxime souhaitait qu'ils résistassent et qu'on les tuât sur place, mais il ne l'espérait pas.
+directspeech	 ¶ -- Du reste,
+directspeech	 reprit M. Pigache, alors même que les sept assassins du pavillon seraient rassemblés cette nuit chez Tévenec, nous sommes en force pour les mater.
+directspeech	 ¶ -- Comment comptez-vous entrer dans la villa ?
+nondirect	 demanda Chalandrey.
+directspeech	 Par escalade ?... ou en enfonçant la porte ?
+directspeech	... ou en enfonçant la porte ?
+directspeech	 ¶ -- Pas besoin. Le dénonciateur connaît le secret pour l'ouvrir... la chose se fera sans bruit. Et ce ne sera pas long. Quand j'aurai confronté Tévenec avec vous et avec la femme Crochard, je le ferai enlever par mes hommes... Maubert aussi... j'ai commandé une voiture cellulaire qui attend sur le chemin de ronde, près de la porte d'Arcueil et qui emmènera notre gibier au Dépôt de la Préfecture. ¶ » Dès que j'aurai emballé ces messieurs, je ne vous retiendrai plus, et il ne me restera qu'à vous remercier du concours que vous m'aurez prêté. ¶ » Mais nous approchons... et maintenant, le silence est de rigueur.
+directspeech	 Le dénonciateur connaît le secret pour l'ouvrir... la chose se fera sans bruit. Et ce ne sera pas long. Quand j'aurai confronté Tévenec avec vous et avec la femme Crochard, je le ferai enlever par mes hommes... Maubert aussi... j'ai commandé une voiture cellulaire qui attend sur le chemin de ronde, près de la porte d'Arcueil et qui emmènera notre gibier au Dépôt de la Préfecture. ¶ » Dès que j'aurai emballé ces messieurs, je ne vous retiendrai plus, et il ne me restera qu'à vous remercier du concours que vous m'aurez prêté. ¶ » Mais nous approchons... et maintenant, le silence est de rigueur.
+directspeech	 Et ce ne sera pas long. Quand j'aurai confronté Tévenec avec vous et avec la femme Crochard, je le ferai enlever par mes hommes... Maubert aussi... j'ai commandé une voiture cellulaire qui attend sur le chemin de ronde, près de la porte d'Arcueil et qui emmènera notre gibier au Dépôt de la Préfecture. ¶ » Dès que j'aurai emballé ces messieurs, je ne vous retiendrai plus, et il ne me restera qu'à vous remercier du concours que vous m'aurez prêté. ¶ » Mais nous approchons... et maintenant, le silence est de rigueur.
+directspeech	 Quand j'aurai confronté Tévenec avec vous et avec la femme Crochard, je le ferai enlever par mes hommes... Maubert aussi... j'ai commandé une voiture cellulaire qui attend sur le chemin de ronde, près de la porte d'Arcueil et qui emmènera notre gibier au Dépôt de la Préfecture. ¶ » Dès que j'aurai emballé ces messieurs, je ne vous retiendrai plus, et il ne me restera qu'à vous remercier du concours que vous m'aurez prêté. ¶ » Mais nous approchons... et maintenant, le silence est de rigueur.
+directspeech	 Dès que j'aurai emballé ces messieurs, je ne vous retiendrai plus, et il ne me restera qu'à vous remercier du concours que vous m'aurez prêté. ¶ » Mais nous approchons... et maintenant, le silence est de rigueur.
+directspeech	 Mais nous approchons... et maintenant, le silence est de rigueur.
+nondirect	 ¶ Chalandrey avait beau regarder devant lui, il ne voyait rien, tant la nuit était sombre.
+nondirect	 Il pleuvait très fort et le vent faisait rage, de sorte que la marche devenait de plus en plus pénible.
+directspeech	 ¶ -- Tout est éteint, c'est bon signe
+nondirect	, dit Pigache.
+directspeech	 ¶ -- Où donc est la maison ?
+nondirect	 interrogea Maxime.
+directspeech	 ¶ -- Au bas de la pente que nous descendons, depuis un instant. ¶ » Elle a été bâtie au fond d'une espèce de ravin qui coupe la plaine et on ne l'aperçoit que quand on a le nez dessus.
+directspeech	 Elle a été bâtie au fond d'une espèce de ravin qui coupe la plaine et on ne l'aperçoit que quand on a le nez dessus.
+nondirect	 ¶ Chalandrey finit par distinguer une masse noire qui tranchait sur les ténèbres et presque aussitôt il se heurta contre un agent de l'avant-garde qui revenait sur ses pas pour prendre les derniers ordres de son chef.
+nondirect	 ¶ La conférence fut courte.
+directspeech	 ¶ -- Avançons
+nondirect	, dit Pigache.
+directspeech	 Le gredin qui nous a guidés n'attend que nous pour entrer.
+nondirect	 ¶ Ils le trouvèrent, collé contre la grille de la villa où tout dormait sans doute, car on n'y voyait pas de lumière et on n'entendait aucun bruit.
+nondirect	 ¶ Le sous-chef de la sûreté prit ses dernières dispositions, après avoir interrogé Cabardos qui affirma que la maison était complètement cernée et que personne ne s'en échapperait en franchissant le mur du jardin, gardé par un cordon de sentinelles.
+nondirect	 ¶ L'arrièregarde ne tarda pas à rejoindre, et avec l'arrièregarde, Virginie Crochard que M. Pigache interpella en ces termes : ¶ 
+directspeech	-- J'aurai besoin de vous tout à l'heure, mais on va peut-être nous recevoir à coups de revolver et ce n'est pas la peine de vous exposer. Vous pouvez rester ici jusqu'à ce que je vous fasse appeler.
+directspeech	 Vous pouvez rester ici jusqu'à ce que je vous fasse appeler.
+directspeech	 ¶ -- En réserve, moi qui ai servi aux chasseurs d'Afrique ! jamais de la vie !
+directspeech	 jamais de la vie !
+directspeech	 s'écria la mère Caspienne. Je demande à entrer avec vous.
+directspeech	 Je demande à entrer avec vous.
+directspeech	 ¶ -- Soit ! à condition que vous vous tiendrez en arrière avec M. de Chalandrey. Je ne veux pas qu'on me détériore mes témoins. ¶ » C'est à moi à passer devant... à moi et à Cabardos.
+directspeech	 à condition que vous vous tiendrez en arrière avec M. de Chalandrey. Je ne veux pas qu'on me détériore mes témoins. ¶ » C'est à moi à passer devant... à moi et à Cabardos.
+directspeech	 Je ne veux pas qu'on me détériore mes témoins. ¶ » C'est à moi à passer devant... à moi et à Cabardos.
+directspeech	 C'est à moi à passer devant... à moi et à Cabardos.
+directspeech	 ¶ Puis, s'adressant au dénonciateur, serré de près par deux agents, Pigache reprit : ¶ -- Êtes-vous prêt à marcher ?
+directspeech	 ¶ -- Quand il vous plaira
+nondirect	, répondit le traître.
+directspeech	 Laissez-moi seulement chercher la serrure. J'ai ce qu'il faut pour l'ouvrir.
+directspeech	 J'ai ce qu'il faut pour l'ouvrir.
+nondirect	 ¶ En même temps, il tirait de sa poche une petite clé.
+nondirect	 Le sous-chef de la sûreté fit un signe à ses agents qui s'écartèrent, et l'ex-employé de Tévenec se mit à tâter la grille, jusqu'à ce qu'il eût trouvé le trou de cette serrure, cachée à la base d'un des barreaux.
+nondirect	 ¶ Il y introduisit doucement sa clé, et la lourde porte de fer tourna sans bruit sur ses gonds, huilés par ordre du propriétaire qui tenait à sortir et à rentrer sans qu'on l'entendît.
+nondirect	 ¶ Pigache, comme il l'avait annoncé, passa bravement le premier.
+nondirect	 Cabardos vint ensuite et fit entrer les autres ; Chalandrey et la cantinière, les derniers.
+nondirect	 ¶ Sept hommes en tout, dont quatre agents bien armés.
+nondirect	 ¶ La maison se présentait de flanc, à dix pas de la grille dont elle était séparée par une allée.
+nondirect	 ¶ Au rez-de-chaussée, deux portes-fenêtres, garnies de persiennes et s'ouvrant au ras du sol.
+nondirect	 ¶ À travers la claire-voie des persiennes fermées filtrait une lueur.
+directspeech	 ¶ -- Ils sont là
+directspeech	, dit tout bas le dénonciateur, et si vous voulez me laisser faire, Tévenec va ouvrir. Il reconnaîtra ma manière de frapper. ¶ » Rangez-vous le long du mur avec votre monde, et dès que Tévenec se montrera, sautez sur lui. Il faut le prendre avant qu'il ait le temps de se reconnaître. Après, on verra.
+directspeech	 Il reconnaîtra ma manière de frapper. ¶ » Rangez-vous le long du mur avec votre monde, et dès que Tévenec se montrera, sautez sur lui. Il faut le prendre avant qu'il ait le temps de se reconnaître. Après, on verra.
+directspeech	 Rangez-vous le long du mur avec votre monde, et dès que Tévenec se montrera, sautez sur lui. Il faut le prendre avant qu'il ait le temps de se reconnaître. Après, on verra.
+directspeech	 Il faut le prendre avant qu'il ait le temps de se reconnaître. Après, on verra.
+directspeech	 Après, on verra.
+nondirect	 ¶ Pigache adopta ce plan sans hésiter.
+nondirect	 Il plaça lui-même ses hommes, deux de chaque côté de la porte-fenêtre la plus rapprochée, Maxime et la mère Caspienne, toujours en serre-file ; puis, il revint avec Cabardos prendre position derrière son auxiliaire et il lui souffla : ¶ 
+directspeech	-- Allez, maintenant !
+nondirect	 ¶ Le traître s'approcha de la persienne et frappa, avec sa clé, trois coups espacés d'une certaine façon : deux, un et deux.
+nondirect	 ¶ Un bruit de fauteuils remués répondit de l'intérieur à ce signal ; une ombre se dessina derrière la claire-voie, et presque aussitôt, on ouvrit.
+nondirect	 ¶ C'était bien Tévenec.
+nondirect	 ¶ Pigache et Cabardos se précipitèrent, le saisirent au collet et le maintinrent, pendant que les quatre agents arrivaient à la rescousse, revolver au poing.
+nondirect	 ¶ Judas, qui l'avait vendu, ne se montra point, Maxime et Virginie non plus.
+nondirect	 ¶ Tout cela était convenu avec le sous-chef de la sûreté.
+nondirect	 ¶ Tévenec recula en se débattant et alla tomber assis dans un fauteuil, devant une table sur laquelle étaient étalés des papiers et plusieurs gros paquets de billets de la Banque de France.
+nondirect	 ¶ Deux lampes à abat-jour éclairaient la scène, posées sur la table qui n'était pas loin de la porte-fenêtre, et donnaient une lumière que les envahisseurs auraient pu apercevoir du dehors à travers les persiennes fermées, mais le salon était très grand et le fond de ce salon se trouvait dans l'ombre.
+nondirect	 ¶ Un homme s'y était réfugié, un homme que Pigache fut le premier à apercevoir et à reconnaître.
+nondirect	 ¶ Pigache alla droit à lui en disant : ¶ 
+directspeech	-- Bonsoir, M. Maubert ! approchez-vous donc, je vous prie. J'ai à causer d'affaires avec votre ami qui est là et vous ne serez pas de trop.
+directspeech	 approchez-vous donc, je vous prie. J'ai à causer d'affaires avec votre ami qui est là et vous ne serez pas de trop.
+directspeech	 J'ai à causer d'affaires avec votre ami qui est là et vous ne serez pas de trop.
+directspeech	 ¶ -- Je ne vous connais pas
+nondirect	, grommela Maubert.
+directspeech	 ¶ -- Vous m'avez cependant rencontré hier, au Palais de Justice, dans l'antichambre du cabinet de M. le juge d'instruction. Sans doute, vous ne m'aurez pas remarqué. Mais, moi, je vous connais parfaitement... et je savais que je vous trouverais ici, cette nuit.
+directspeech	 Sans doute, vous ne m'aurez pas remarqué. Mais, moi, je vous connais parfaitement... et je savais que je vous trouverais ici, cette nuit.
+directspeech	 Mais, moi, je vous connais parfaitement... et je savais que je vous trouverais ici, cette nuit.
+directspeech	 ¶ -- Trêve de railleries !... que me voulez-vous ?
+directspeech	... que me voulez-vous ?
+directspeech	 ¶ -- Vous devez vous en douter, mais je vais vous le dire. ¶ » Je suis porteur d'un mandat d'amener contre vous et je viens le mettre à exécution. ¶ » Vous vous rendez, n'est-ce pas ?... Je serais désolé d'être obligé d'employer la force. Je vous préviens seulement que j'ai beaucoup de monde avec moi et que la maison est cernée. ¶ » Je vous invite donc à ne pas chercher la porte... vous n'iriez pas loin... et à vous asseoir, comme l'a fait monsieur qui me paraît comprendre mieux que vous la situation.
+directspeech	 Je suis porteur d'un mandat d'amener contre vous et je viens le mettre à exécution. ¶ » Vous vous rendez, n'est-ce pas ?... Je serais désolé d'être obligé d'employer la force. Je vous préviens seulement que j'ai beaucoup de monde avec moi et que la maison est cernée. ¶ » Je vous invite donc à ne pas chercher la porte... vous n'iriez pas loin... et à vous asseoir, comme l'a fait monsieur qui me paraît comprendre mieux que vous la situation.
+directspeech	 Vous vous rendez, n'est-ce pas ?... Je serais désolé d'être obligé d'employer la force. Je vous préviens seulement que j'ai beaucoup de monde avec moi et que la maison est cernée. ¶ » Je vous invite donc à ne pas chercher la porte... vous n'iriez pas loin... et à vous asseoir, comme l'a fait monsieur qui me paraît comprendre mieux que vous la situation.
+directspeech	... Je serais désolé d'être obligé d'employer la force. Je vous préviens seulement que j'ai beaucoup de monde avec moi et que la maison est cernée. ¶ » Je vous invite donc à ne pas chercher la porte... vous n'iriez pas loin... et à vous asseoir, comme l'a fait monsieur qui me paraît comprendre mieux que vous la situation.
+directspeech	 Je vous préviens seulement que j'ai beaucoup de monde avec moi et que la maison est cernée. ¶ » Je vous invite donc à ne pas chercher la porte... vous n'iriez pas loin... et à vous asseoir, comme l'a fait monsieur qui me paraît comprendre mieux que vous la situation.
+directspeech	 Je vous invite donc à ne pas chercher la porte... vous n'iriez pas loin... et à vous asseoir, comme l'a fait monsieur qui me paraît comprendre mieux que vous la situation.
+nondirect	 ¶ Tévenec, en effet, semblait atterré.
+nondirect	 Il regardait alternativement les agents qui le tenaient en respect et les billets de banque étalés sur la table, ces billets qui représentaient sans doute sa part du fonds social des bandits et qu'il n'avait pas eu le temps d'empocher.
+nondirect	 ¶ Il n'essayait pas de résister, parce qu'il se sentait perdu.
+nondirect	 ¶ Maubert, au contraire, grinçait des dents comme un loup pris au piège et il avait l'air si menaçant que Cabardos se rapprocha, afin d'être à portée de secourir son chef.
+directspeech	 ¶ -- Ne me touchez pas !
+nondirect	 dit Maubert d'une voix rauque.
+directspeech	 De quoi suis-je accusé ?
+directspeech	 ¶ -- D'assassinat
+directspeech	, répliqua froidement Pigache, et de quelques autres crimes moins graves, qui ont précédé l'assassinat.
+directspeech	 ¶ -- C'est cette femme qui m'accuse, je suppose... cette folle qui me prend pour un autre.
+directspeech	 ¶ -- Madame de Pommeuse ? elle vous a reconnu devant le juge d'instruction, mais elle ne l'a pas revu depuis hier. Vous avez été dénoncé par un de vos complices... et celui-là, vous ne pourrez pas vous en défaire... nous ne sommes pas ici au pavillon du boulevard Bessières.
+directspeech	 elle vous a reconnu devant le juge d'instruction, mais elle ne l'a pas revu depuis hier. Vous avez été dénoncé par un de vos complices... et celui-là, vous ne pourrez pas vous en défaire... nous ne sommes pas ici au pavillon du boulevard Bessières.
+directspeech	 Vous avez été dénoncé par un de vos complices... et celui-là, vous ne pourrez pas vous en défaire... nous ne sommes pas ici au pavillon du boulevard Bessières.
+directspeech	 ¶ -- Mettez-moi donc en présence de cet homme. Je veux voir s'il aura l'audace de soutenir devant moi que je suis un assassin.
+directspeech	 Je veux voir s'il aura l'audace de soutenir devant moi que je suis un assassin.
+directspeech	 ¶ -- Je vous procurerai tout à l'heure cette satisfaction. Il faut d'abord que j'interroge monsieur et que je le mette à même de s'expliquer avec des personnes de sa connaissance. ¶ » Prenez patience. Votre tour viendra.
+directspeech	 Il faut d'abord que j'interroge monsieur et que je le mette à même de s'expliquer avec des personnes de sa connaissance. ¶ » Prenez patience. Votre tour viendra.
+directspeech	 Prenez patience. Votre tour viendra.
+directspeech	 Votre tour viendra.
+directspeech	 ¶ -- J'y compte et j'attends
+nondirect	, dit Maubert, en prenant un air de défi qui n'intimida pas du tout M. Pigache.
+nondirect	 ¶ Ce banquier scélérat était d'une autre trempe que le cauteleux Tévenec, et Pigache aurait dû commencer par le faire empoigner pour le mettre dans l'impossibilité de nuire.
+nondirect	 ¶ Mais le sous-chef de la sûreté, par une sorte de coquetterie professionnelle, tenait à ne pas laisser voir qu'il se préoccupait de l'attitude de ce bandit et à en finir avec l'autre coquin, plus retors et moins redoutable.
+nondirect	 ¶ Il lui suffisait que Maubert ne pût pas fuir et que Cabardos ne le perdît pas de vue.
+nondirect	 ¶ Il revint donc à l'associé, toujours affaissé dans le fauteuil où il l'avait poussé.
+directspeech	 ¶ -- Vous êtes bien le propriétaire de cette villa
+directspeech	, lui dit-il ; et vous vous appelez Tévenec.
+nondirect	 ¶ Pigache n'obtint pour toute réponse qu'un signe équivoque.
+directspeech	 ¶ -- Vous avez été l'ami de feu M. Grelin et après sa mort, vous avez administré la fortune de sa fille...
+directspeech	 ¶ -- Non... ce n'est pas vrai
+nondirect	, murmura Tévenec.
+directspeech	 ¶ -- Vous fréquentiez du moins son salon. Il y a ici quelqu'un qui vous y a vu souvent.
+directspeech	 Il y a ici quelqu'un qui vous y a vu souvent.
+directspeech	 ¶ -- Je ne m'occupais pas de ses affaires.
+directspeech	 ¶ -- Vous vous occupiez, du moins, de celle de l'association fondée par son père... cette association qui avait son siège principal, boulevard Bessières... dans un pavillon, où, dernièrement, on a étranglé un homme.
+directspeech	 ¶ -- Je n'y étais pas.
+directspeech	 ¶ -- Le jour du crime, non. Mais, vous gériez les immeubles qui en dépendent.
+directspeech	 Mais, vous gériez les immeubles qui en dépendent.
+directspeech	 ¶ -- C'est faux.
+directspeech	 ¶ -- Direz-vous que c'est faux à la femme Crochard qui vous payait son terme tous les trois mois ? ¶ » Elle est ici, la femme Crochard. Voulez-vous que je l'appelle ?
+directspeech	 Elle est ici, la femme Crochard. Voulez-vous que je l'appelle ?
+directspeech	 Voulez-vous que je l'appelle ?
+nondirect	 ¶ Tévenec baissa la tête et se tut.
+directspeech	 ¶ -- Je crois que c'est inutile
+nondirect	, reprit en haussant les épaules, le sous-chef de la sûreté.
+directspeech	 Vous la verrez demain chez le juge d'instruction et, cette nuit, je n'ai pas de temps à perdre. Mais, dites-moi... vous étiez en train de régler vos comptes, quand je suis arrivé...
+directspeech	 Mais, dites-moi... vous étiez en train de régler vos comptes, quand je suis arrivé...
+directspeech	 ¶ -- Cet argent est à moi !
+nondirect	 s'écria Tévenec, atteint à l'endroit sensible.
+directspeech	 ¶ -- Qu'il soit à vous ou à M. Maubert, il importe de le mettre en lieu sûr. Levez le tapis de cette table, vous autres, commanda Pigache aux deux agents qui n'étaient pas occupés à surveiller Tévenec ; levez-le avec tout ce qu'il y a dessus et nouez-le par les quatre coins pour en faire un sac... dont je vous confie la garde, brigadier Cabardos.
+directspeech	 Levez le tapis de cette table, vous autres, commanda Pigache aux deux agents qui n'étaient pas occupés à surveiller Tévenec ; levez-le avec tout ce qu'il y a dessus et nouez-le par les quatre coins pour en faire un sac... dont je vous confie la garde, brigadier Cabardos.
+nondirect	 ¶ L'ordre fut exécuté et son exécution arracha un gémissement à Tévenec.
+nondirect	 ¶ Maubert ne bougea point, mais ses yeux lançaient des éclairs.
+directspeech	 ¶ -- Je suis à vous, maintenant
+nondirect	, lui dit Pigache, sans s'émouvoir.
+directspeech	 Vous m'avez demandé tout à l'heure de vous mettre face à face avec l'individu qui vous a dénoncé. ¶ » Y tenez-vous toujours ?
+directspeech	 Y tenez-vous toujours ?
+directspeech	 ¶ -- Je l'exige
+nondirect	, répliqua Maubert.
+directspeech	 ¶ -- Vous n'êtes pas en situation d'exiger, mais il me plaît de vous confronter avec cet homme.
+nondirect	 ¶ Ayant dit, M. Pigache revint à la porte-fenêtre, qui était restée ouverte, avança la tête au dehors, et appela le traître par son nom.
+nondirect	 ¶ Pigache n'avait plus de ménagements à garder vis-à-vis de personne, et Chalandrey, qui n'était pas loin, se rappela avoir entendu prononcer ce nom au cercle.
+nondirect	 ¶ Celui qui le portait ne se fit pas prier pour entrer dans le salon.
+nondirect	 Il avait voué une haine féroce à ses complices et il lui tardait de jouir du spectacle de leur confusion.
+nondirect	 ¶ Il ne vit d'abord que Tévenec et il allait l'aborder, mais Pigache lui cria : ¶ 
+directspeech	-- Laissez votre ancien patron en repos et venez vous expliquer avec M. Maubert, qui prétend que vous l'avez dénoncé à faux.
+directspeech	 ¶ Le drôle fit aussitôt volte-face et vint se camper en face du banquier, en lui disant : ¶ -- Ah ! vous avez de l'aplomb, vous ! Avouez donc et nommez les autres... les six qui vous ont aidé dans le pavillon... ça vaudra mieux pour vous que de nier bêtement. Vous rendrez service à la société et on vous en tiendra compte. Quand vous passerez aux assises, le jury vous accordera peut-être les circonstances atténuantes.
+directspeech	 vous avez de l'aplomb, vous ! Avouez donc et nommez les autres... les six qui vous ont aidé dans le pavillon... ça vaudra mieux pour vous que de nier bêtement. Vous rendrez service à la société et on vous en tiendra compte. Quand vous passerez aux assises, le jury vous accordera peut-être les circonstances atténuantes.
+directspeech	 Avouez donc et nommez les autres... les six qui vous ont aidé dans le pavillon... ça vaudra mieux pour vous que de nier bêtement. Vous rendrez service à la société et on vous en tiendra compte. Quand vous passerez aux assises, le jury vous accordera peut-être les circonstances atténuantes.
+directspeech	 Vous rendrez service à la société et on vous en tiendra compte. Quand vous passerez aux assises, le jury vous accordera peut-être les circonstances atténuantes.
+directspeech	 Quand vous passerez aux assises, le jury vous accordera peut-être les circonstances atténuantes.
+directspeech	 ¶ -- Je te les refuse, Judas !
+nondirect	 cria Maubert en tirant de sa poche un revolver tout armé.
+nondirect	 ¶ Le coup partit et le traître, frappé au milieu du front, tomba raide mort.
+nondirect	 ¶ Cabardos se jeta sur le meurtrier, au risque de recevoir une balle ; mais, d'un geste plus prompt que la pensée, Maubert retourna son arme contre lui-même et se fit sauter la cervelle.
+directspeech	 ¶ -- Deux scélérats de moins
+nondirect	, dit froidement Pigache.
+nondirect	 ¶ Ce fut leur seule oraison funèbre.
+nondirect	 ¶ Les agents et Cabardos en avaient vu bien d'autres.
+nondirect	 ¶ Tévenec ne pouvait que se réjouir d'être débarrassé d'un complice qui l'avait dénoncé et d'un autre complice qui ne se serait pas privé de le charger devant les juges.
+nondirect	 ¶ Il ne les plaignait pas et il les regrettait encore moins.
+nondirect	 ¶ Quant à Pigache, qui ne les plaignait pas non plus, il aurait préféré un autre dénouement et il se reprochait de ne pas avoir commencé par faire lier et fouiller ce Maubert qu'il croyait incapable d'une résolution énergique.
+nondirect	 ¶ En se chargeant de diriger l'expédition, Pigache comptait bien ramener vivants les deux chefs de la bande, mais il ne lui restait que Tévenec.
+nondirect	 ¶ Mais Tévenec payerait pour les autres, quoiqu'il n'eût pas pris part à l'assassinat du boulevard Bessières, et quoique le dénonciateur ne fût plus là pour l'accuser.
+nondirect	 ¶ Il ne s'agissait plus que de mettre en lieu sûr le Persécuteur de madame de Pommeuse, et ce n'était pas difficile, car il ne songeait guère à se défendre.
+nondirect	 ¶ Au bruit des coups de pistolet, accoururent Chalandrey, Virginie Crochard et tous les agents que Pigache avait laissés dehors.
+nondirect	 ¶ Ceux-là arrivaient trop tard, comme les carabiniers de l'opérette, et ils n'avaient plus qu'à attendre les ordres de leur chef, qui ne se pressait pas de leur en donner.
+nondirect	 ¶ La mère Caspienne, sans se préoccuper des morts, alla droit à Tévenec en lui montrant le poing et se mit à l'injurier avec tant de virulence que Pigache dut la faire taire, au lieu de lui poser des questions inutiles.
+nondirect	 ¶ Ses gestes et ses objurgations disaient assez qu'elle avait reconnu du premier coup d'œil l'homme qui touchait les loyers du cabaret de la cité du Bastion.
+nondirect	 ¶ Chalandrey n'eut pas besoin d'interroger le sous-chef de la sûreté.
+nondirect	 Il comprit tout de suite ce qui venait de se passer et il ne s'affligea pas de la disparition de ces sinistres drôles dont la comtesse aurait eu tout à craindre, s'ils avaient vécu.
+nondirect	 ¶ Maubert l'aurait accusée d'avoir mis la main à l'assassinat, et le dénonciateur aurait probablement essayé de la faire ¶ chanter.
+nondirect	 ¶ Chalandrey se surprit même à regretter que Maubert, avant de se casser la tête, n'eût pas logé dans la cervelle de Tévenec une balle de son revolver à six coups, dont il venait de faire un si louable usage.
+nondirect	 ¶ Tévenec, qui survivait, était presque aussi dangereux que les deux morts pour madame de Pommeuse.
+nondirect	 ¶ Pigache ne laissa pas au neveu du commandant le temps de réfléchir sur place aux conséquences possibles de ce nouveau drame.
+nondirect	 ¶ Pigache le congédia en lui donnant rendez-vous pour le lendemain dans le cabinet du juge d'instruction, et Chalandrey ne se fit pas prier pour partir avec Virginie Crochard, autorisée aussi à se retirer, aux mêmes conditions que lui... ¶ Deux heures après, la brigade rentrait à la préfecture de police, amenant un prisonnier et deux cadavres.
+nondirect	 ¶ C'était le dernier acte d'une tragédie à laquelle manquait l'unité de lieu, puisqu'elle finissait dans la plaine de Montrouge, après avoir commencée près de la porte de Clichy.
